@@ -448,7 +448,7 @@ public:
         if (vitrix(x) -> energy < 0) energyduong = true;
         while (energyduong != daudangxet(temp -> energy) || temp -> next == vitrix(x)){
             if (daudangxet(temp -> energy) == daudangxet){
-                
+                cout << "Hello";
             }
         }
     }
