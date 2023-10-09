@@ -398,62 +398,44 @@ public:
         }
         return temp;
     }
-    /*customer*daonguoc(customer*vitri){
-        if (vitri == NULL || vitri -> next == vitri -> prev) return vitri;
-        if (energyduong == false){
-            if (vitri -> prev -> energy < 0){
-                vitri = vitri -> prev;
-                daonguoc(vitri -> prev);
-            }
-            else{
-                customer * temp = daonguoc(vitri -> prev);
-                vitri -> prev -> prev = vitri;
-                vitri -> prev = vitri -> next;
-                return temp;
-            }
-        }
-        else{
-            if (vitri -> prev -> energy < 0){
-                customer * temp = daonguoc(vitri -> prev);
-                vitri -> prev -> prev = vitri;
-                vitri -> prev = vitri -> next;
-                return temp;
-            }
-            else{
-                vitri = vitri -> prev;
-            }
-        }
 
-    }*/
     bool daudangxet(int energy){
         if (energy < 0) return false;
         return true;
     }
+    void daonguoc(customer*vitri){
+        customer*temp1 = vitrix(x);
+        customer*temp2 = temp1 -> next;
+        while(temp2 -> next != temp1 -> next || temp2 -> next != temp1){
+            bool p = daudangxet(temp1 -> energy);
+            bool q = daudangxet(temp2 -> energy);
+            if (p == daudangxet(vitrix(x) -> energy) && q == daudangxet(vitrix(x) -> energy)){
+                swap(temp1 -> energy, temp2 -> energy);
+                swap(temp1 -> name, temp2 -> name);
+                temp1 = temp1 -> prev;
+                temp2 = temp2 -> next;
+            }
+            else if (p != daudangxet(vitrix(x) -> energy) && q != daudangxet(vitrix(x) -> energy)){
+                temp1 = temp1 -> prev;
+                temp2 = temp2 -> next;
+            }
+            else if (p == daudangxet(vitrix(x) -> energy) && q != daudangxet(vitrix(x) -> energy)){
+                temp2 = temp2 -> next;
+            }
+            else{
+                temp1 = temp1 -> prev;
+            }
+        }
+    }
     void REVERSAL()
     {
         //cout << "reversal" << endl;
-        /*customer* vitri = vitrix(x);
-        if (vitri -> energy < 0) energyduong = true;
-        daonguoc(vitri);
-        while(vitri -> prev != vitrix(x)){
-            vitri = vitri -> prev;
-            if ((energyduong = false && vitri -> energy < 0) || (energyduong = false && vitri -> energy < 0)){}
-            else{
-                return;
-            }
+        customer*temp = vitrix(x);
+        while (daudangxet(temp -> prev -> energy) == daudangxet(vitrix(x) -> energy)){
+            temp = temp -> prev;
         }
-        daonguoc(vitri);*/
-        customer* temp = vitrix(x) -> prev;
-        bool energyx = daudangxet(vitrix(x) -> energy);
-        if (vitrix(x) -> energy < 0) energyx = true;
-        while (energyx != daudangxet(temp -> energy) || temp -> prev == vitrix(x)){
-            if (daudangxet(temp -> energy) == energyx){
-                customer*p=temp;
-                while (p -> prev != vitrix(x)){
-
-                }
-            }
-        }
+        daonguoc(vitrix(x));
+        daonguoc(temp -> prev);
     }
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////
     void UNLIMITED_VOID()
