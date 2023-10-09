@@ -142,7 +142,7 @@ int main(int argc, char* argv[]) {
     string folder_solution_you = "test/solution_you/output";
     {
         int start = 301;
-        int end = 301;
+        int end = 310;
 
         if(argc == 2){
             argc = 1;
