@@ -457,9 +457,34 @@ public:
         doichieu = !doichieu;
     }
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    int tong(customer*x, int k){
+        customer * p = x;
+        int s = x -> energy;
+        for (int i = 1; i <= k; i++){
+            p = p -> next;
+            s = s + p -> energy;
+        }
+        return s;
+    }
     void UNLIMITED_VOID()
     {
         //cout << "unlimited_void" << endl;
+        int nhonhat = tong(head,4);
+        customer*q = head;
+        int temp = 0;
+        for (customer*p = head; p -> next != head; p = p -> next){
+            for (int i = 4; i <= sokhachban; i++){
+                if (tong(p,i) <= nhonhat){
+                    nhonhat = tong(p,i);
+                    temp = i;
+                    q=p;
+                }
+            }
+        }
+        for(customer*p = q; temp>=1;temp--){
+            p -> print();
+            p = p -> next;
+        }
     }
     /////////////////////////////////////////////////////////////////////////////////////////////
     void DOMAIN_EXPANSION()
