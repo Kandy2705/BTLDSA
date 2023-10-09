@@ -444,11 +444,14 @@ public:
         }
         daonguoc(vitri);*/
         customer* temp = vitrix(x) -> prev;
-        bool energyduong = daudangxet(vitrix(x) -> energy);
-        if (vitrix(x) -> energy < 0) energyduong = true;
-        while (energyduong != daudangxet(temp -> energy) || temp -> next == vitrix(x)){
-            if (daudangxet(temp -> energy) == daudangxet){
-                cout << "Hello";
+        bool energyx = daudangxet(vitrix(x) -> energy);
+        if (vitrix(x) -> energy < 0) energyx = true;
+        while (energyx != daudangxet(temp -> energy) || temp -> prev == vitrix(x)){
+            if (daudangxet(temp -> energy) == energyx){
+                customer*p=temp;
+                while (p -> prev != vitrix(x)){
+
+                }
             }
         }
     }
