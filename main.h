@@ -8,6 +8,7 @@
 using namespace std;
 ofstream solution;
 int MAXSIZE;
+int line = 1;
 class Restaurant {
 
 public:

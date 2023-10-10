@@ -38,6 +38,9 @@ void simulate(string filename, imp_res* r)
         }
         else if(str == "REVERSAL") // REVERSAL
         {
+            if (line == 4) {
+                cout << "HELLO";
+            }
             r->REVERSAL();
         }
         else if(str == "UNLIMITED_VOID") // UNLIMITED_VOID
@@ -57,6 +60,7 @@ void simulate(string filename, imp_res* r)
             r->LIGHT(stoi(num));
         }
         i++;
+        line++;
     }
 }
 
@@ -141,8 +145,8 @@ int main(int argc, char* argv[]) {
     string folder_input = "test/input/input";
     string folder_solution_you = "test/solution_you/output";
     {
-        int start = 301;
-        int end = 310;
+        int start = 308;
+        int end = 308;
 
         if(argc == 2){
             argc = 1;
