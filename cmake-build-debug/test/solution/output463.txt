@@ -19,6 +19,8 @@ de-8
 nu-1
 jf--1
 UNLIMITED_VOID line 37
+vf--10
+wo--10
 bs--9
 nu-1
 jf--1
@@ -29,8 +31,6 @@ so-1
 tx--7
 js-1
 df--4
-vf--10
-wo--10
 LIGHT 9 line 38
 wo--10
 jn-9
@@ -48,23 +48,17 @@ js-1
 df--4
 vf--10
 UNLIMITED_VOID line 43
-bs--9
-qu--3
-as--8
-gw--3
-ld--1
-so-1
 vf--10
 sw-4
 wo--10
 fc--8
-UNLIMITED_VOID line 50
 bs--9
 qu--3
 as--8
 gw--3
 ld--1
 so-1
+UNLIMITED_VOID line 50
 vf--10
 co-4
 sw-4
@@ -73,6 +67,12 @@ fc--8
 pn--7
 kf--10
 fl--1
+bs--9
+qu--3
+as--8
+gw--3
+ld--1
+so-1
 LIGHT 3 line 51
 co-4
 sw-4
@@ -92,12 +92,6 @@ ld--1
 so-1
 vf--10
 UNLIMITED_VOID line 55
-bs--9
-qu--3
-as--8
-gw--3
-ld--1
-so-1
 vf--10
 be-4
 co-4
@@ -109,6 +103,12 @@ pn--7
 kf--10
 fl--1
 ju--7
+bs--9
+qu--3
+as--8
+gw--3
+ld--1
+so-1
 LIGHT 4 line 56
 tl-4
 fc--8
@@ -152,12 +152,6 @@ kf--10
 pn--7
 fc--8
 UNLIMITED_VOID line 59
-bs--9
-qu--3
-as--8
-gw--3
-ld--1
-so-1
 vf--10
 be-4
 co-4
@@ -169,13 +163,13 @@ pn--7
 kf--10
 fl--1
 ju--7
+bs--9
+qu--3
+as--8
+gw--3
+ld--1
+so-1
 UNLIMITED_VOID line 60
-bs--9
-qu--3
-as--8
-gw--3
-ld--1
-so-1
 vf--10
 be-4
 co-4
@@ -187,13 +181,13 @@ pn--7
 kf--10
 fl--1
 ju--7
+bs--9
+qu--3
+as--8
+gw--3
+ld--1
+so-1
 UNLIMITED_VOID line 62
-bs--9
-qu--3
-as--8
-gw--3
-ld--1
-so-1
 vf--10
 be-4
 co-4
@@ -205,13 +199,13 @@ pn--7
 kf--10
 fl--1
 ju--7
+bs--9
+qu--3
+as--8
+gw--3
+ld--1
+so-1
 UNLIMITED_VOID line 63
-bs--9
-qu--3
-as--8
-gw--3
-ld--1
-so-1
 vf--10
 be-4
 co-4
@@ -223,13 +217,13 @@ pn--7
 kf--10
 fl--1
 ju--7
+bs--9
+qu--3
+as--8
+gw--3
+ld--1
+so-1
 UNLIMITED_VOID line 65
-bs--9
-qu--3
-as--8
-gw--3
-ld--1
-so-1
 vf--10
 be-4
 co-4
@@ -241,6 +235,12 @@ pn--7
 kf--10
 fl--1
 ju--7
+bs--9
+qu--3
+as--8
+gw--3
+ld--1
+so-1
 LIGHT 7 line 67
 ut-7
 fl--1
@@ -306,7 +306,6 @@ pn--7
 hp--3
 tn--3
 UNLIMITED_VOID line 80
-oy--4
 gy--9
 be-4
 vp--3
@@ -314,8 +313,8 @@ ju--7
 hp--3
 tn--3
 gz--8
+oy--4
 UNLIMITED_VOID line 82
-oy--4
 gy--9
 pn-9
 be-4
@@ -324,8 +323,8 @@ ju--7
 hp--3
 tn--3
 gz--8
+oy--4
 UNLIMITED_VOID line 83
-oy--4
 gy--9
 pn-9
 be-4
@@ -334,8 +333,8 @@ ju--7
 hp--3
 tn--3
 gz--8
+oy--4
 UNLIMITED_VOID line 84
-oy--4
 gy--9
 pn-9
 be-4
@@ -344,6 +343,7 @@ ju--7
 hp--3
 tn--3
 gz--8
+oy--4
 LIGHT -1 line 101
 zb--2
 hq--10

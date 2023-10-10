@@ -40,8 +40,6 @@ en-1
 LIGHT -2 line 34
 cx--10
 ei--8
-ci--10
-ti--1
 zs--7
 kr--7
 ys--3
@@ -49,6 +47,8 @@ og--6
 vc--6
 jc--7
 vf--1
+ci--10
+ti--1
 DOMAIN_EXPANSION line 35
 LIGHT -6 line 46
 iz--1
@@ -58,10 +58,6 @@ wq--10
 qc-6
 cx--10
 ei--8
-ma-1
-lw-5
-ci--10
-ti--1
 zs--7
 kr--7
 ys--3
@@ -69,6 +65,10 @@ og--6
 vc--6
 jc--7
 vf--1
+ma-1
+lw-5
+ci--10
+ti--1
 ga-8
 LIGHT -7 line 48
 iz--1
@@ -78,10 +78,6 @@ wq--10
 qc-6
 cx--10
 ei--8
-ma-1
-lw-5
-ci--10
-ti--1
 zs--7
 kr--7
 ys--3
@@ -89,6 +85,10 @@ og--6
 vc--6
 jc--7
 vf--1
+ma-1
+lw-5
+ci--10
+ti--1
 ga-8
 LIGHT -7 line 49
 iz--1
@@ -98,10 +98,6 @@ wq--10
 qc-6
 cx--10
 ei--8
-ma-1
-lw-5
-ci--10
-ti--1
 zs--7
 kr--7
 ys--3
@@ -109,6 +105,10 @@ og--6
 vc--6
 jc--7
 vf--1
+ma-1
+lw-5
+ci--10
+ti--1
 ga-8
 DOMAIN_EXPANSION line 54
 sp-8
@@ -129,7 +129,6 @@ qh-4
 DOMAIN_EXPANSION line 65
 LIGHT 3 line 66
 gi--6
-iz--1
 vf--1
 jc--7
 vc--6
@@ -137,30 +136,32 @@ og--6
 ys--3
 kr--7
 zs--7
-ti--1
-ci--10
-ky--3
 ei--8
 cx--10
 wq--10
 ry--8
 hx--8
+iz--1
 wo--7
 ip--7
+ti--1
+ci--10
+ky--3
 DOMAIN_EXPANSION line 70
 wa-6
 LIGHT -3 line 71
 gi--6
+ky--3
+ci--10
+ti--1
 ip--7
 wo--7
+iz--1
 hx--8
 ry--8
 wq--10
 cx--10
 ei--8
-ky--3
-ci--10
-ti--1
 zs--7
 kr--7
 ys--3
@@ -168,4 +169,3 @@ og--6
 vc--6
 jc--7
 vf--1
-iz--1

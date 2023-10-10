@@ -3,18 +3,18 @@ LIGHT -6 line 7
 zw--4
 UNLIMITED_VOID line 9
 UNLIMITED_VOID line 12
-zw--4
 fd--6
 mt-6
 rp-7
+zw--4
 UNLIMITED_VOID line 19
 UNLIMITED_VOID line 26
-lq--9
-pb--9
 ol--10
 io--6
 lt--4
 vo--9
+lq--9
+pb--9
 LIGHT 5 line 33
 nk--6
 kt-2
@@ -25,16 +25,14 @@ lt--4
 io--6
 ze-6
 UNLIMITED_VOID line 34
-vo--9
 du--10
 lt--4
 io--6
 ze-6
 nk--6
+vo--9
 LIGHT -8 line 38
 wp--10
-nk--6
-ze-6
 io--6
 lt--4
 du--10
@@ -43,25 +41,27 @@ ss-5
 kt-2
 ew--5
 yk--8
+nk--6
+ze-6
 UNLIMITED_VOID line 39
-vo--9
 du--10
 lt--4
 io--6
+wp--10
 ze-6
 nk--6
-wp--10
 yk--8
 ew--5
+vo--9
 LIGHT 2 line 41
 nk--6
-wp--10
 yk--8
 ew--5
 kt-2
 ss-5
 vo--9
 du--10
+wp--10
 UNLIMITED_VOID line 47
 LIGHT -10 line 51
 kn--7
@@ -75,10 +75,10 @@ kn--7
 tx--7
 oy-5
 UNLIMITED_VOID line 67
-dp--2
-wd--3
 tg--10
 md--9
+dp--2
+wd--3
 LIGHT 8 line 68
 dz-5
 dp--2
@@ -86,10 +86,10 @@ wd--3
 tg--10
 md--9
 UNLIMITED_VOID line 69
-dp--2
-wd--3
 tg--10
 md--9
+dp--2
+wd--3
 LIGHT 7 line 73
 yy-4
 ja-5
@@ -100,72 +100,70 @@ md--9
 dz-5
 xy--9
 UNLIMITED_VOID line 78
-xy--9
-os--6
-do--1
-fj--1
-yy-4
-th--7
-ja-5
-dp--2
-wd--3
 tg--10
+fj--1
 md--9
-LIGHT 3 line 81
-ra-3
-hh-7
-md--9
+th--7
 dz-5
 xy--9
 os--6
 do--1
+dp--2
+wd--3
+LIGHT 3 line 81
+ra-3
+hh-7
 fj--1
-yy-4
+md--9
 th--7
+dz-5
+xy--9
+os--6
+do--1
+yy-4
 ja-5
 dp--2
 wd--3
 tg--10
 UNLIMITED_VOID line 83
-md--9
-dz-5
-xy--9
-os--6
-do--1
-fj--1
-yy-4
-th--7
-ja-5
 tg--10
-UNLIMITED_VOID line 86
+fj--1
 md--9
+th--7
 dz-5
 xy--9
 os--6
 do--1
-fj--1
 yy-4
-th--7
 ja-5
+UNLIMITED_VOID line 86
 tg--10
 ra-3
 qb--6
 qm--10
-UNLIMITED_VOID line 89
+hh-7
+fj--1
 md--9
+th--7
 dz-5
 xy--9
 os--6
 do--1
-fj--1
-yy-4
-th--7
-ja-5
+UNLIMITED_VOID line 89
 tg--10
 ra-3
 qb--6
 qm--10
 sv--4
+fj--1
+md--9
+th--7
+dz-5
+xy--9
+os--6
+do--1
+yy-4
+ja-5
 LIGHT -8 line 90
 sv--4
 qm--10
@@ -173,72 +171,69 @@ qb--6
 ra-3
 tg--10
 ja-5
-th--7
 yy-4
-fj--1
 do--1
 os--6
 xy--9
 dz-5
+th--7
 md--9
+fj--1
 hh-7
 ka-7
 LIGHT 2 line 91
 sv--4
 ka-7
 hh-7
+fj--1
 md--9
+th--7
 dz-5
 xy--9
 os--6
 do--1
-fj--1
 yy-4
-th--7
 ja-5
 tg--10
 ra-3
 qb--6
 qm--10
 UNLIMITED_VOID line 99
-lh--2
+qm--10
+hs--1
 er--9
 hh-7
-sv--4
-qm--10
-zr-1
-yc-4
 qb--6
 tg--10
-hs--1
-ka-7
-th--7
-ra-3
-fj--1
-ja-5
-do--1
 os--6
+ja-5
 xy--9
+th--7
 md--9
+fj--1
+yy-4
+dz-5
+lh--2
+sv--4
 LIGHT -3 line 101
 zr-1
-qm--10
-sv--4
+tg--10
+qb--6
 hh-7
 er--9
+hs--1
+qm--10
+sv--4
 lh--2
 dz-5
 yy-4
-md--9
-xy--9
-os--6
-do--1
-ja-5
 fj--1
-ra-3
+md--9
 th--7
+xy--9
+ja-5
+os--6
+ra-3
 ka-7
-hs--1
-tg--10
-qb--6
+do--1
 yc-4

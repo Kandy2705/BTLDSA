@@ -8,7 +8,7 @@
 using namespace std;
 ofstream solution;
 int MAXSIZE;
-int line = 1;
+int COUNTDELETE = 0;
 class Restaurant {
 
 public:

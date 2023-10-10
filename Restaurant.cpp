@@ -187,7 +187,7 @@ public:
         if (trungten(name)) return;
         else {
             if (energy == 0) return;
-            if (sokhachban < (MAXSIZE / 2.0)) {
+            if (sokhachban < (MAXSIZE / 2)) {
                 if (sokhachban == 0) {
                     them(1, name, energy);
                     x = 1;
@@ -210,22 +210,28 @@ public:
             }
 /////////////////////////////////////////////////////////////////
             else {
-                List *l = NULL;
-                res(energy, l);
-                int vitri = vitrilonnhat(l);
-                Node *temp = l->dau;
-                for(int i = 1; i < vitri; i++){
-                    temp = temp -> tieptheo;
+                if (sokhachban == 0) {
+                    them(1, name, energy);
+                    x = 1;
                 }
-                if (temp->data >= 0) {
-                    int k = vitri + 1;
-                    them(k, name, energy);
-                    x = k;
-                } else {
-                    them(vitri, name, energy);
-                    x = vitri;
+                else {
+                    List *l = NULL;
+                    res(energy, l);
+                    int vitri = vitrilonnhat(l);
+                    Node *temp = l->dau;
+                    for (int i = 1; i < vitri; i++) {
+                        temp = temp->tieptheo;
+                    }
+                    if (temp->data >= 0) {
+                        int k = vitri + 1;
+                        them(k, name, energy);
+                        x = k;
+                    } else {
+                        them(vitri, name, energy);
+                        x = vitri;
+                    }
+                    themcuoi(name, energy);
                 }
-                themcuoi(name,energy);
             }
         }
 /////////////////////////////////////////////////////////////////
@@ -488,85 +494,144 @@ public:
         }
     }
     /////////////////////////////////////////////////////////////////////////////////////////////
-    bool sosanh(customer* p, customer* q){
+    bool sosanh(customer* p, customer* q) {
         int tongchuthuat = 0;
         int tongchulinh = 0;
-        if (p -> energy < 0){
-            tongchulinh = p -> energy;
-        }
-        else tongchuthuat = p -> energy;
-        for (customer*temp = p -> next; temp != head; temp = temp -> next){
-            if (temp -> energy < 0){
-                tongchulinh += temp -> energy;
+        if (p != NULL) {
+            if (p->energy < 0) {
+                tongchulinh = p->energy;
+            } else tongchuthuat = p->energy;
+            for (customer *temp = p->next; temp != head; temp = temp->next) {
+                if (temp->energy < 0) {
+                    tongchulinh += temp->energy;
+                } else tongchuthuat += temp->energy;
             }
-            else tongchuthuat += temp -> energy;
         }
-        if (q -> energy < 0){
-            tongchulinh += q -> energy;
-        }
-        else tongchuthuat += q -> energy;
-        for (customer*temp = q -> next; temp != head; temp = temp -> next){
-            if (temp -> energy < 0){
-                tongchulinh += temp -> energy;
+        if (q != NULL) {
+            if (q->energy < 0) {
+                tongchulinh += q->energy;
+            } else tongchuthuat += q->energy;
+            for (customer *temp = q->next; temp != head; temp = temp->next) {
+                if (temp->energy < 0) {
+                    tongchulinh += temp->energy;
+                } else tongchuthuat += temp->energy;
             }
-            else tongchuthuat += temp -> energy;
-        }
-        if (tongchuthuat >= abs(tongchulinh)){
-            return false;
-        }
-        return true;
-    }
-    /////////////////////////////////////////////////////////////////////////////////////////////
-    customer*xoakhoiban(customer*vitri){
-        if (vitri == head){
-
-        }
-        else if (vitri == tail){
-
+            if (tongchuthuat >= abs(tongchulinh)) {
+                return false;
+            }
+            return true;
         }
         else{
-
+            if (tongchuthuat >= abs(tongchulinh)) {
+                return false;
+            }
+            return false;
         }
     }
-    void xoatatca(bool x, customer* ttvaoban){
+    /////////////////////////////////////////////////////////////////////////////////////////////
+    void xoakhoiban(customer*vitri){
+        if (head == NULL && tail == NULL) return;
+        if (vitri -> name == head -> name){
+            head = head -> next;
+            delete vitri;
+            head -> prev = tail;
+            tail -> next = head;
+        }
+        else if (vitri -> name == tail -> name){
+            customer *tempcuoi = tail;
+            tail = tail -> prev;
+            delete tempcuoi;
+            head -> prev = tail;
+            tail -> next = head;
+        }
+        else{
+            vitri -> next -> prev = vitri -> prev;
+            vitri -> prev -> next = vitri -> next;
+            delete vitri;
+        }
+    }
+    int tragiatrix(customer*vitri){
+        if (timkiem(vitri -> name) -> name == head -> name || timkiem(vitri -> name) -> name == tail -> name) {
+            if (vitri->energy > 0) {
+                x = 1;
+            } else {
+                x = sokhachban - 1;
+            }
+        }
+        else{
+            customer*dautien = head;
+            for (int j = 1; vitri != dautien; j++){
+                dautien = dautien -> next;
+                x = j + 1;
+            }
+            if (vitri -> energy > 0){
+                x = x;
+            }
+            else{
+                x = x - 1;
+            }
+        }
+        return x;
+    }
+    void xoatatcakhachban(bool x, customer* ttvaoban){
         // tra head tail ttvaoban vaocuoi x
         customer * temp = ttvaoban;
-        int i = 1;
         if (daudangxet(temp -> energy) == x){
             temp -> print();
             //lam xoa khoi ban an
-            delete timkiem(temp -> name);
+            x = tragiatrix(timkiem(temp -> name));
+            xoakhoiban(timkiem(temp -> name));
             xoa(1);
-            x=i;
-            i++;
+            sokhachban --;
         }
         for (customer*giu = temp -> next; temp -> next != NULL; temp = temp -> next){
-            if (temp -> name == tail -> name){
-
-            }
-            else if (temp -> name == vaocuoi -> name){
-
-            }
-            else if (temp -> name == tail -> name && temp -> name == vaocuoi -> name){
-
-            }
-            else if (temp -> name == head -> name){
-
-            }
-            else{}
             if (daudangxet(temp -> energy) == x){
                 temp -> print();
-                delete timkiem(temp -> name);
-                customer * p = temp;
-                delete p;
+                x = tragiatrix(timkiem(temp -> name));
+                xoakhoiban(timkiem(temp -> name));
+                xoa(1);
+                sokhachban--;
             }
         }
     }
+    void xoatatcahangcho(bool x, customer* hangcho){
+        customer * temp = hangcho;
+        int i = 1;
+        if (daudangxet(temp -> energy) == x){
+            pop();
+        }
+        for (customer*giu = temp -> next; temp -> next != NULL; temp = temp -> next){
+            if (daudangxet(temp -> energy) == x){
+                customer*qp = hangcho;
+                for (int i = 2; i <= sokhachcho; i++){
+                    qp = qp -> next;
+                }
+                if (temp -> name == qp -> name){
+                    delete qp;
+                    qp -> next = NULL;
+                }
+                else{
+                    temp -> next -> prev = temp -> prev;
+                    temp -> prev -> next = temp -> next;
+                    delete temp;
+                }
+                sokhachcho--;
+            }
+        }
+    }
+
     void DOMAIN_EXPANSION()
     {
         //cout << "domain_expansion" << endl;
-        xoatatca(sosanh(head, hangcho), ttvaoban);
-        xoatatca(sosanh(head, hangcho), hangcho);
+        xoatatcakhachban(sosanh(head, hangcho), ttvaoban);
+        if (sokhachcho != 0) {
+            xoatatcahangcho(sosanh(head, hangcho), hangcho);
+        }
+        while(sokhachban != MAXSIZE && sokhachcho != 0){
+            RED(ttvaoban -> name, ttvaoban -> energy);
+            pop();
+            sokhachban++;
+        }
     }
     /////////////////////////////////////////////////////////////////////////////////////////////
     void LIGHT(int num)
