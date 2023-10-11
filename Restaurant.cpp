@@ -525,7 +525,7 @@ public:
             if (tongchuthuat >= abs(tongchulinh)) {
                 return false;
             }
-            return false;
+            return true;
         }
     }
     /////////////////////////////////////////////////////////////////////////////////////////////
@@ -573,59 +573,82 @@ public:
         }
         return x;
     }
-    void xoatatcakhachban(bool x, customer* ttvaoban){
+    void xoatatcakhachban(bool dungsai, customer* ttvaoban){
         // tra head tail ttvaoban vaocuoi x
-        customer * temp = ttvaoban;
-        if (daudangxet(temp -> energy) == x){
-            temp -> print();
-            //lam xoa khoi ban an
-            x = tragiatrix(timkiem(temp -> name));
-            xoakhoiban(timkiem(temp -> name));
-            xoa(1);
-            sokhachban --;
-        }
-        for (customer*giu = temp -> next; temp -> next != NULL; temp = temp -> next){
-            if (daudangxet(temp -> energy) == x){
+        customer * temp = vaocuoi;
+        do{
+            if (daudangxet(temp -> energy) == dungsai){
                 temp -> print();
                 x = tragiatrix(timkiem(temp -> name));
                 xoakhoiban(timkiem(temp -> name));
-                xoa(1);
+                xoa(sokhachban);
                 sokhachban--;
             }
+            temp = temp -> prev;
         }
+        while(temp != NULL);
     }
-    void xoatatcahangcho(bool x, customer* hangcho){
-        customer * temp = hangcho;
+    void xoatatcahangcho(bool dungsai, customer* hangcho){
+        /*customer * temp = hangcho;
         int i = 1;
-        if (daudangxet(temp -> energy) == x){
+        if (daudangxet(temp -> energy) == dungsai){
+            temp -> print();
             pop();
         }
-        for (customer*giu = temp -> next; temp -> next != NULL; temp = temp -> next){
-            if (daudangxet(temp -> energy) == x){
+        for (customer*giu = temp -> next; giu -> next != NULL; giu = giu -> next){
+            if (daudangxet(giu -> energy) == dungsai){
+                giu -> print();
                 customer*qp = hangcho;
                 for (int i = 2; i <= sokhachcho; i++){
                     qp = qp -> next;
                 }
-                if (temp -> name == qp -> name){
+                if (giu -> name == qp -> name){
                     delete qp;
                     qp -> next = NULL;
                 }
                 else{
-                    temp -> next -> prev = temp -> prev;
-                    temp -> prev -> next = temp -> next;
-                    delete temp;
+                    giu -> next -> prev = giu -> prev;
+                    giu -> prev -> next = giu -> next;
+                    delete giu;
                 }
                 sokhachcho--;
             }
+        }*/
+        customer * chay = hangcho;
+        while(chay -> next != NULL){
+            chay = chay -> next;
         }
+        do{
+            if (daudangxet(chay -> energy) == dungsai){
+                chay -> print();
+                customer*temp = hangcho;
+                if (chay -> name == temp -> name){
+                    customer*hi=hangcho;
+                    delete hi;
+                    hangcho = NULL;
+                }
+                else{
+                    customer*tmp = chay;
+                    chay -> next -> prev = chay -> prev;
+                    chay -> prev -> next = chay -> next;
+                    delete tmp;
+                }
+                sokhachcho--;
+                chay = chay -> prev;
+            }
+            else{
+                chay = chay -> prev;
+            }
+        }while(chay != NULL);
     }
 
     void DOMAIN_EXPANSION()
     {
         //cout << "domain_expansion" << endl;
-        xoatatcakhachban(sosanh(head, hangcho), ttvaoban);
+        bool giu = sosanh(head,hangcho);
+        xoatatcakhachban(giu, vaocuoi);
         if (sokhachcho != 0) {
-            xoatatcahangcho(sosanh(head, hangcho), hangcho);
+            xoatatcahangcho(giu, hangcho);
         }
         while(sokhachban != MAXSIZE && sokhachcho != 0){
             RED(ttvaoban -> name, ttvaoban -> energy);

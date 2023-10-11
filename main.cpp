@@ -48,6 +48,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "DOMAIN_EXPANSION") // DOMAIN_EXPANSION
         {
+            if (i == 13){
+                cout << "Hello";
+            }
             solution << str << " "
                      << "line " << i << endl;
             r->DOMAIN_EXPANSION();
