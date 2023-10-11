@@ -48,9 +48,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "DOMAIN_EXPANSION") // DOMAIN_EXPANSION
         {
-            if (i == 13){
-                cout << "Hello";
-            }
+            //if (i == 30){
+            //    cout << "Hello";
+           //}
             solution << str << " "
                      << "line " << i << endl;
             r->DOMAIN_EXPANSION();
@@ -58,6 +58,7 @@ void simulate(string filename, imp_res *r)
         else // LIGHT <NUM>
         {
             ss >> num;
+
             solution << str << " " << num << " "
                      << "line " << i << endl;
             r->LIGHT(stoi(num));
@@ -179,8 +180,8 @@ int main(int argc, char *argv[])
         argc--;
     }
     {
-        int start = 201;
-        int end = 201;
+        int start = 224;
+        int end = 230;
 
         if (argc == 2)
         {
