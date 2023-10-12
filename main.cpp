@@ -22,6 +22,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "RED") // RED <NAME> <ENERGY>
         {
+            if (i == 41){
+                cout << "Hello";
+            }
             ss >> name;
             ss >> energy;
             r->RED(name, stoi(energy));
@@ -29,6 +32,9 @@ void simulate(string filename, imp_res *r)
 
         else if (str == "BLUE") // BLUE <NUM>
         {
+            if (i == 42){
+                cout << "Hello";
+            }
             ss >> num;
             r->BLUE(stoi(num));
         }
@@ -48,9 +54,6 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "DOMAIN_EXPANSION") // DOMAIN_EXPANSION
         {
-            //if (i == 30){
-            //    cout << "Hello";
-           //}
             solution << str << " "
                      << "line " << i << endl;
             r->DOMAIN_EXPANSION();
@@ -180,8 +183,8 @@ int main(int argc, char *argv[])
         argc--;
     }
     {
-        int start = 224;
-        int end = 230;
+        int start = 256;
+        int end = 256;
 
         if (argc == 2)
         {

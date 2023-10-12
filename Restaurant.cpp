@@ -157,8 +157,10 @@ public:
         sokhachcho++;
     }
     void pop(){
+        if (hangcho == NULL) return;
         customer * temp = hangcho;
         hangcho = hangcho -> next;
+        if (hangcho != NULL) hangcho -> prev = NULL;
         delete temp;
         sokhachcho--;
     }
@@ -230,8 +232,8 @@ public:
                         them(vitri, name, energy);
                         x = vitri;
                     }
-                    themcuoi(name, energy);
                 }
+                themcuoi(name, energy);
             }
         }
 /////////////////////////////////////////////////////////////////
@@ -276,6 +278,7 @@ public:
         if ((ttvaoban == NULL && vaocuoi == NULL) || index < 1 || index > sokhachban) return;
         if (index == 1){
             ttvaoban = ttvaoban -> next;
+            ttvaoban -> prev = NULL;
             delete temp;
         }
         else if (index == sokhachban){
@@ -312,11 +315,19 @@ public:
         if (num >= sokhachban) {
             clear();
             clearttvao();
+            x = 0;
         }
         else{
             for (int i = 1; i <= num; i++){
                 customer * temp = ttvaoban;
                 customer*vitri=timkiem(temp -> name);
+                if (head == tail){
+                    x = 0;
+                    xoa(1);
+                    customer*hi = head;
+                    delete hi;
+                    head = tail = NULL;
+                }
                 if (vitri == head){
                     if (temp -> energy > 0){
                         x = 1;
@@ -533,11 +544,8 @@ public:
         if (sokhachban == 1){
             customer*hi = head;
             delete hi;
-            head = NULL;
+            head = tail = NULL;
             return;
-            customer*hai = tail;
-            delete hai;
-            tail = NULL;
         }
         if (vitri -> name == head -> name){
             head = head -> next;
@@ -591,7 +599,15 @@ public:
                 x = tragiatrix(timkiem(temp -> name));
                 xoakhoiban(timkiem(temp -> name));
                 temp = temp -> prev;
-                xoa(vitri);// thứ tự vào bàn
+                if (sokhachban == 1){
+                    customer*hi = ttvaoban;
+                    delete hi;
+                    ttvaoban = vaocuoi = NULL;
+                    sokhachban = 0;
+                    vitri--;
+                    return;
+                }
+                else xoa(vitri);// thứ tự vào bàn
                 sokhachban--;
             }
             else temp = temp -> prev;
@@ -638,9 +654,9 @@ public:
                 }
                 else {
                     customer *tmp = chay;
-                    chay->next->prev = chay->prev;
-                    chay->prev->next = chay->next;
                     chay = chay -> prev;
+                    tmp->next->prev = tmp->prev;
+                    tmp->prev->next = tmp->next;
                     delete tmp;
                     --sokhachcho;
                 }
@@ -660,11 +676,21 @@ public:
             xoatatcahangcho(giu);
         }
         xoatatcakhachban(giu);
-        while(sokhachban != MAXSIZE && sokhachcho != 0){
-            string ten = hangcho -> name;
-            int e = hangcho -> energy;
-            pop();
-            RED(ten, e);
+        if (sokhachcho > 0) {
+            if (sokhachban != MAXSIZE) {
+                for (int i = 1; i <= MAXSIZE; i++) {
+                    string name = hangcho->name;
+                    int energy = hangcho->energy;
+                    //dauhang = dauhang -> next;
+                    if (sokhachban != MAXSIZE) {
+                        pop();
+                        RED(name, energy);
+                    }
+                    if (hangcho == nullptr) return;
+                    //if (dauhang == NULL) return;
+                    //dauhang = dauhang -> next;
+                }
+            }
         }
     }
     /////////////////////////////////////////////////////////////////////////////////////////////
