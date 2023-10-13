@@ -355,13 +355,13 @@ public:
                         tail -> next = head;
                         head -> prev = tail;
                     }
-                    --sokhachban;
                     if (temp -> energy > 0){
                         x = 1;
                     }
                     else{
                         x = sokhachban - 1;
                     }
+                    --sokhachban;
                     xoa(1);
                 }
                 else{
@@ -448,7 +448,7 @@ public:
     void REVERSAL()
     {
         //cout << "reversal" << endl;
-
+        if (sokhachban == 0) return;
         customer*temp = vitrix(x);
         string vitritruocthaydoi = vitrix(x) -> name;
         if (sokhachban == 1 || sokhachban == 0){
