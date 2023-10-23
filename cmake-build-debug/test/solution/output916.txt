@@ -155,25 +155,25 @@ DOMAIN_EXPANSION line 80
 pc--3
 lb--7
 LIGHT -20 line 81
+np-5
 un-8
 lh-7
 ht-8
-np-5
 UNLIMITED_VOID line 82
 np-5
 ht-8
 lh-7
 un-8
 LIGHT 2 line 83
-un-8
 np-5
 ht-8
 lh-7
+un-8
 LIGHT 12 line 85
+np-5
 un-8
 lh-7
 ht-8
-np-5
 LIGHT 16 line 87
 LIGHT 3 line 89
 DOMAIN_EXPANSION line 90
@@ -397,52 +397,52 @@ qw--18
 di--20
 ry--14
 LIGHT 12 line 151
-qu-1
-cn-11
 la-15
 pb-18
 ti-13
 qz-15
 zz-15
+qu-1
+cn-11
 LIGHT -4 line 153
 pt--1
+cn-11
+qu-1
 zz-15
 qz-15
 ti-13
 pb-18
 la-15
-cn-11
-qu-1
 LIGHT -17 line 155
 jv--9
+cn-11
+qu-1
 zz-15
 qz-15
 ti-13
 pb-18
 la-15
-cn-11
-qu-1
 pt--1
 LIGHT 5 line 157
 jv--9
 pt--1
-qu-1
-cn-11
 la-15
 pb-18
 ti-13
 qz-15
 zz-15
+qu-1
+cn-11
 LIGHT 1 line 159
 jv--9
 pt--1
-qu-1
-cn-11
 la-15
 pb-18
 ti-13
 qz-15
 zz-15
+qu-1
+cn-11
 UNLIMITED_VOID line 160
 jv--9
 pt--1
@@ -450,61 +450,61 @@ qu-1
 cn-11
 LIGHT -17 line 161
 jv--9
+cn-11
+qu-1
 zz-15
 qz-15
 ti-13
 pb-18
 la-15
-cn-11
-qu-1
 pt--1
 LIGHT -8 line 163
 jv--9
 pt--1
-qu-1
-cn-11
 la-15
 pb-18
 ti-13
 qz-15
 zz-15
+qu-1
+cn-11
 LIGHT 6 line 165
 qk--18
 jv--9
+cn-11
+qu-1
 zz-15
 qz-15
 ti-13
 pb-18
 la-15
-cn-11
-qu-1
 pt--1
 LIGHT 16 line 167
 qk--18
 jv--9
+cn-11
+qu-1
 zz-15
 qz-15
 ti-13
 pb-18
 la-15
-cn-11
-qu-1
 pt--1
 LIGHT 9 line 169
 qz-15
 ti-13
 pb-18
 la-15
-cn-11
 pt--1
 qk--18
 jv--9
+cn-11
 LIGHT -13 line 171
 cu--13
+cn-11
 jv--9
 qk--18
 pt--1
-cn-11
 la-15
 pb-18
 ti-13
@@ -512,14 +512,15 @@ qz-15
 UNLIMITED_VOID line 172
 qk--18
 jv--9
+cn-11
 cu--13
 pt--1
 LIGHT -15 line 173
 cu--13
+cn-11
 jv--9
 qk--18
 pt--1
-cn-11
 la-15
 pb-18
 ti-13
@@ -530,48 +531,48 @@ LIGHT 18 line 177
 kn-7
 cu--13
 DOMAIN_EXPANSION line 178
-kn-7
-LIGHT -5 line 179
 cu--13
+LIGHT -5 line 179
+kn-7
 LIGHT 3 line 181
 xc--11
-cu--13
+kn-7
 LIGHT 9 line 183
 nr--7
-cu--13
+kn-7
 xc--11
 LIGHT 14 line 185
 pi-7
-cu--13
+kn-7
 xc--11
 nr--7
 LIGHT -15 line 187
 pi-7
 nr--7
 xc--11
-cu--13
+kn-7
 LIGHT -4 line 189
 es--14
 nr--7
 xc--11
-cu--13
+kn-7
 pi-7
 LIGHT -8 line 191
 vn-15
 es--14
 nr--7
 xc--11
-cu--13
+kn-7
 pi-7
 UNLIMITED_VOID line 192
 es--14
-cu--13
+kn-7
 xc--11
 nr--7
 LIGHT 11 line 193
 vn-15
 pi-7
-cu--13
+kn-7
 xc--11
 nr--7
 es--14
@@ -579,22 +580,20 @@ LIGHT 12 line 195
 eq--6
 vn-15
 pi-7
-cu--13
+kn-7
 xc--11
 nr--7
 es--14
 DOMAIN_EXPANSION line 196
-vn-15
-pi-7
+eq--6
+es--14
+nr--7
+xc--11
 LIGHT -3 line 197
-cu--13
-eq--6
-es--14
-nr--7
-xc--11
+kn-7
+pi-7
+vn-15
 LIGHT -1 line 199
-cu--13
-eq--6
-es--14
-nr--7
-xc--11
+kn-7
+pi-7
+vn-15

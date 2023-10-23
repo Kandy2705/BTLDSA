@@ -633,11 +633,11 @@ mm-4
 yq-3
 LIGHT 0 line 373
 LIGHT -1 line 375
+ak--8
+zw--10
 cz--15
 zh--8
 hr--9
-ak--8
-zw--10
 LIGHT 1 line 377
 DOMAIN_EXPANSION line 378
 LIGHT 0 line 379
@@ -762,40 +762,46 @@ ik-6
 xy-4
 sv--12
 DOMAIN_EXPANSION line 422
+sv--12
+LIGHT 1 line 423
 ik-6
 xy-4
-LIGHT 1 line 423
-sv--12
 LIGHT -1 line 425
 ol--8
-sv--12
+xy-4
+ik-6
 LIGHT 0 line 427
 LIGHT -1 line 429
 qb-11
 ol--8
-sv--12
+xy-4
+ik-6
 LIGHT -1 line 431
 sa-3
 ol--8
-sv--12
+xy-4
+ik-6
 qb-11
 LIGHT 1 line 433
 bz--6
 sa-3
 qb-11
-sv--12
+ik-6
+xy-4
 ol--8
 LIGHT 1 line 435
 bz--6
 ol--8
-sv--12
+xy-4
+ik-6
 qb-11
 sa-3
 LIGHT 0 line 437
 LIGHT 1 line 439
 ac-6
 ol--8
-sv--12
+xy-4
+ik-6
 qb-11
 sa-3
 bz--6
@@ -1243,14 +1249,13 @@ ub--10
 ac-7
 fa--4
 DOMAIN_EXPANSION line 690
-ac-7
-LIGHT -1 line 691
-fa--4
 ub--10
+fa--4
+LIGHT -1 line 691
+ac-7
 LIGHT -1 line 693
 ec--12
-ub--10
-fa--4
+ac-7
 LIGHT 1 line 695
 LIGHT -1 line 697
 LIGHT -1 line 699

@@ -814,6 +814,7 @@ lp--16
 LIGHT 0 line 119
 LIGHT -4 line 121
 ny--2
+pw-8
 go-9
 qk-12
 tl-4
@@ -822,11 +823,9 @@ rr-9
 xn-12
 vz-14
 ab-8
-pw-8
 DOMAIN_EXPANSION line 122
 ny--2
 LIGHT 12 line 123
-go-9
 pw-8
 ab-8
 vz-14
@@ -835,8 +834,10 @@ rr-9
 fh-8
 tl-4
 qk-12
+go-9
 DOMAIN_EXPANSION line 124
 LIGHT -2 line 125
+pw-8
 go-9
 qk-12
 tl-4
@@ -845,10 +846,8 @@ rr-9
 xn-12
 vz-14
 ab-8
-pw-8
 LIGHT 15 line 127
 qf--14
-go-9
 pw-8
 ab-8
 vz-14
@@ -857,9 +856,9 @@ rr-9
 fh-8
 tl-4
 qk-12
+go-9
 LIGHT 11 line 129
 nf--3
-go-9
 pw-8
 ab-8
 vz-14
@@ -868,10 +867,12 @@ rr-9
 fh-8
 tl-4
 qk-12
+go-9
 qf--14
 LIGHT -6 line 131
 nf--3
 qf--14
+go-9
 qk-12
 tl-4
 fh-8
@@ -880,14 +881,13 @@ xn-12
 vz-14
 ab-8
 pw-8
-go-9
 LIGHT -1 line 133
 zr--9
 ab-8
 pw-8
-go-9
 nf--3
 qf--14
+go-9
 qk-12
 tl-4
 fh-8
@@ -897,6 +897,7 @@ vz-14
 LIGHT -5 line 135
 dz-14
 qf--14
+go-9
 qk-12
 tl-4
 fh-8
@@ -906,17 +907,17 @@ vz-14
 zr--9
 ab-8
 pw-8
-go-9
 nf--3
 UNLIMITED_VOID line 136
 qf--14
 dz-14
 nf--3
-go-9
+pw-8
+ab-8
+zr--9
 LIGHT 15 line 137
 dz-14
 nf--3
-go-9
 pw-8
 ab-8
 zr--9
@@ -926,13 +927,14 @@ rr-9
 fh-8
 tl-4
 qk-12
+go-9
 qf--14
 LIGHT 1 line 139
 qk-12
+go-9
 qf--14
 dz-14
 nf--3
-go-9
 pw-8
 ab-8
 zr--9
@@ -947,15 +949,14 @@ vz-14
 zr--9
 ab-8
 pw-8
-go-9
 nf--3
 dz-14
 qf--14
+go-9
 LIGHT 15 line 143
 ba-10
 dz-14
 nf--3
-go-9
 pw-8
 ab-8
 zr--9
@@ -963,207 +964,208 @@ vz-14
 rr-9
 fh-8
 qk-12
+go-9
 qf--14
 LIGHT 10 line 145
 ba-10
 qf--14
+go-9
 qk-12
+zr--9
 fh-8
 rr-9
-zr--9
 vz-14
 ab-8
 pw-8
-go-9
 nf--3
 dz-14
 LIGHT 5 line 147
 ba-10
 dz-14
-go-9
 zr--9
 pw-8
 ab-8
 vz-14
 rr-9
-qf--14
 fh-8
+qf--14
 qk-12
+go-9
 nf--3
 LIGHT -18 line 149
 ha-1
 qf--14
+fh-8
 rr-9
 vz-14
 ab-8
 pw-8
 zr--9
-go-9
 dz-14
 ba-10
 nf--3
+go-9
 qk-12
-fh-8
 LIGHT 17 line 151
 ha-1
-fh-8
 qk-12
+go-9
 nf--3
 ba-10
 dz-14
-go-9
 zr--9
 pw-8
 ab-8
 vz-14
 rr-9
+fh-8
 qf--14
 DOMAIN_EXPANSION line 152
 zr--9
 nf--3
 qf--14
 LIGHT 11 line 153
-rr-9
-ha-1
-fh-8
-qk-12
-ba-10
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
+rr-9
+fh-8
+ha-1
+qk-12
+go-9
+ba-10
 LIGHT 5 line 155
 lx--10
-rr-9
-ha-1
-fh-8
-qk-12
-ba-10
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
+rr-9
+fh-8
+ha-1
+qk-12
+go-9
+ba-10
 LIGHT -10 line 157
 za--14
-ba-10
-qk-12
-fh-8
-ha-1
-rr-9
 lx--10
+ba-10
+go-9
+qk-12
+ha-1
+fh-8
+rr-9
 vz-14
 ab-8
 pw-8
-go-9
 dz-14
 LIGHT 15 line 159
 hp-11
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
-lx--10
 rr-9
-ha-1
 fh-8
+ha-1
 qk-12
+go-9
 ba-10
+lx--10
 za--14
 UNLIMITED_VOID line 160
+za--14
+go-9
+ba-10
 lx--10
-rr-9
-ha-1
-fh-8
 LIGHT -3 line 161
 hp-11
 za--14
-ba-10
-qk-12
-fh-8
-ha-1
-rr-9
 lx--10
+ba-10
+go-9
+qk-12
+ha-1
+fh-8
+rr-9
 vz-14
 ab-8
 pw-8
-go-9
 dz-14
 UNLIMITED_VOID line 162
+za--14
+go-9
+ba-10
 lx--10
-rr-9
-ha-1
-fh-8
 LIGHT -8 line 163
 hp-11
 za--14
-ba-10
-qk-12
-fh-8
-ha-1
-rr-9
 lx--10
+ba-10
+go-9
+qk-12
+ha-1
+fh-8
+rr-9
 vz-14
 ab-8
 pw-8
-go-9
 dz-14
 DOMAIN_EXPANSION line 164
 za--14
 lx--10
 LIGHT 1 line 165
-vz-14
-rr-9
-ha-1
-fh-8
-qk-12
 ba-10
 hp-11
 dz-14
-go-9
 pw-8
 ab-8
+vz-14
+rr-9
+fh-8
+ha-1
+qk-12
+go-9
 LIGHT 1 line 167
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
 rr-9
+fh-8
 ha-1
 LIGHT 2 line 169
 on-7
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
 rr-9
+fh-8
 ha-1
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 LIGHT 7 line 171
 jv--8
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
 rr-9
+fh-8
 ha-1
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 on-7
@@ -1172,57 +1174,57 @@ jv--8
 LIGHT 1 line 173
 on-7
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
 rr-9
+fh-8
 ha-1
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 LIGHT 10 line 175
 on-7
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
 rr-9
+fh-8
 ha-1
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 LIGHT -12 line 177
 on-7
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
 rr-9
+fh-8
 ha-1
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 LIGHT -13 line 179
 ox--8
 rr-9
+fh-8
 ha-1
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 on-7
 dz-14
-go-9
 pw-8
 ab-8
 vz-14
@@ -1231,15 +1233,15 @@ xw-2
 vz-14
 ab-8
 pw-8
-go-9
 dz-14
 on-7
 hp-11
 ba-10
+go-9
 qk-12
-fh-8
 ne-11
 ha-1
+fh-8
 rr-9
 ox--8
 LIGHT 14 line 183
@@ -1247,29 +1249,29 @@ xw-2
 vz-14
 ab-8
 pw-8
-go-9
 dz-14
 on-7
 hp-11
 ba-10
+go-9
 qk-12
-fh-8
 ne-11
 ha-1
+fh-8
 rr-9
 ox--8
 LIGHT 4 line 185
 xw-2
 rr-9
+fh-8
 ha-1
 ne-11
-fh-8
 qk-12
+go-9
 ba-10
 hp-11
 on-7
 dz-14
-go-9
 pw-8
 ab-8
 ox--8

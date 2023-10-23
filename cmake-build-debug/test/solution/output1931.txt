@@ -199,8 +199,8 @@ DOMAIN_EXPANSION line 115
 sf--2
 mx--9
 LIGHT 1 line 116
-xa-11
 ll-5
+xa-11
 LIGHT -1 line 118
 pv-6
 ll-5
@@ -272,16 +272,16 @@ al--6
 pv-6
 ih-4
 DOMAIN_EXPANSION line 137
-tr-1
-ih-4
-pv-6
-ll-5
-xa-11
-LIGHT 1 line 138
 cv--8
-al--6
 vh--2
 si--15
+al--6
+LIGHT 1 line 138
+ih-4
+tr-1
+xa-11
+ll-5
+pv-6
 LIGHT -1 line 140
 LIGHT -1 line 142
 bv--13
@@ -305,36 +305,30 @@ iv-9
 ni--2
 LIGHT 0 line 160
 DOMAIN_EXPANSION line 161
-iv-9
-LIGHT -1 line 162
-ni--2
 ed--13
+ni--2
+LIGHT -1 line 162
+iv-9
 DOMAIN_EXPANSION line 163
 LIGHT -1 line 164
-ni--2
-ed--13
+iv-9
 LIGHT -1 line 166
 yr--15
-ed--13
-ni--2
+iv-9
 LIGHT -1 line 168
 yr--15
-ed--13
-ni--2
+iv-9
 LIGHT -1 line 170
 yr--15
-ed--13
-ni--2
+iv-9
 UNLIMITED_VOID line 171
 LIGHT 1 line 172
 yr--15
-ni--2
-ed--13
+iv-9
 UNLIMITED_VOID line 173
 LIGHT -1 line 174
 yr--15
-ed--13
-ni--2
+iv-9
 LIGHT 0 line 176
 LIGHT -1 line 178
 LIGHT -1 line 180

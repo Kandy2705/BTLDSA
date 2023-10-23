@@ -176,9 +176,9 @@ LIGHT 1 line 141
 fq-4
 LIGHT 0 line 143
 DOMAIN_EXPANSION line 144
-fq-4
-LIGHT 1 line 145
 dy--7
+LIGHT 1 line 145
+fq-4
 LIGHT -1 line 147
 UNLIMITED_VOID line 148
 LIGHT 1 line 149
@@ -469,9 +469,9 @@ DOMAIN_EXPANSION line 298
 qc-9
 ni-4
 LIGHT -1 line 299
+ru--14
 im--10
 nk--13
-ru--14
 LIGHT -1 line 301
 UNLIMITED_VOID line 302
 LIGHT 1 line 303
@@ -664,182 +664,140 @@ sp--11
 xx-8
 ee-14
 DOMAIN_EXPANSION line 438
-ee-14
-xx-8
-LIGHT -1 line 439
-sp--11
 dc--5
 ud--2
 qd--8
 kp--11
+sp--11
+LIGHT -1 line 439
+xx-8
+ee-14
 LIGHT 1 line 441
 sn-11
-kp--11
-qd--8
-ud--2
-dc--5
-sp--11
+ee-14
+xx-8
 LIGHT 1 line 443
 sn-11
-sp--11
-dc--5
-ud--2
-qd--8
-kp--11
+xx-8
+ee-14
 LIGHT 0 line 445
 LIGHT 1 line 447
 fr--15
-sn-11
-sp--11
-dc--5
-ud--2
-qd--8
-kp--11
 du--12
+sn-11
+xx-8
+ee-14
 LIGHT 1 line 449
 cc--14
-sn-11
-sp--11
-dc--5
-ud--2
-qd--8
-kp--11
-du--12
+ee-14
 fr--15
+du--12
+sn-11
+xx-8
 LIGHT 1 line 451
 pk--4
-sn-11
-sp--11
-dc--5
-ud--2
-qd--8
-kp--11
-du--12
+ee-14
 fr--15
+du--12
+sn-11
+xx-8
 cc--14
 LIGHT -1 line 453
-pk--4
-cc--14
-fr--15
-du--12
-kp--11
-qd--8
-ud--2
-dc--5
-sp--11
-sn-11
-LIGHT -1 line 455
-pk--4
-cc--14
-fr--15
-du--12
-kp--11
-qd--8
-ud--2
-dc--5
-sp--11
-sn-11
-LIGHT -1 line 457
-pk--4
-sn-11
-sp--11
-dc--5
-ud--2
-qd--8
-kp--11
-du--12
-fr--15
-cc--14
-LIGHT 0 line 459
 as-6
+fr--15
+ee-14
+pk--4
+cc--14
+xx-8
+sn-11
+du--12
+LIGHT -1 line 455
 uk--14
-eo-6
-LIGHT -1 line 461
+pk--4
+cc--14
+xx-8
+sn-11
+du--12
+as-6
+fr--15
+ee-14
+LIGHT -1 line 457
+uk--14
+xx-8
+fr--15
+du--12
+cc--14
+ee-14
+as-6
 pk--4
 sn-11
-sp--11
-dc--5
-ud--2
-qd--8
-kp--11
-du--12
+LIGHT 0 line 459
+LIGHT -1 line 461
+eo-6
 fr--15
+du--12
 cc--14
+ee-14
+as-6
+pk--4
+sn-11
+uk--14
+xx-8
 UNLIMITED_VOID line 462
 fr--15
-du--12
-kp--11
-qd--8
-ud--2
-dc--5
-sp--11
-pk--4
+eo-6
+xx-8
+uk--14
 cc--14
+du--12
 LIGHT 1 line 463
+eo-6
+xx-8
+uk--14
+sn-11
+pk--4
+as-6
+ee-14
+cc--14
+du--12
+fr--15
+DOMAIN_EXPANSION line 464
+uk--14
 pk--4
 cc--14
 fr--15
 du--12
-kp--11
-qd--8
-ud--2
-dc--5
-sp--11
-sn-11
-DOMAIN_EXPANSION line 464
+LIGHT -1 line 465
 ig-3
-eo-6
 as-6
 sn-11
-LIGHT -1 line 465
-uk--14
-qd--8
-kp--11
-du--12
-fr--15
-cc--14
-pk--4
-sp--11
-dc--5
-ud--2
+xx-8
+eo-6
+ee-14
 LIGHT 1 line 467
-uk--14
-ud--2
-dc--5
-sp--11
-pk--4
-cc--14
-fr--15
-du--12
-kp--11
-qd--8
+gr--4
+ee-14
+eo-6
+xx-8
+sn-11
+as-6
+ig-3
 UNLIMITED_VOID line 468
-fr--15
-du--12
-kp--11
-qd--8
-uk--14
-ud--2
-dc--5
-sp--11
-pk--4
-cc--14
+gr--4
+sn-11
+as-6
+ig-3
 LIGHT 1 line 469
-uk--14
-ud--2
-dc--5
-sp--11
-pk--4
-cc--14
-fr--15
-du--12
-kp--11
-qd--8
+gr--4
+ee-14
+eo-6
+xx-8
+sn-11
+as-6
+ig-3
 LIGHT 0 line 471
 UNLIMITED_VOID line 472
 LIGHT -1 line 473
-gr--4
-uk--14
 LIGHT -1 line 475
 LIGHT 0 line 477
 LIGHT -1 line 479
@@ -950,14 +908,16 @@ of-6
 yk-2
 ue--15
 DOMAIN_EXPANSION line 524
-gs-5
-of-6
-yk-2
-LIGHT -1 line 525
 ue--15
+LIGHT -1 line 525
+yk-2
+of-6
+gs-5
 UNLIMITED_VOID line 526
 LIGHT -1 line 527
-ue--15
+yk-2
+of-6
+gs-5
 LIGHT -1 line 529
 LIGHT 0 line 531
 LIGHT -1 line 533
@@ -991,15 +951,17 @@ au-7
 bt-4
 LIGHT 0 line 559
 DOMAIN_EXPANSION line 560
-au-7
-bt-4
+fe--13
 LIGHT -1 line 561
-fe--13
+bt-4
+au-7
 LIGHT -1 line 563
-fe--13
+bt-4
+au-7
 LIGHT 1 line 565
 hx--2
-fe--13
+bt-4
+au-7
 LIGHT 0 line 567
 LIGHT -1 line 569
 sr-9
@@ -1015,28 +977,26 @@ li--8
 sr-9
 zl--7
 DOMAIN_EXPANSION line 576
-sr-9
-LIGHT -1 line 577
 li--8
 zl--7
+LIGHT -1 line 577
+sr-9
 LIGHT -1 line 579
 qr-11
-li--8
-zl--7
+sr-9
 DOMAIN_EXPANSION line 580
-qr-11
 LIGHT 1 line 581
-zl--7
-li--8
+qr-11
+sr-9
 LIGHT 1 line 583
 fb-13
-li--8
-zl--7
+sr-9
+qr-11
 UNLIMITED_VOID line 584
 LIGHT 1 line 585
 fb-13
-li--8
-zl--7
+sr-9
+qr-11
 UNLIMITED_VOID line 586
 LIGHT 0 line 587
 LIGHT -1 line 589
@@ -1346,9 +1306,9 @@ DOMAIN_EXPANSION line 728
 wp--3
 ar--10
 LIGHT 1 line 729
-az-4
 ri-8
 ad-6
+az-4
 LIGHT 1 line 731
 LIGHT 1 line 733
 LIGHT 1 line 735
@@ -1668,12 +1628,12 @@ DOMAIN_EXPANSION line 872
 gb-5
 zx-13
 LIGHT -1 line 873
-dx--5
 oi--7
 os--15
 fy--3
 fa--5
 th--5
+dx--5
 LIGHT 1 line 875
 qs-5
 oi--7

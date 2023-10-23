@@ -410,18 +410,22 @@ sw--13
 lo-3
 LIGHT 0 line 235
 DOMAIN_EXPANSION line 236
-hs-2
-ob-5
-lo-3
-LIGHT 1 line 237
 sw--13
+LIGHT 1 line 237
+hs-2
+lo-3
+ob-5
 LIGHT 1 line 239
 ud-11
-sw--13
+lo-3
+ob-5
+hs-2
 LIGHT 1 line 241
 bd-8
 ud-11
-sw--13
+lo-3
+ob-5
+hs-2
 LIGHT 1 line 243
 LIGHT 1 line 245
 LIGHT 1 line 247
@@ -575,22 +579,20 @@ wr-11
 xf--1
 LIGHT 0 line 321
 DOMAIN_EXPANSION line 322
-ps-4
-wr-11
-qw-9
-LIGHT -1 line 323
+ez--8
+xf--1
 wz--7
 as--14
 tn--8
-xf--1
-ez--8
+LIGHT -1 line 323
+qw-9
+wr-11
+ps-4
 LIGHT -1 line 325
 ot--15
-as--14
-tn--8
-xf--1
-ez--8
-wz--7
+wr-11
+ps-4
+qw-9
 LIGHT 1 line 327
 LIGHT -1 line 329
 uw--7
@@ -664,76 +666,75 @@ LIGHT -1 line 369
 ou-6
 nt--8
 DOMAIN_EXPANSION line 370
-ou-6
-LIGHT 1 line 371
 nt--8
+LIGHT 1 line 371
+ou-6
 LIGHT 0 line 373
 LIGHT -1 line 375
 jz--12
-nt--8
+ou-6
 pc--9
 UNLIMITED_VOID line 376
 LIGHT 0 line 377
 LIGHT -1 line 379
 yx--5
 jz--12
-nt--8
+ou-6
 pc--9
 UNLIMITED_VOID line 380
 jz--12
 yx--5
 pc--9
-nt--8
+ou-6
 LIGHT -1 line 381
 yx--5
 jz--12
-nt--8
+ou-6
 pc--9
 LIGHT 1 line 383
 yx--5
+ou-6
 jz--12
-nt--8
 pc--9
 LIGHT 1 line 385
 ow--12
 yx--5
+ou-6
 jz--12
-nt--8
 pc--9
 UNLIMITED_VOID line 386
+jz--12
+pc--9
 ow--12
 yx--5
-jz--12
-nt--8
-pc--9
 LIGHT -1 line 387
 ow--12
 pc--9
-nt--8
 jz--12
+ou-6
 yx--5
 LIGHT -1 line 389
 ow--12
 pc--9
-nt--8
 jz--12
+ou-6
 yx--5
 LIGHT 1 line 391
 ix-14
 yx--5
+ou-6
 jz--12
-nt--8
 pc--9
 ow--12
 LIGHT 0 line 393
 LIGHT 1 line 395
 nd-14
-ix-14
-ow--12
 pc--9
-nt--8
 jz--12
 yx--5
+ix-14
+ou-6
+ow--12
 LIGHT -1 line 397
 LIGHT -1 line 399
 LIGHT 1 line 401
@@ -1640,46 +1641,42 @@ nc-12
 tb--8
 ib--12
 DOMAIN_EXPANSION line 898
-xc-6
-nc-12
-mw-10
+bs--11
+gj--9
+ib--12
+tb--8
 LIGHT 0 line 899
 LIGHT -1 line 901
 yx-12
-tb--8
-gj--9
-bs--11
-ib--12
+nc-12
+xc-6
+mw-10
 LIGHT -1 line 903
 yx-12
-ib--12
-bs--11
-gj--9
-tb--8
+mw-10
+xc-6
+nc-12
 UNLIMITED_VOID line 904
-ib--12
-tb--8
-gj--9
-bs--11
+xc-6
+mw-10
+yx-12
+nc-12
 LIGHT 1 line 905
 yx-12
-tb--8
-gj--9
-bs--11
-ib--12
+nc-12
+xc-6
+mw-10
 LIGHT -1 line 907
 lf--12
-ib--12
-bs--11
-gj--9
-tb--8
+mw-10
+xc-6
+nc-12
 yx-12
 LIGHT -1 line 909
 lf--12
-ib--12
-bs--11
-gj--9
-tb--8
+mw-10
+xc-6
+nc-12
 yx-12
 LIGHT -1 line 911
 LIGHT 1 line 913

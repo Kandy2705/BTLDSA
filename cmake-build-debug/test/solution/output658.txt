@@ -130,7 +130,6 @@ DOMAIN_EXPANSION line 42
 oy-4
 ot-15
 LIGHT -11 line 43
-ny--1
 kk--3
 yp--10
 tx--9
@@ -138,8 +137,10 @@ fy--14
 md--8
 qs--8
 ku--2
+ny--1
 DOMAIN_EXPANSION line 44
 LIGHT 8 line 45
+kk--3
 ny--1
 ku--2
 qs--8
@@ -147,7 +148,6 @@ md--8
 fy--14
 tx--9
 yp--10
-kk--3
 LIGHT 5 line 47
 LIGHT 19 line 49
 zu--3
@@ -168,30 +168,26 @@ zl--16
 zu--3
 ka-18
 DOMAIN_EXPANSION line 58
-ka-18
-LIGHT 14 line 59
 zl--16
 zu--3
+LIGHT 14 line 59
+ka-18
 LIGHT -12 line 61
 ss-9
-zl--16
-zu--3
+ka-18
 LIGHT -3 line 63
 sq--2
-zl--16
-zu--3
+ka-18
 ss-9
 LIGHT -18 line 65
 tc--4
-zl--16
-zu--3
+ka-18
 ss-9
 sq--2
 LIGHT -8 line 67
 hn-16
 tc--4
-zl--16
-zu--3
+ka-18
 ss-9
 sq--2
 LIGHT 3 line 69
@@ -199,166 +195,137 @@ vu-7
 hn-16
 sq--2
 ss-9
-zu--3
-zl--16
+ka-18
 tc--4
 LIGHT -18 line 71
 rr--20
 tc--4
-zl--16
-zu--3
+ka-18
 ss-9
 sq--2
 hn-16
 vu-7
 DOMAIN_EXPANSION line 72
+rr--20
+tc--4
+sq--2
+LIGHT 18 line 73
+ka-18
 vu-7
 hn-16
 ss-9
-LIGHT 18 line 73
-zu--3
-zl--16
-tc--4
-rr--20
-sq--2
 LIGHT 13 line 75
 kb--12
-zu--3
-zl--16
-tc--4
-rr--20
-sq--2
+ka-18
+vu-7
+hn-16
+ss-9
 LIGHT 13 line 77
 rb-17
-zu--3
-zl--16
-tc--4
-rr--20
-sq--2
+ka-18
+vu-7
+hn-16
+ss-9
 kb--12
 UNLIMITED_VOID line 78
-rr--20
-sq--2
 kb--12
-zu--3
-zl--16
-tc--4
+vu-7
+hn-16
+ss-9
 LIGHT 19 line 79
 rb-17
-zu--3
-zl--16
-tc--4
-rr--20
-sq--2
+ka-18
+vu-7
+hn-16
+ss-9
 kb--12
 LIGHT 9 line 81
 aq--15
 rb-17
-zu--3
-zl--16
-tc--4
-rr--20
-sq--2
+ka-18
+vu-7
+hn-16
+ss-9
 kb--12
 UNLIMITED_VOID line 82
-rr--20
-sq--2
-kb--12
 aq--15
-zu--3
-zl--16
-tc--4
+hn-16
+ss-9
+kb--12
 LIGHT -14 line 83
 aq--15
 kb--12
-sq--2
-rr--20
-tc--4
-zl--16
-zu--3
+ss-9
+hn-16
+vu-7
+ka-18
 rb-17
 LIGHT -1 line 85
 aq--15
 rb-17
-zu--3
-zl--16
-tc--4
-rr--20
-sq--2
+ka-18
+vu-7
+hn-16
+ss-9
 kb--12
 LIGHT 0 line 87
 UNLIMITED_VOID line 88
-rr--20
-tc--4
-zl--16
-zu--3
 aq--15
 rl--13
 kb--12
-sq--2
+ss-9
 LIGHT -15 line 89
 rl--13
 aq--15
 rb-17
-zu--3
-zl--16
-tc--4
-rr--20
-sq--2
+ka-18
+vu-7
+hn-16
+ss-9
 kb--12
 LIGHT 6 line 91
 li--18
 rl--13
 kb--12
-sq--2
-rr--20
-tc--4
-zl--16
-zu--3
+ss-9
+hn-16
+vu-7
+ka-18
 rb-17
 aq--15
 LIGHT -11 line 93
-li--18
 LIGHT -5 line 95
 nc--8
-li--18
 UNLIMITED_VOID line 96
 LIGHT 10 line 97
 nc--8
-li--18
 LIGHT -20 line 99
 dt-6
 nc--8
-li--18
 LIGHT -17 line 101
 nz--15
 nc--8
-li--18
 dt-6
 LIGHT 7 line 103
 pu--3
 dt-6
-li--18
 nc--8
 nz--15
 LIGHT -4 line 105
 pu--3
 nz--15
 nc--8
-li--18
 dt-6
 LIGHT 4 line 107
 pg--5
 pu--3
 dt-6
-li--18
 nc--8
 nz--15
 LIGHT 8 line 109
 pg--5
 pu--3
 dt-6
-li--18
 nc--8
 nz--15
 LIGHT -20 line 111
@@ -366,7 +333,6 @@ tx-11
 pg--5
 nz--15
 nc--8
-li--18
 dt-6
 pu--3
 LIGHT 9 line 113
@@ -374,7 +340,6 @@ ry--3
 tx-11
 pu--3
 dt-6
-li--18
 nc--8
 nz--15
 pg--5
@@ -383,7 +348,6 @@ ry--3
 pg--5
 nz--15
 nc--8
-li--18
 dt-6
 pu--3
 tx-11
@@ -393,7 +357,6 @@ ry--3
 tx-11
 pu--3
 dt-6
-li--18
 nc--8
 nz--15
 pg--5
@@ -404,7 +367,6 @@ pg--5
 tx-11
 nz--15
 nc--8
-li--18
 pu--3
 ry--3
 LIGHT -3 line 121
@@ -412,7 +374,6 @@ xb-8
 fo--14
 ry--3
 pu--3
-li--18
 nc--8
 nz--15
 tx-11
@@ -420,38 +381,35 @@ pg--5
 dt-6
 LIGHT -14 line 123
 wm--5
-pg--5
-dt-6
-xb-8
 fo--14
 ry--3
 pu--3
-li--18
 nc--8
 nz--15
 tx-11
+pg--5
+dt-6
+xb-8
 LIGHT -1 line 125
 wm--5
-pg--5
-dt-6
-xb-8
 fo--14
 ry--3
 pu--3
-li--18
 nc--8
 nz--15
 tx-11
-LIGHT -19 line 127
-kv--4
-wm--5
 pg--5
 dt-6
 xb-8
+LIGHT -19 line 127
+kv--4
+pg--5
+dt-6
+xb-8
+wm--5
 fo--14
 ry--3
 pu--3
-li--18
 nc--8
 nz--15
 tx-11
@@ -460,14 +418,13 @@ um--20
 tx-11
 nz--15
 nc--8
-li--18
 pu--3
 ry--3
 fo--14
+wm--5
 xb-8
 dt-6
 pg--5
-wm--5
 kv--4
 DOMAIN_EXPANSION line 130
 xb-8
@@ -475,51 +432,47 @@ tx-11
 dt-6
 LIGHT 2 line 131
 pg--5
-wm--5
 kv--4
 um--20
 nz--15
 nc--8
-li--18
 pu--3
 ry--3
 fo--14
+wm--5
 LIGHT -17 line 133
 yw-7
-um--20
-kv--4
-wm--5
 pg--5
+wm--5
 fo--14
 ry--3
 pu--3
-li--18
 nc--8
 nz--15
+um--20
+kv--4
 LIGHT -13 line 135
 yw-7
+kv--4
+um--20
 nz--15
 nc--8
-li--18
 pu--3
 ry--3
 fo--14
-pg--5
 wm--5
-kv--4
-um--20
+pg--5
 LIGHT 9 line 137
 qj-10
 kv--4
-wm--5
+yw-7
 pg--5
+wm--5
 fo--14
 ry--3
 pu--3
-li--18
 nc--8
 nz--15
-yw-7
 um--20
 LIGHT -19 line 139
 LIGHT 1 line 141

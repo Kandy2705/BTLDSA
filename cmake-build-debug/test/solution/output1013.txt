@@ -141,19 +141,19 @@ vm--7
 vn--12
 if-4
 DOMAIN_EXPANSION line 108
-oi-7
-if-4
-LIGHT -1 line 109
-vn--12
 vm--7
+vn--12
+LIGHT -1 line 109
+if-4
+oi-7
 UNLIMITED_VOID line 110
 LIGHT 1 line 111
-vn--12
-vm--7
+if-4
+oi-7
 LIGHT 1 line 113
 ge--6
-vm--7
-vn--12
+if-4
+oi-7
 LIGHT 0 line 115
 LIGHT 1 line 117
 LIGHT -1 line 119
@@ -309,30 +309,30 @@ DOMAIN_EXPANSION line 174
 qo--8
 st--12
 LIGHT -1 line 175
+ga-9
 qs-11
 od-8
 ua-1
 ao-6
-ga-9
 LIGHT -1 line 177
-qs-11
 ga-9
 ao-6
 ua-1
 od-8
+qs-11
 LIGHT 1 line 179
+ga-9
 qs-11
 od-8
 ua-1
 ao-6
-ga-9
 LIGHT -1 line 181
 zh-1
-ga-9
 ao-6
 ua-1
 od-8
 qs-11
+ga-9
 LIGHT 1 line 183
 zh-1
 DOMAIN_EXPANSION line 184
@@ -617,66 +617,82 @@ dq-5
 ep--5
 kr--9
 DOMAIN_EXPANSION line 370
-fu-8
-dq-5
-LIGHT -1 line 371
-ep--5
 kr--9
+ep--5
+LIGHT -1 line 371
+dq-5
+fu-8
 UNLIMITED_VOID line 372
 LIGHT 0 line 373
 LIGHT -1 line 375
 nx-6
-ep--5
-kr--9
+dq-5
+fu-8
 DOMAIN_EXPANSION line 376
-nx-6
 LIGHT 0 line 377
 DOMAIN_EXPANSION line 378
 LIGHT 1 line 379
-kr--9
-ep--5
+nx-6
+fu-8
+dq-5
 LIGHT 0 line 381
 LIGHT 1 line 383
 pu-2
 ti-9
-ep--5
-kr--9
+fu-8
+dq-5
+nx-6
 LIGHT -1 line 385
 hi--7
-kr--9
-ep--5
+nx-6
+dq-5
+fu-8
 ti-9
 pu-2
 DOMAIN_EXPANSION line 386
-pu-2
-ti-9
+hi--7
 LIGHT 0 line 387
 LIGHT -1 line 389
-ep--5
-hi--7
-kr--9
+kr--1
+dq-5
+fu-8
+ti-9
+pu-2
+nx-6
 LIGHT 1 line 391
 bj-1
-kr--9
-hi--7
-ep--5
+nx-6
+pu-2
+ti-9
+fu-8
+dq-5
+kr--1
 LIGHT -1 line 393
 xf--10
-ep--5
-hi--7
-kr--9
+kr--1
+dq-5
+fu-8
+ti-9
+pu-2
+nx-6
 bj-1
 LIGHT 1 line 395
 xf--10
-ep--5
-hi--7
-kr--9
+kr--1
+dq-5
+fu-8
+ti-9
+pu-2
+nx-6
 bj-1
 LIGHT 1 line 397
 qc-10
-ep--5
-hi--7
-kr--9
+kr--1
+dq-5
+fu-8
+ti-9
+pu-2
+nx-6
 bj-1
 xf--10
 LIGHT -1 line 399
@@ -1039,24 +1055,24 @@ zw--3
 ll--4
 kk--3
 LIGHT 1 line 669
-im-12
 jf-12
+im-12
 LIGHT -1 line 671
 cf--11
-jf-12
 im-12
+jf-12
 LIGHT -1 line 673
 gl--8
 cf--11
-jf-12
 im-12
+jf-12
 LIGHT 0 line 675
 LIGHT -1 line 677
 oh--9
 gl--8
 cf--11
-jf-12
 im-12
+jf-12
 vf-7
 LIGHT 0 line 679
 LIGHT 0 line 681
@@ -1496,20 +1512,20 @@ fp--12
 sa--4
 ls--8
 LIGHT 1 line 843
-uh-4
-zb-6
 yu-9
 mu-4
 rv-6
 xx-13
+uh-4
+zb-6
 LIGHT 1 line 845
 nj-13
-zb-6
-yu-9
 mu-4
 rv-6
 xx-13
 uh-4
+zb-6
+yu-9
 LIGHT 1 line 847
 nj-13
 mu-4

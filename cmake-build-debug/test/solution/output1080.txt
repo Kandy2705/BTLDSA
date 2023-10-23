@@ -70,43 +70,43 @@ LIGHT -1 line 67
 ly-8
 qe--15
 DOMAIN_EXPANSION line 68
-ly-8
-LIGHT -1 line 69
 qe--15
+LIGHT -1 line 69
+ly-8
 UNLIMITED_VOID line 70
 LIGHT -1 line 71
-qe--15
+ly-8
 LIGHT 0 line 73
 LIGHT 0 line 75
 LIGHT 1 line 77
 zy-14
 ym-3
-qe--15
+ly-8
 pp--6
 LIGHT 1 line 79
 ct-6
 zy-14
 ym-3
-qe--15
+ly-8
 pp--6
 LIGHT 1 line 81
 ib-1
 ct-6
 zy-14
 ym-3
-qe--15
+ly-8
 pp--6
 LIGHT 1 line 83
 ib-1
 ct-6
 zy-14
 ym-3
-qe--15
+ly-8
 pp--6
 LIGHT -1 line 85
 ib-1
 pp--6
-qe--15
+ly-8
 ym-3
 zy-14
 ct-6
@@ -115,7 +115,7 @@ LIGHT -1 line 89
 lu-14
 nk--1
 pp--6
-qe--15
+ly-8
 ym-3
 zy-14
 ct-6
@@ -127,7 +127,7 @@ ib-1
 ct-6
 zy-14
 ym-3
-qe--15
+ly-8
 pp--6
 nk--1
 LIGHT 1 line 93
@@ -138,11 +138,10 @@ ib-1
 ct-6
 zy-14
 ym-3
-qe--15
+ly-8
 pp--6
 nk--1
 LIGHT 1 line 95
-ym-3
 pp--6
 nk--1
 ms--6
@@ -151,8 +150,11 @@ lu-14
 ib-1
 ct-6
 zy-14
+ym-3
 LIGHT -1 line 97
 ws--1
+pp--6
+ym-3
 zy-14
 ct-6
 ib-1
@@ -160,10 +162,10 @@ lu-14
 gv-9
 ms--6
 nk--1
-pp--6
-ym-3
 LIGHT -1 line 99
 mq--15
+pp--6
+ym-3
 zy-14
 ct-6
 ib-1
@@ -171,12 +173,12 @@ lu-14
 gv-9
 ms--6
 nk--1
-pp--6
-ym-3
 ws--1
 LIGHT -1 line 101
 hr-14
 mq--15
+pp--6
+ym-3
 zy-14
 ct-6
 ib-1
@@ -184,15 +186,11 @@ lu-14
 gv-9
 ms--6
 nk--1
-pp--6
-ym-3
 ws--1
 LIGHT 1 line 103
 tw--4
 hr-14
 ws--1
-ym-3
-pp--6
 nk--1
 ms--6
 gv-9
@@ -200,11 +198,15 @@ lu-14
 ib-1
 ct-6
 zy-14
+ym-3
+pp--6
 mq--15
 LIGHT -1 line 105
 xf-9
 tw--4
 mq--15
+pp--6
+ym-3
 zy-14
 ct-6
 ib-1
@@ -212,8 +214,6 @@ lu-14
 gv-9
 ms--6
 nk--1
-pp--6
-ym-3
 ws--1
 hr-14
 DOMAIN_EXPANSION line 106
@@ -225,22 +225,22 @@ nk--1
 pp--6
 LIGHT 1 line 107
 ym-3
+xf-9
+hr-14
 gv-9
 lu-14
 ib-1
 ct-6
 zy-14
-xf-9
-hr-14
 LIGHT 1 line 109
 vz-6
+xf-9
+hr-14
 gv-9
 lu-14
 ib-1
 ct-6
 zy-14
-xf-9
-hr-14
 ym-3
 LIGHT 0 line 111
 DOMAIN_EXPANSION line 112
@@ -248,13 +248,13 @@ LIGHT -1 line 113
 bm-8
 vz-6
 ym-3
-hr-14
-xf-9
 zy-14
 ct-6
 ib-1
 lu-14
 gv-9
+hr-14
+xf-9
 LIGHT 1 line 115
 LIGHT 0 line 117
 LIGHT -1 line 119
@@ -525,48 +525,48 @@ DOMAIN_EXPANSION line 230
 kz-12
 ym-5
 LIGHT -1 line 231
+lf--8
+kb--4
 nv--13
 jx--7
 wt--13
 np--2
-lf--8
-kb--4
 LIGHT 1 line 233
 bg--9
-kb--4
 lf--8
 np--2
 wt--13
 jx--7
 nv--13
+kb--4
 LIGHT 1 line 235
 wv-2
-kb--4
 lf--8
 np--2
 wt--13
 jx--7
 nv--13
+kb--4
 bg--9
 LIGHT -1 line 237
 pu--2
 bg--9
+kb--4
 nv--13
 jx--7
 wt--13
 np--2
 lf--8
-kb--4
 wv-2
 LIGHT 1 line 239
 ls-9
 wv-2
-kb--4
 lf--8
 np--2
 wt--13
 jx--7
 nv--13
+kb--4
 bg--9
 pu--2
 LIGHT 0 line 241
@@ -574,22 +574,22 @@ UNLIMITED_VOID line 242
 wt--13
 jx--7
 nv--13
+kb--4
 bg--9
 pu--2
 ve--8
-kb--4
 lf--8
 np--2
 LIGHT 1 line 243
 ve--8
 ls-9
 wv-2
-kb--4
 lf--8
 np--2
 wt--13
 jx--7
 nv--13
+kb--4
 bg--9
 pu--2
 LIGHT 0 line 245
@@ -598,12 +598,12 @@ eb-2
 ve--8
 pu--2
 bg--9
+kb--4
 nv--13
 jx--7
 wt--13
 np--2
 lf--8
-kb--4
 wv-2
 ls-9
 LIGHT 0 line 249
@@ -613,12 +613,12 @@ eb-2
 ve--8
 pu--2
 bg--9
+kb--4
 nv--13
 jx--7
 wt--13
 np--2
 lf--8
-kb--4
 wv-2
 ls-9
 oh-10
@@ -626,10 +626,10 @@ UNLIMITED_VOID line 252
 wt--13
 jx--7
 nv--13
+kb--4
 bg--9
 pu--2
 ve--8
-kb--4
 lf--8
 np--2
 LIGHT -1 line 253
@@ -638,12 +638,12 @@ eb-2
 ve--8
 pu--2
 bg--9
+kb--4
 nv--13
 jx--7
 wt--13
 np--2
 lf--8
-kb--4
 wv-2
 ls-9
 oh-10
@@ -654,17 +654,18 @@ eb-2
 ve--8
 pu--2
 bg--9
+kb--4
 nv--13
 jx--7
 wt--13
 np--2
 lf--8
-kb--4
 wv-2
 ls-9
 oh-10
 LIGHT 1 line 257
 jx--7
+kb--4
 bg--9
 pu--2
 ve--8
@@ -674,11 +675,11 @@ kz-1
 oh-10
 ls-9
 wv-2
-kb--4
 lf--8
 np--2
 LIGHT 1 line 259
 kp--2
+kb--4
 bg--9
 pu--2
 ve--8
@@ -688,7 +689,6 @@ kz-1
 oh-10
 ls-9
 wv-2
-kb--4
 lf--8
 np--2
 jx--7
@@ -1370,21 +1370,18 @@ du--8
 yx--4
 wc-7
 DOMAIN_EXPANSION line 612
-wc-7
+du--8
+yx--4
 LIGHT -1 line 613
-yx--4
-du--8
+wc-7
 LIGHT -1 line 615
-yx--4
-du--8
+wc-7
 LIGHT -1 line 617
 vg-11
-yx--4
-du--8
+wc-7
 LIGHT -1 line 619
 vg-11
-yx--4
-du--8
+wc-7
 LIGHT 1 line 621
 LIGHT 1 line 623
 pp--6
@@ -1498,75 +1495,44 @@ ge-13
 gs--1
 rg--7
 DOMAIN_EXPANSION line 680
-ge-13
-im-10
-wt-1
+nj--8
+rg--7
+gs--1
+yv--13
+pe--1
+lz--12
+cr--1
 LIGHT 1 line 681
-lz--12
-cr--1
-pe--1
-yv--13
-nj--8
-rg--7
-gs--1
+im-10
+ge-13
+wt-1
 UNLIMITED_VOID line 682
-yv--13
-nj--8
-rg--7
-gs--1
-lz--12
-cr--1
-pe--1
 LIGHT 1 line 683
-lz--12
-cr--1
-pe--1
-yv--13
-nj--8
-rg--7
-gs--1
+im-10
+ge-13
+wt-1
 LIGHT -1 line 685
 dx-6
-lz--12
-gs--1
-rg--7
-nj--8
-yv--13
-pe--1
-cr--1
+wt-1
+ge-13
+im-10
 LIGHT 1 line 687
 dx-6
-cr--1
-pe--1
-yv--13
-nj--8
-rg--7
-gs--1
-lz--12
+im-10
+ge-13
+wt-1
 LIGHT -1 line 689
 dx-6
-lz--12
-gs--1
-rg--7
-nj--8
-yv--13
-pe--1
-cr--1
+wt-1
+ge-13
+im-10
 LIGHT 0 line 691
 LIGHT 1 line 693
-dx-6
-yv--13
-nj--8
-rg--7
-gs--1
 ug--4
+dx-6
 LIGHT 1 line 695
-dx-6
-yv--13
-nj--8
-rg--7
-gs--1
 ug--4
+dx-6
 LIGHT 1 line 697
 LIGHT -1 line 699
 me-11
@@ -2032,94 +1998,94 @@ LIGHT 0 line 935
 LIGHT -1 line 937
 dl-9
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 UNLIMITED_VOID line 938
 ss--13
-zt--1
 eh--2
 lt--4
+zt--1
 el--5
 ey--12
 wt--2
 LIGHT 0 line 939
 LIGHT -1 line 941
 dl-9
-eh--2
-lt--4
 el--5
 ey--12
 wt--2
 ss--13
+eh--2
+lt--4
 zt--1
 LIGHT 1 line 943
 dz--14
 dl-9
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 LIGHT 1 line 945
 aj-12
 dl-9
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 dz--14
 LIGHT -1 line 947
 bj-14
 aj-12
 dz--14
-eh--2
-lt--4
 el--5
 ey--12
 wt--2
 ss--13
+eh--2
+lt--4
 zt--1
 dl-9
 UNLIMITED_VOID line 948
 dz--14
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 LIGHT 1 line 949
 bj-14
 dl-9
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 dz--14
 aj-12
 LIGHT -1 line 951
 on--2
 aj-12
 dz--14
-eh--2
-lt--4
 el--5
 ey--12
 wt--2
 ss--13
+eh--2
+lt--4
 zt--1
 dl-9
 bj-14
@@ -2127,12 +2093,12 @@ LIGHT -1 line 953
 on--2
 aj-12
 dz--14
-eh--2
-lt--4
 el--5
 ey--12
 wt--2
 ss--13
+eh--2
+lt--4
 zt--1
 dl-9
 bj-14
@@ -2141,36 +2107,36 @@ nz-3
 on--2
 aj-12
 dz--14
-eh--2
-lt--4
 el--5
 ey--12
 wt--2
 ss--13
+eh--2
+lt--4
 zt--1
 dl-9
 bj-14
 UNLIMITED_VOID line 956
 dz--14
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 LIGHT 0 line 957
 LIGHT 1 line 959
 nz-3
 bj-14
 dl-9
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 dz--14
 aj-12
 on--2
@@ -2180,12 +2146,12 @@ nz-3
 on--2
 aj-12
 dz--14
-eh--2
-lt--4
 el--5
 ey--12
 wt--2
 ss--13
+eh--2
+lt--4
 zt--1
 dl-9
 bj-14
@@ -2195,12 +2161,12 @@ kb-4
 bj-14
 dl-9
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 dz--14
 aj-12
 on--2
@@ -2211,20 +2177,21 @@ kb-4
 bj-14
 dl-9
 zt--1
+lt--4
+eh--2
 ss--13
 wt--2
 ey--12
 el--5
-lt--4
-eh--2
 dz--14
 aj-12
 on--2
 nz-3
 gn--14
 LIGHT 1 line 967
-ss--13
+zt--1
 eh--2
+ss--13
 dz--14
 aj-12
 on--2
@@ -2234,10 +2201,8 @@ pr-6
 kb-4
 bj-14
 dl-9
-zt--1
 LIGHT -1 line 969
 hq-4
-ss--13
 zt--1
 dl-9
 bj-14
@@ -2248,11 +2213,11 @@ nz-3
 on--2
 aj-12
 dz--14
+ss--13
 eh--2
 LIGHT -1 line 971
 va-5
 hq-4
-ss--13
 zt--1
 dl-9
 bj-14
@@ -2263,6 +2228,7 @@ nz-3
 on--2
 aj-12
 dz--14
+ss--13
 eh--2
 LIGHT 1 line 973
 on--2

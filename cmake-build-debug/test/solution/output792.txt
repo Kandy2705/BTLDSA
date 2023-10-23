@@ -36,46 +36,46 @@ ky--2
 vl--8
 mh--2
 LIGHT 12 line 17
-je-8
 qg-6
 pm-1
+je-8
 LIGHT -5 line 19
 iz--2
+je-8
 pm-1
 qg-6
-je-8
 LIGHT -10 line 21
 pc--8
+je-8
 pm-1
 qg-6
-je-8
 iz--2
 LIGHT -10 line 23
 nu-16
 pc--8
+je-8
 pm-1
 qg-6
-je-8
 iz--2
 DOMAIN_EXPANSION line 24
 pc--8
 iz--2
 LIGHT 3 line 25
-nu-16
 je-8
+nu-16
 qg-6
 pm-1
 LIGHT -10 line 27
-nu-16
+je-8
 pm-1
 qg-6
-je-8
+nu-16
 LIGHT -18 line 29
 jt--20
 pm-1
 qg-6
-je-8
 nu-16
+je-8
 LIGHT 14 line 31
 pm-1
 jt--20
@@ -131,83 +131,72 @@ qv--16
 ie--3
 hp-7
 DOMAIN_EXPANSION line 46
+cg--5
+ie--3
+qv--16
+uc--18
+jt--20
+LIGHT 1 line 47
 hp-7
 ey-16
-nu-16
 pm-1
-LIGHT 1 line 47
-jt--20
-uc--18
-qv--16
-ie--3
-cg--5
+nu-16
 LIGHT -18 line 49
 dx-3
-jt--20
-cg--5
-ie--3
-qv--16
-uc--18
+nu-16
+pm-1
+ey-16
+hp-7
 LIGHT -10 line 51
 pv-18
 dx-3
-jt--20
-cg--5
-ie--3
-qv--16
-uc--18
+nu-16
+pm-1
+ey-16
+hp-7
 UNLIMITED_VOID line 52
-jt--20
-uc--18
-qv--16
-ie--3
-cg--5
+pm-1
+nu-16
+dx-3
+ey-16
 LIGHT -16 line 53
 pv-18
 dx-3
-jt--20
-cg--5
-ie--3
-qv--16
-uc--18
+nu-16
+pm-1
+ey-16
+hp-7
 LIGHT 11 line 55
 ll--9
 pv-18
-uc--18
-qv--16
-ie--3
-cg--5
-jt--20
+hp-7
+ey-16
+pm-1
+nu-16
 dx-3
 LIGHT -17 line 57
 mz--11
-ll--9
 dx-3
-jt--20
-cg--5
-ie--3
-qv--16
-uc--18
+nu-16
+pm-1
+ey-16
+hp-7
 pv-18
-UNLIMITED_VOID line 58
-jt--20
-dx-3
 ll--9
+UNLIMITED_VOID line 58
 mz--11
-uc--18
-qv--16
-ie--3
-cg--5
+ll--9
+nu-16
+dx-3
 LIGHT 14 line 59
 mz--11
-pv-18
-uc--18
-qv--16
-ie--3
-cg--5
-jt--20
-dx-3
 ll--9
+pv-18
+hp-7
+ey-16
+pm-1
+nu-16
+dx-3
 LIGHT 8 line 61
 LIGHT -15 line 63
 LIGHT -19 line 65
@@ -440,23 +429,23 @@ DOMAIN_EXPANSION line 160
 zl--15
 eq--20
 LIGHT -20 line 161
+xd-1
+rg-15
+qg-11
 ls-18
 lb-11
 xe-5
 du-3
 zw-17
-xd-1
-rg-15
-qg-11
 LIGHT 12 line 163
+xd-1
+rg-15
+qg-11
 ls-18
 lb-11
 xe-5
 du-3
 zw-17
-xd-1
-rg-15
-qg-11
 LIGHT -1 line 165
 gr-8
 qg-11
@@ -655,35 +644,35 @@ qe--7
 gf--5
 br--10
 LIGHT -15 line 195
-xd-1
-ob-14
-rg-15
-cf-1
 gr-8
 ux-8
 ht-11
 fk-8
 bn-7
+xd-1
+ob-14
+rg-15
+cf-1
 LIGHT -4 line 197
 lm-9
+cf-1
+gr-8
+ux-8
+ht-11
+fk-8
+bn-7
 xd-1
 ob-14
 rg-15
-cf-1
-gr-8
-ux-8
-ht-11
-fk-8
-bn-7
 LIGHT -9 line 199
 aa--4
+lm-9
 cf-1
 gr-8
 ux-8
 ht-11
 fk-8
 bn-7
-lm-9
 xd-1
 ob-14
 rg-15

@@ -339,16 +339,15 @@ xs--7
 un--4
 LIGHT 0 line 193
 DOMAIN_EXPANSION line 194
-ux-9
-LIGHT -1 line 195
-un--4
 xs--7
+un--4
+LIGHT -1 line 195
+ux-9
 DOMAIN_EXPANSION line 196
 LIGHT 0 line 197
 LIGHT 1 line 199
 zx--15
-un--4
-xs--7
+ux-9
 LIGHT -1 line 201
 DOMAIN_EXPANSION line 202
 LIGHT -1 line 203
@@ -1574,45 +1573,37 @@ rx--6
 pq-12
 pp--14
 DOMAIN_EXPANSION line 574
-pq-12
-LIGHT -1 line 575
-pp--14
 rx--6
+pp--14
+LIGHT -1 line 575
+pq-12
 LIGHT -1 line 577
 le--4
-pp--14
-rx--6
+pq-12
 LIGHT 0 line 579
 LIGHT -1 line 581
-lg--7
 LIGHT 1 line 583
 ue--7
-lg--7
 UNLIMITED_VOID line 584
 LIGHT 1 line 585
 ue--7
-lg--7
 LIGHT 1 line 587
 nl--12
 ue--7
-lg--7
 LIGHT 0 line 589
 DOMAIN_EXPANSION line 590
 LIGHT -1 line 591
 nl--12
-lg--7
 ue--7
 DOMAIN_EXPANSION line 592
 LIGHT 0 line 593
 LIGHT 1 line 595
 yo--7
 ue--7
-lg--7
 nl--12
 LIGHT 1 line 597
 wy--3
 ue--7
-lg--7
 nl--12
 yo--7
 UNLIMITED_VOID line 598
@@ -1620,55 +1611,46 @@ nl--12
 yo--7
 wy--3
 ue--7
-lg--7
 LIGHT 1 line 599
 wy--3
 ue--7
-lg--7
 nl--12
 yo--7
 LIGHT -1 line 601
 wy--3
 ue--7
-lg--7
 nl--12
 yo--7
 LIGHT 1 line 603
 wy--3
 yo--7
 nl--12
-lg--7
 ue--7
 LIGHT -1 line 605
 jh-10
 wy--3
 ue--7
-lg--7
 nl--12
 yo--7
 LIGHT -1 line 607
 sx-1
 wy--3
 ue--7
-lg--7
 nl--12
 yo--7
 jh-10
 LIGHT -1 line 609
 jh-10
 sx-1
-wy--3
 LIGHT 1 line 611
 uu-5
 jh-10
-wy--3
 sx-1
 LIGHT 0 line 613
 LIGHT -1 line 615
 cn-4
 fp--6
 sx-1
-wy--3
 jh-10
 uu-5
 LIGHT -1 line 617
@@ -1676,7 +1658,6 @@ yk-9
 cn-4
 fp--6
 sx-1
-wy--3
 jh-10
 uu-5
 LIGHT -1 line 619
@@ -1684,7 +1665,6 @@ yk-9
 cn-4
 fp--6
 sx-1
-wy--3
 jh-10
 uu-5
 LIGHT -1 line 621
@@ -1692,7 +1672,6 @@ yk-9
 cn-4
 fp--6
 sx-1
-wy--3
 jh-10
 uu-5
 LIGHT -1 line 623
@@ -1700,7 +1679,6 @@ ah--13
 cn-4
 fp--6
 sx-1
-wy--3
 jh-10
 uu-5
 yk-9
@@ -1709,13 +1687,11 @@ ah--13
 yk-9
 uu-5
 jh-10
-wy--3
 sx-1
 fp--6
 cn-4
 LIGHT -1 line 627
 ah--13
-yk-9
 LIGHT 0 line 629
 DOMAIN_EXPANSION line 630
 LIGHT -1 line 631
@@ -2385,32 +2361,32 @@ pf--3
 ge--3
 et--5
 LIGHT -1 line 889
-jj-12
 zc-7
 xy-11
+jj-12
 LIGHT 1 line 891
-jj-12
 zc-7
 xy-11
+jj-12
 LIGHT -1 line 893
 df-11
-xy-11
 zc-7
 jj-12
-LIGHT 1 line 895
 xy-11
+LIGHT 1 line 895
 df-11
+xy-11
 jj-12
 LIGHT 1 line 897
 mf-10
-xy-11
 df-11
+xy-11
 jj-12
 LIGHT 1 line 899
 wc-2
 mf-10
-xy-11
 df-11
+xy-11
 jj-12
 DOMAIN_EXPANSION line 900
 LIGHT 0 line 901
@@ -2418,8 +2394,8 @@ DOMAIN_EXPANSION line 902
 LIGHT 1 line 903
 wc-2
 mf-10
-xy-11
 df-11
+xy-11
 jj-12
 LIGHT -1 line 905
 LIGHT -1 line 907

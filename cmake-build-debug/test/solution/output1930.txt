@@ -204,25 +204,25 @@ ni-8
 jf-9
 uc--15
 DOMAIN_EXPANSION line 109
-ni-8
-jf-9
-LIGHT -1 line 110
-uc--15
 il--12
+uc--15
+LIGHT -1 line 110
+jf-9
+ni-8
 LIGHT 1 line 112
 oz--3
-il--12
-uc--15
+jf-9
+ni-8
 LIGHT -1 line 114
 uz-10
 oz--3
-uc--15
-il--12
+ni-8
+jf-9
 LIGHT -1 line 116
 gc-2
 oz--3
-uc--15
-il--12
+ni-8
+jf-9
 uz-10
 LIGHT 0 line 118
 LIGHT 1 line 120
@@ -316,6 +316,7 @@ DOMAIN_EXPANSION line 157
 tp-4
 iq-11
 LIGHT 1 line 158
+xg--13
 fz--13
 wq--12
 on--2
@@ -323,7 +324,6 @@ ru--3
 no--11
 ec--11
 my--15
-xg--13
 DOMAIN_EXPANSION line 159
 LIGHT 0 line 160
 LIGHT 1 line 162

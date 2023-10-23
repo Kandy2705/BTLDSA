@@ -297,48 +297,48 @@ lr--6
 pg--17
 ir--17
 LIGHT 8 line 57
-nv-19
-bi-14
 zg-9
 wc-19
 ts-12
 yw-5
 qe-18
 cp-11
+nv-19
+bi-14
 DOMAIN_EXPANSION line 58
 LIGHT 15 line 59
-nv-19
-bi-14
 zg-9
 wc-19
 ts-12
 yw-5
 qe-18
 cp-11
+nv-19
+bi-14
 UNLIMITED_VOID line 60
 yw-5
 zg-9
 wc-19
 ts-12
 LIGHT 8 line 61
-nv-19
-bi-14
 zg-9
 wc-19
 ts-12
 yw-5
 qe-18
 cp-11
+nv-19
+bi-14
 LIGHT 12 line 63
 pz--14
-nv-19
-bi-14
 zg-9
 wc-19
 ts-12
 yw-5
 qe-18
 cp-11
+nv-19
+bi-14
 LIGHT -20 line 65
 LIGHT -14 line 67
 fs-6
@@ -661,6 +661,8 @@ ug--18
 ye--18
 nm--16
 LIGHT 1 line 133
+xa-3
+so-17
 ti-16
 ri-3
 fi-1
@@ -672,12 +674,8 @@ bb-10
 vx-11
 ez-4
 fs-6
-xa-3
-so-17
 DOMAIN_EXPANSION line 134
 LIGHT -14 line 135
-ti-16
-so-17
 xa-3
 fs-6
 ez-4
@@ -689,8 +687,11 @@ uk-11
 ak-16
 fi-1
 ri-3
+ti-16
+so-17
 LIGHT 11 line 137
 fk-15
+so-17
 ti-16
 ri-3
 fi-1
@@ -703,14 +704,13 @@ vx-11
 ez-4
 fs-6
 xa-3
-so-17
 LIGHT -10 line 139
 ao-11
 fi-1
 ri-3
 ti-16
-fk-15
 so-17
+fk-15
 xa-3
 fs-6
 ez-4
@@ -722,6 +722,7 @@ uk-11
 ak-16
 LIGHT -19 line 141
 uj--17
+fk-15
 xa-3
 fs-6
 ez-4
@@ -735,12 +736,10 @@ ao-11
 fi-1
 ri-3
 ti-16
-fk-15
 so-17
 LIGHT 9 line 143
 pg--4
 so-17
-fk-15
 ti-16
 ri-3
 fi-1
@@ -754,10 +753,12 @@ vx-11
 ez-4
 fs-6
 xa-3
+fk-15
 uj--17
 LIGHT -7 line 145
 tq-3
 uj--17
+fk-15
 xa-3
 fs-6
 ez-4
@@ -771,13 +772,11 @@ ao-11
 fi-1
 ri-3
 ti-16
-fk-15
 so-17
 pg--4
 LIGHT 14 line 147
 ic--2
 so-17
-fk-15
 ti-16
 ri-3
 fi-1
@@ -791,13 +790,13 @@ vx-11
 ez-4
 fs-6
 xa-3
+fk-15
 uj--17
 tq-3
 pg--4
 LIGHT 1 line 149
 ze--16
 so-17
-fk-15
 ti-16
 ri-3
 fi-1
@@ -811,6 +810,7 @@ vx-11
 ez-4
 fs-6
 xa-3
+fk-15
 uj--17
 tq-3
 pg--4
@@ -821,10 +821,8 @@ ic--2
 pg--4
 uj--17
 LIGHT 10 line 151
-xa-3
 tq-3
 so-17
-fk-15
 ti-16
 ri-3
 fi-1
@@ -837,9 +835,12 @@ bb-10
 vx-11
 ez-4
 fs-6
+xa-3
+fk-15
 LIGHT -19 line 153
 zj--14
 tq-3
+fk-15
 xa-3
 fs-6
 ez-4
@@ -853,12 +854,10 @@ ao-11
 fi-1
 ri-3
 ti-16
-fk-15
 so-17
 LIGHT 5 line 155
 in--5
 so-17
-fk-15
 ti-16
 ri-3
 fi-1
@@ -872,17 +871,17 @@ vx-11
 ez-4
 fs-6
 xa-3
+fk-15
 tq-3
 zj--14
 UNLIMITED_VOID line 156
 zj--14
 in--5
-xa-3
+fk-15
 tq-3
 LIGHT 10 line 157
 in--5
 so-17
-fk-15
 ti-16
 ri-3
 fi-1
@@ -896,13 +895,14 @@ vx-11
 ez-4
 fs-6
 xa-3
+fk-15
 tq-3
 zj--14
 LIGHT 5 line 159
+fk-15
 tq-3
 zj--14
 in--5
-fk-15
 ri-3
 fi-1
 ao-11
@@ -915,7 +915,6 @@ in--5
 zj--14
 LIGHT 6 line 161
 tq-3
-fk-15
 ri-3
 fi-1
 ao-11
@@ -923,8 +922,10 @@ ak-16
 uk-11
 wn-9
 ct-14
+fk-15
 LIGHT -8 line 163
 wa--9
+fk-15
 ct-14
 wn-9
 uk-11
@@ -932,74 +933,73 @@ ak-16
 ao-11
 fi-1
 ri-3
-fk-15
 tq-3
 LIGHT -19 line 165
-wa--9
+fk-15
 ao-11
 fi-1
 ri-3
-fk-15
 tq-3
+wa--9
 LIGHT 13 line 167
 xj-6
-tq-3
 fk-15
+wa--9
+tq-3
 ri-3
 fi-1
 ao-11
-wa--9
 LIGHT 1 line 169
 ia--5
 xj-6
-tq-3
 fk-15
+wa--9
+tq-3
 ri-3
 fi-1
 ao-11
-wa--9
 UNLIMITED_VOID line 170
 wa--9
-ia--5
-xj-6
 tq-3
+ri-3
+fi-1
 LIGHT 11 line 171
 ia--5
 xj-6
-tq-3
 fk-15
+wa--9
+tq-3
 ri-3
 fi-1
 ao-11
-wa--9
 LIGHT 6 line 173
 ia--5
 xj-6
-tq-3
 fk-15
+wa--9
+tq-3
 ri-3
 fi-1
 ao-11
-wa--9
 LIGHT -8 line 175
 yz--7
-wa--9
 ao-11
 fi-1
 ri-3
-fk-15
 tq-3
+wa--9
+fk-15
 xj-6
 ia--5
 LIGHT -6 line 177
 eb-9
 yz--7
-wa--9
 ao-11
 fi-1
 ri-3
-fk-15
 tq-3
+wa--9
+fk-15
 xj-6
 ia--5
 LIGHT -4 line 179
@@ -1007,30 +1007,30 @@ eb-9
 yz--7
 xj-6
 ia--5
-wa--9
-tq-3
 fk-15
+tq-3
 ri-3
 fi-1
+wa--9
 ao-11
 LIGHT 7 line 181
 eb-9
-xj-6
-tq-3
-fk-15
-ri-3
 yz--7
+xj-6
+fk-15
+tq-3
+ri-3
 ia--5
 fi-1
 wa--9
 ao-11
 LIGHT 17 line 183
 xm-18
-xj-6
-tq-3
-fk-15
-ri-3
 yz--7
+xj-6
+fk-15
+tq-3
+ri-3
 ia--5
 fi-1
 wa--9
@@ -1043,11 +1043,11 @@ ao-11
 wa--9
 fi-1
 ia--5
-yz--7
 ri-3
-fk-15
 tq-3
+fk-15
 xj-6
+yz--7
 LIGHT -8 line 187
 eq--3
 eb-9
@@ -1055,20 +1055,20 @@ ao-11
 wa--9
 fi-1
 ia--5
-yz--7
 ri-3
-fk-15
 tq-3
+fk-15
 xj-6
+yz--7
 xm-18
 LIGHT 1 line 189
 jj-17
 xm-18
-xj-6
-tq-3
-fk-15
-ri-3
 yz--7
+xj-6
+fk-15
+tq-3
+ri-3
 ia--5
 fi-1
 wa--9
@@ -1084,11 +1084,11 @@ ao-11
 wa--9
 fi-1
 ia--5
-yz--7
 ri-3
-fk-15
 tq-3
+fk-15
 xj-6
+yz--7
 xm-18
 jj-17
 LIGHT -13 line 195
@@ -1101,15 +1101,15 @@ ao-11
 wa--9
 fi-1
 ia--5
-yz--7
 ri-3
-fk-15
 tq-3
+fk-15
 xj-6
+yz--7
 xm-18
 UNLIMITED_VOID line 196
 wa--9
-yz--7
+ri-3
 ia--5
 fi-1
 LIGHT -18 line 197
@@ -1122,14 +1122,13 @@ ao-11
 wa--9
 fi-1
 ia--5
-yz--7
 ri-3
-fk-15
 tq-3
+fk-15
 xj-6
+yz--7
 xm-18
 LIGHT 18 line 199
-yz--7
 ia--5
 wa--9
 eb-9
@@ -1138,4 +1137,5 @@ gb--1
 jj-17
 hu--20
 xm-18
+yz--7
 xj-6

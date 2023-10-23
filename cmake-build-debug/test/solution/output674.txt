@@ -5,78 +5,84 @@ LIGHT 9 line 7
 ke-11
 xy--13
 DOMAIN_EXPANSION line 8
-ke-11
-LIGHT -14 line 9
 xy--13
+LIGHT -14 line 9
+ke-11
 LIGHT -7 line 11
 ow-15
-xy--13
+ke-11
 LIGHT -8 line 13
 vu-19
 ow-15
-xy--13
+ke-11
 DOMAIN_EXPANSION line 14
-xy--13
 LIGHT 6 line 15
 vu-19
+ke-11
 ow-15
 LIGHT 13 line 17
 yw--3
 vu-19
+ke-11
 ow-15
 LIGHT -5 line 19
 lg--17
 ow-15
+ke-11
 vu-19
 yw--3
 LIGHT 3 line 21
 lg--17
 yw--3
 vu-19
+ke-11
 ow-15
 LIGHT -4 line 23
 lu--17
+yw--3
 lg--17
 ow-15
+ke-11
 vu-19
-yw--3
 DOMAIN_EXPANSION line 24
-vu-19
-ow-15
+lu--17
+lg--17
+yw--3
 LIGHT 11 line 25
-lg--17
-lu--17
-yw--3
+ow-15
+vu-19
+ke-11
 LIGHT -15 line 27
-lg--17
-lu--17
-yw--3
+ow-15
+vu-19
+ke-11
 LIGHT 15 line 29
 wc-19
-yw--3
-lu--17
-lg--17
+ke-11
+vu-19
+ow-15
 UNLIMITED_VOID line 30
-lg--17
+ke-11
+vu-19
+ow-15
 wc-19
-yw--3
-lu--17
 LIGHT -17 line 31
 wc-19
-lg--17
-lu--17
-yw--3
+ow-15
+vu-19
+ke-11
 DOMAIN_EXPANSION line 32
-wc-19
 LIGHT -11 line 33
-yw--3
-lg--17
-lu--17
+wc-19
+ow-15
+vu-19
+ke-11
 LIGHT 1 line 35
 vj-17
-lu--17
-lg--17
-yw--3
+wc-19
+ke-11
+vu-19
+ow-15
 LIGHT 8 line 37
 LIGHT 5 line 39
 LIGHT 14 line 41
@@ -132,106 +138,106 @@ la--16
 yn--5
 ei-18
 DOMAIN_EXPANSION line 64
-xd-14
-rh-3
-ei-18
-LIGHT -15 line 65
-yn--5
 xw--18
 la--16
+yn--5
+LIGHT -15 line 65
+rh-3
+xd-14
+ei-18
 LIGHT 15 line 67
 dl--9
-yn--5
-la--16
-xw--18
+rh-3
+ei-18
+xd-14
 LIGHT -14 line 69
 au-9
 dl--9
-xw--18
-la--16
-yn--5
+xd-14
+ei-18
+rh-3
 UNLIMITED_VOID line 70
-xw--18
 dl--9
-yn--5
-la--16
+au-9
+rh-3
+xd-14
 LIGHT -17 line 71
 au-9
 dl--9
-xw--18
-la--16
-yn--5
+xd-14
+ei-18
+rh-3
 LIGHT -9 line 73
 pd--8
-dl--9
-xw--18
-la--16
-yn--5
+rh-3
 au-9
+dl--9
+xd-14
+ei-18
 LIGHT -8 line 75
 pd--8
 au-9
-yn--5
-la--16
-xw--18
+rh-3
 dl--9
+ei-18
+xd-14
 LIGHT 12 line 77
 pd--8
-yn--5
-la--16
-xw--18
-au-9
+ei-18
+xd-14
 dl--9
+au-9
+rh-3
 LIGHT -13 line 79
 me-2
-xw--18
-la--16
-yn--5
 pd--8
-dl--9
+rh-3
 au-9
+dl--9
+xd-14
+ei-18
 LIGHT -11 line 81
 ll--1
-xw--18
-la--16
-yn--5
-pd--8
-dl--9
-au-9
 me-2
+pd--8
+rh-3
+au-9
+dl--9
+xd-14
+ei-18
 LIGHT -13 line 83
 vy-11
-xw--18
-la--16
-yn--5
-pd--8
 dl--9
-au-9
-me-2
+xd-14
+ei-18
 ll--1
+me-2
+pd--8
+rh-3
+au-9
 LIGHT 2 line 85
 sb--1
-vy-11
-ll--1
-me-2
-au-9
+ei-18
+xd-14
 dl--9
+vy-11
+au-9
+rh-3
 pd--8
-yn--5
-la--16
-xw--18
+me-2
+ll--1
 LIGHT -20 line 87
 dc-19
-xw--18
-la--16
-yn--5
-pd--8
 dl--9
-au-9
-me-2
-ll--1
-vy-11
+xd-14
+ei-18
 sb--1
+ll--1
+me-2
+pd--8
+rh-3
+au-9
+vy-11
 LIGHT -20 line 89
 LIGHT 0 line 91
 LIGHT 2 line 93
@@ -412,10 +418,10 @@ fy--11
 zo--18
 ka--7
 LIGHT -16 line 147
-ke-8
-pg-15
 tm-16
 cw-11
+ke-8
+pg-15
 LIGHT 0 line 149
 LIGHT -17 line 151
 zw-19
@@ -491,12 +497,12 @@ mv--6
 ii--12
 od--13
 LIGHT 8 line 197
-jn-4
-qf-15
 ew-15
 ha-18
+jn-4
+qf-15
 LIGHT 8 line 199
-jn-4
-qf-15
 ew-15
 ha-18
+jn-4
+qf-15

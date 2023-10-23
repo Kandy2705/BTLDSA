@@ -12,17 +12,20 @@ cv-11
 ik--20
 gk-2
 DOMAIN_EXPANSION line 10
-cv-11
-gk-2
+ik--20
 LIGHT 10 line 11
-ik--20
+gk-2
+cv-11
 LIGHT 13 line 13
-ik--20
+gk-2
+cv-11
 LIGHT -8 line 15
-ik--20
+gk-2
+cv-11
 DOMAIN_EXPANSION line 16
 LIGHT -6 line 17
-ik--20
+gk-2
+cv-11
 LIGHT 2 line 19
 LIGHT -14 line 21
 LIGHT -10 line 23
@@ -351,16 +354,14 @@ qh--16
 hl-19
 fd--13
 DOMAIN_EXPANSION line 98
-hl-19
-LIGHT 5 line 99
-qh--16
 fo--8
+qh--16
 fd--13
+LIGHT 5 line 99
+hl-19
 LIGHT -9 line 101
 mp--3
-qh--16
-fd--13
-fo--8
+hl-19
 LIGHT -2 line 103
 LIGHT -10 line 105
 dq-3
@@ -434,66 +435,66 @@ sm--20
 yf--16
 fx--4
 LIGHT 18 line 127
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 LIGHT -17 line 129
-lt-8
 jf-8
 lk-7
 en-6
 pj-8
 dq-3
+lt-8
 LIGHT 7 line 131
 gq--10
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 LIGHT 7 line 133
 px-15
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 gq--10
 LIGHT -6 line 135
 db--9
 gq--10
-jf-8
 lk-7
 en-6
 pj-8
 dq-3
 lt-8
+jf-8
 px-15
 LIGHT 3 line 137
 fw-16
 db--9
 px-15
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 gq--10
 LIGHT -15 line 139
 ay--16
 gq--10
-jf-8
 lk-7
 en-6
 pj-8
 dq-3
 lt-8
+jf-8
 px-15
 db--9
 fw-16
@@ -501,12 +502,12 @@ LIGHT -12 line 141
 xn--3
 ay--16
 gq--10
-jf-8
 lk-7
 en-6
 pj-8
 dq-3
 lt-8
+jf-8
 px-15
 db--9
 fw-16
@@ -515,24 +516,24 @@ xn--3
 fw-16
 db--9
 px-15
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 gq--10
 ay--16
 LIGHT -6 line 145
 qs-12
 ay--16
 gq--10
-jf-8
 lk-7
 en-6
 pj-8
 dq-3
 lt-8
+jf-8
 px-15
 db--9
 fw-16
@@ -541,12 +542,12 @@ LIGHT -4 line 147
 qs-12
 ay--16
 gq--10
-jf-8
 lk-7
 en-6
 pj-8
 dq-3
 lt-8
+jf-8
 px-15
 db--9
 fw-16
@@ -558,12 +559,12 @@ fw-16
 xn--3
 db--9
 px-15
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 gq--10
 LIGHT 0 line 151
 DOMAIN_EXPANSION line 152
@@ -572,50 +573,50 @@ ay--16
 db--9
 gq--10
 LIGHT 13 line 153
+px-15
+fw-16
+fc-18
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 dq-3
 lt-8
-px-15
-fw-16
-fc-18
+jf-8
 DOMAIN_EXPANSION line 154
 LIGHT -10 line 155
-qs-12
-fc-18
-fw-16
 px-15
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
+qs-12
+fc-18
+fw-16
 LIGHT -17 line 157
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 fc-18
 LIGHT 16 line 159
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 dq-3
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 fc-18
 LIGHT 17 line 161
@@ -623,24 +624,24 @@ sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 fc-18
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 dq-3
 LIGHT -14 line 163
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -649,13 +650,13 @@ LIGHT -2 line 165
 br-2
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -665,13 +666,13 @@ hs--13
 br-2
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -682,13 +683,13 @@ fc-18
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 dq-3
 sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 kc-1
 br-2
@@ -699,13 +700,13 @@ hs--13
 br-2
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -716,13 +717,13 @@ fc-18
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 dq-3
 sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 kc-1
 br-2
@@ -733,13 +734,13 @@ hs--13
 br-2
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -750,13 +751,13 @@ hs--13
 br-2
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -772,13 +773,13 @@ hs--13
 br-2
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -791,13 +792,13 @@ LIGHT -20 line 181
 qv-18
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -812,13 +813,13 @@ fc-18
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 dq-3
 sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 kc-1
 LIGHT 16 line 185
@@ -829,26 +830,26 @@ fc-18
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 dq-3
 sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 kc-1
 LIGHT -17 line 187
 qv-18
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -859,13 +860,13 @@ LIGHT 18 line 189
 qv-18
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 dq-3
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -877,12 +878,12 @@ bc--10
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 kc-1
 qv-18
@@ -894,12 +895,12 @@ bc--10
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 kc-1
 qv-18
@@ -916,12 +917,12 @@ br-2
 qv-18
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -938,12 +939,12 @@ br-2
 qv-18
 kc-1
 qs-12
-jf-8
 lk-7
 en-6
 pj-8
 sv-17
 lt-8
+jf-8
 px-15
 fw-16
 sk-8
@@ -952,12 +953,12 @@ ui-7
 sk-8
 fw-16
 px-15
+jf-8
 lt-8
 sv-17
 pj-8
 en-6
 lk-7
-jf-8
 qs-12
 kc-1
 qv-18

@@ -63,15 +63,15 @@ ys--9
 vv--9
 fd--2
 LIGHT -1 line 33
-yz-12
 pe-2
 bs-10
 lt-2
+yz-12
 LIGHT -1 line 35
-yz-12
 pe-2
 bs-10
 lt-2
+yz-12
 DOMAIN_EXPANSION line 36
 LIGHT 0 line 37
 LIGHT -1 line 39
@@ -1352,13 +1352,13 @@ LIGHT 1 line 607
 ir--9
 co-8
 DOMAIN_EXPANSION line 608
-co-8
+ir--9
 LIGHT 0 line 609
 DOMAIN_EXPANSION line 610
 LIGHT 1 line 611
-ir--9
+co-8
 LIGHT 1 line 613
-ir--9
+co-8
 LIGHT 1 line 615
 LIGHT -1 line 617
 dg-5
@@ -1558,7 +1558,11 @@ ty--8
 jz--2
 zh--4
 DOMAIN_EXPANSION line 730
-nl-10
+dp--1
+zh--4
+jz--2
+ty--8
+tq--1
 LIGHT 0 line 731
 LIGHT 0 line 733
 LIGHT -1 line 735
@@ -1670,51 +1674,51 @@ DOMAIN_EXPANSION line 808
 nm-3
 te-12
 LIGHT -1 line 809
-qa--8
 je--10
 dq--15
+qa--8
 LIGHT 1 line 811
 sb--4
+qa--8
 dq--15
 je--10
-qa--8
 LIGHT 1 line 813
 pl--15
 sb--4
+qa--8
 dq--15
 je--10
-qa--8
 LIGHT -1 line 815
 oe-4
 pl--15
-qa--8
 je--10
 dq--15
+qa--8
 sb--4
 LIGHT 1 line 817
 oe-4
 sb--4
+qa--8
 dq--15
 je--10
-qa--8
 pl--15
 LIGHT 0 line 819
 LIGHT 1 line 821
 xd-1
 wj-11
 sb--4
+qa--8
 dq--15
 je--10
-qa--8
 pl--15
 oe-4
 LIGHT -1 line 823
 ni--12
 oe-4
 pl--15
-qa--8
 je--10
 dq--15
+qa--8
 sb--4
 wj-11
 xd-1

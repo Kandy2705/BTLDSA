@@ -101,10 +101,10 @@ DOMAIN_EXPANSION line 56
 nb--4
 qh--2
 LIGHT 7 line 57
-bg-15
 rn-19
 di-9
 so-12
+bg-15
 LIGHT -16 line 59
 di-9
 UNLIMITED_VOID line 60
@@ -350,80 +350,88 @@ bp--1
 ec--13
 rz--3
 DOMAIN_EXPANSION line 134
+yu--10
+ag--17
+ec--13
+bp--1
+rz--3
+LIGHT -3 line 135
+jy-6
+lc-1
+gj-6
+qv-5
 eq-7
 gf-11
-qv-5
-gj-6
-lc-1
-jy-6
-LIGHT -3 line 135
-bp--1
-ag--17
-yu--10
-rz--3
-ec--13
 LIGHT -1 line 137
 yi--3
-ag--17
-yu--10
-rz--3
-ec--13
-bp--1
+lc-1
+gj-6
+qv-5
+eq-7
+gf-11
+jy-6
 LIGHT -14 line 139
 vq--10
-ag--17
-yu--10
-rz--3
-ec--13
-bp--1
+lc-1
+gj-6
+qv-5
+eq-7
+gf-11
+jy-6
 yi--3
 LIGHT -6 line 141
 ex--2
 vq--10
-ag--17
-yu--10
-rz--3
-ec--13
-bp--1
+lc-1
+gj-6
+qv-5
+eq-7
+gf-11
+jy-6
 yi--3
 LIGHT -7 line 143
 ex--2
 yi--3
-bp--1
-ec--13
-rz--3
-yu--10
-ag--17
 vq--10
+jy-6
+gf-11
+eq-7
+qv-5
+gj-6
+lc-1
 LIGHT 19 line 145
 zf-12
+lc-1
+gj-6
+qv-5
+eq-7
+gf-11
+jy-6
 vq--10
-ag--17
-yu--10
-rz--3
-ec--13
-bp--1
 yi--3
 ex--2
 LIGHT 7 line 147
 cd--2
 zf-12
+lc-1
+gj-6
+qv-5
+eq-7
+gf-11
+jy-6
 vq--10
-ag--17
-yu--10
-rz--3
-ec--13
-bp--1
 yi--3
 ex--2
 LIGHT -8 line 149
 vq--10
+eq-7
 zf-12
 cd--2
 ex--2
 yi--3
 LIGHT -19 line 151
 zt--17
+eq-7
 zf-12
 cd--2
 ex--2
@@ -436,6 +444,7 @@ yi--3
 ex--2
 cd--2
 zf-12
+eq-7
 zt--17
 LIGHT 1 line 155
 jd--4
@@ -444,6 +453,7 @@ yi--3
 ex--2
 cd--2
 zf-12
+eq-7
 zt--17
 UNLIMITED_VOID line 156
 zt--17
@@ -455,6 +465,7 @@ cd--2
 LIGHT -9 line 157
 jd--4
 zt--17
+eq-7
 zf-12
 cd--2
 ex--2
@@ -464,6 +475,7 @@ LIGHT -10 line 159
 ae-8
 jd--4
 zt--17
+eq-7
 zf-12
 cd--2
 ex--2
@@ -481,6 +493,7 @@ LIGHT -6 line 161
 ae-8
 jd--4
 zt--17
+eq-7
 zf-12
 cd--2
 ex--2
@@ -490,6 +503,7 @@ LIGHT -10 line 163
 eg--12
 jd--4
 zt--17
+eq-7
 zf-12
 cd--2
 ex--2
@@ -504,6 +518,7 @@ yi--3
 ex--2
 cd--2
 zf-12
+eq-7
 zt--17
 jd--4
 eg--12
@@ -512,6 +527,7 @@ sb-10
 eg--12
 jd--4
 zt--17
+eq-7
 zf-12
 cd--2
 ex--2
@@ -520,81 +536,92 @@ vq--10
 ae-8
 nr-15
 LIGHT -4 line 169
+eg--12
 nr-15
 sb-10
 LIGHT -15 line 171
 pm-12
-sb-10
+eg--12
 nr-15
+sb-10
 LIGHT -7 line 173
 wl--13
-sb-10
+eg--12
 nr-15
+sb-10
 pm-12
 UNLIMITED_VOID line 174
 wl--13
 pm-12
-nr-15
 sb-10
+eg--12
 LIGHT -8 line 175
 wl--13
-sb-10
+eg--12
 nr-15
+sb-10
 pm-12
 LIGHT 6 line 177
 jn--17
 wl--13
 pm-12
-nr-15
 sb-10
+nr-15
+eg--12
 LIGHT 15 line 179
 ei--20
 jn--17
 wl--13
 pm-12
-nr-15
 sb-10
+nr-15
+eg--12
 LIGHT 8 line 181
 ei--20
 jn--17
 wl--13
 pm-12
-nr-15
 sb-10
+nr-15
+eg--12
 LIGHT 1 line 183
 ei--20
-wl--13
-sb-10
+eg--12
 nr-15
+sb-10
 pm-12
+wl--13
 jn--17
 LIGHT -8 line 185
 ap--9
 ei--20
 jn--17
-pm-12
-nr-15
-sb-10
 wl--13
+pm-12
+sb-10
+nr-15
+eg--12
 LIGHT 12 line 187
 vv-2
-wl--13
-sb-10
+eg--12
 nr-15
+sb-10
 pm-12
+wl--13
 jn--17
 ei--20
 ap--9
 DOMAIN_EXPANSION line 188
-vv-2
-pm-12
-sb-10
-nr-15
-LIGHT 7 line 189
-jn--17
-ei--20
 ap--9
+ei--20
+jn--17
 wl--13
+eg--12
+LIGHT 7 line 189
+pm-12
+vv-2
+nr-15
+sb-10
 LIGHT 18 line 191
 UNLIMITED_VOID line 192
 LIGHT 7 line 193

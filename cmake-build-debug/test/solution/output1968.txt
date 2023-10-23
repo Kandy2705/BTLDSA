@@ -885,13 +885,13 @@ vr-13
 ff--6
 ti--1
 DOMAIN_EXPANSION line 300
-vr-13
+ti--1
+ff--6
+bl--8
 LIGHT 0 line 301
 LIGHT 1 line 304
 ew--5
-ti--1
-bl--8
-ff--6
+vr-13
 LIGHT -1 line 306
 LIGHT 1 line 308
 LIGHT 1 line 310
@@ -1241,46 +1241,33 @@ tn--2
 xc--4
 wy--14
 DOMAIN_EXPANSION line 571
-fn-13
+xc--4
+wy--14
+tn--2
 LIGHT 0 line 572
 LIGHT -1 line 574
 la--6
-wy--14
-tn--2
-xc--4
+fn-13
 LIGHT -1 line 576
 lg--6
 la--6
-wy--14
-tn--2
-xc--4
+fn-13
 UNLIMITED_VOID line 577
-wy--14
-la--6
-lg--6
-xc--4
-tn--2
 LIGHT 1 line 578
 lg--6
-xc--4
-tn--2
-wy--14
+fn-13
 la--6
 LIGHT 1 line 580
 sb--11
 lg--6
-xc--4
-tn--2
-wy--14
+fn-13
 la--6
 DOMAIN_EXPANSION line 581
-LIGHT 1 line 582
 sb--11
 lg--6
-xc--4
-tn--2
-wy--14
 la--6
+LIGHT 1 line 582
+fn-13
 LIGHT 0 line 584
 LIGHT -1 line 586
 LIGHT 1 line 588
@@ -1808,6 +1795,7 @@ jv--14
 ve--5
 li--12
 LIGHT -1 line 865
+py-11
 oo-5
 ci-7
 mv-11
@@ -1817,13 +1805,11 @@ fv-8
 xt-12
 tp-11
 zb-8
-py-11
 LIGHT 0 line 867
 DOMAIN_EXPANSION line 868
 db--15
 LIGHT 0 line 869
 LIGHT -1 line 871
-ci-7
 oo-5
 py-11
 zb-8
@@ -1833,9 +1819,9 @@ fv-8
 hj-4
 oe-9
 mv-11
+ci-7
 LIGHT -1 line 873
 sa-12
-ci-7
 oo-5
 py-11
 zb-8
@@ -1845,44 +1831,45 @@ fv-8
 hj-4
 oe-9
 mv-11
+ci-7
 LIGHT 0 line 875
 LIGHT 1 line 877
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 LIGHT -1 line 879
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 LIGHT -1 line 881
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 LIGHT -1 line 883
 sg-5
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 LIGHT -1 line 885
 iy--2
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -1893,9 +1880,9 @@ bc-5
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 LIGHT 0 line 889
 LIGHT -1 line 891
@@ -1903,9 +1890,9 @@ lh-10
 cx-5
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -1915,9 +1902,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 cx-5
@@ -1929,9 +1916,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 DOMAIN_EXPANSION line 896
@@ -1941,9 +1928,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 LIGHT 1 line 899
@@ -1952,9 +1939,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 cx-5
@@ -1968,9 +1955,9 @@ ki-6
 cx-5
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -1982,9 +1969,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 cx-5
@@ -1998,9 +1985,9 @@ ai--1
 cx-5
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2012,9 +1999,9 @@ ai--1
 cx-5
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2027,9 +2014,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 cx-5
@@ -2042,9 +2029,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 cx-5
@@ -2057,9 +2044,9 @@ av-3
 cx-5
 bc-5
 zy-1
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2069,9 +2056,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 zy-1
 bc-5
 cx-5
@@ -2079,9 +2066,9 @@ av-3
 ki-6
 LIGHT 1 line 918
 il-13
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2094,9 +2081,9 @@ zy-1
 LIGHT 1 line 920
 kp--15
 il-13
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2109,9 +2096,9 @@ zy-1
 LIGHT 1 line 922
 du--12
 il-13
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2125,9 +2112,9 @@ kp--15
 LIGHT -1 line 924
 du--12
 il-13
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2146,9 +2133,9 @@ du--12
 LIGHT -1 line 926
 du--12
 il-13
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2173,9 +2160,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 LIGHT 1 line 930
 vp--12
 il-13
@@ -2188,15 +2175,15 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 LIGHT -1 line 932
 uf--11
 vp--12
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2219,23 +2206,23 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 vp--12
 uf--11
 UNLIMITED_VOID line 935
 vp--12
 uf--11
 or--7
-il-13
+ci-7
 LIGHT -1 line 936
 or--7
 uf--11
 vp--12
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2250,7 +2237,7 @@ UNLIMITED_VOID line 937
 vp--12
 uf--11
 or--7
-il-13
+ci-7
 LIGHT 1 line 938
 or--7
 il-13
@@ -2263,9 +2250,9 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 vp--12
 uf--11
 LIGHT 0 line 940
@@ -2284,15 +2271,15 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
+ci-7
 LIGHT 1 line 944
 qt-11
 fm-10
+ci-7
 po-13
 sa-12
-ci-7
 oo-5
 py-11
 sg-5
@@ -2308,6 +2295,7 @@ uf--11
 vp--12
 LIGHT -1 line 946
 cf--13
+ci-7
 fm-10
 qt-11
 vp--12
@@ -2323,7 +2311,6 @@ lh-10
 sg-5
 py-11
 oo-5
-ci-7
 sa-12
 po-13
 LIGHT 1 line 948

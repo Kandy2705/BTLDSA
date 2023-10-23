@@ -172,6 +172,7 @@ vv-4
 ze-1
 ac-6
 LIGHT -1 line 65
+se--6
 rt--13
 gl--13
 sr--12
@@ -181,7 +182,6 @@ mx--10
 cw--12
 dm--1
 ss--5
-se--6
 LIGHT 0 line 67
 LIGHT 1 line 69
 LIGHT -1 line 71
@@ -341,23 +341,23 @@ cg--15
 ql--9
 rf--13
 LIGHT -1 line 113
-te-8
-tx-7
-wy-13
-ke-7
 fg-4
 we-14
 rq-5
 yk-3
+te-8
+tx-7
+wy-13
+ke-7
 LIGHT 1 line 115
-te-8
-tx-7
-wy-13
-ke-7
 fg-4
 we-14
 rq-5
 yk-3
+te-8
+tx-7
+wy-13
+ke-7
 LIGHT 0 line 117
 LIGHT 1 line 119
 tl--8
@@ -1125,45 +1125,33 @@ jp-13
 ep--6
 tm--1
 DOMAIN_EXPANSION line 576
+rz--4
+tm--1
+ft--15
+ep--6
+uu--3
+tl--8
+vn--10
+LIGHT 1 line 577
+bf-14
 jp-13
 td-2
-bf-14
-LIGHT 1 line 577
-vn--10
-tl--8
-uu--3
-ft--15
-rz--4
-tm--1
-ep--6
 LIGHT -1 line 579
 eu--10
-vn--10
-ep--6
-tm--1
-rz--4
-ft--15
-uu--3
-tl--8
+td-2
+jp-13
+bf-14
 LIGHT 1 line 581
 pe--5
-tl--8
-uu--3
-ft--15
-rz--4
-tm--1
-ep--6
-vn--10
+bf-14
+jp-13
+td-2
 eu--10
 LIGHT 1 line 583
 vm-6
-tl--8
-uu--3
-ft--15
-rz--4
-tm--1
-ep--6
-vn--10
+bf-14
+jp-13
+td-2
 eu--10
 pe--5
 LIGHT 1 line 585
@@ -1615,70 +1603,70 @@ DOMAIN_EXPANSION line 878
 oz--13
 xf--1
 LIGHT 1 line 879
-ax-2
 du-8
 bb-10
+ax-2
 LIGHT 0 line 881
 LIGHT 0 line 883
 LIGHT 1 line 885
 hu-6
 ru-13
-du-8
 bb-10
 ax-2
+du-8
 LIGHT 0 line 887
 LIGHT -1 line 889
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 LIGHT -1 line 891
 iv-12
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 UNLIMITED_VOID line 892
 ag--14
-bb-10
 ax-2
+du-8
 hu-6
 LIGHT -1 line 893
 iv-12
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 UNLIMITED_VOID line 894
 ag--14
-bb-10
 ax-2
+du-8
 hu-6
 LIGHT 1 line 895
 iv-12
 bn-13
 ru-13
-du-8
 bb-10
 ax-2
+du-8
 hu-6
 ag--14
 LIGHT -1 line 897
 zk-1
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 iv-12
@@ -1686,9 +1674,9 @@ LIGHT -1 line 899
 tw--12
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 iv-12
@@ -1698,9 +1686,9 @@ so-8
 tw--12
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 iv-12
@@ -1712,9 +1700,9 @@ hz--8
 tw--12
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 iv-12
@@ -1726,9 +1714,9 @@ hz--8
 tw--12
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 iv-12
@@ -1741,9 +1729,9 @@ hz--8
 tw--12
 ag--14
 hu-6
+du-8
 ax-2
 bb-10
-du-8
 ru-13
 bn-13
 iv-12

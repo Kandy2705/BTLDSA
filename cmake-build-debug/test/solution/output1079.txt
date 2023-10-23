@@ -491,10 +491,10 @@ DOMAIN_EXPANSION line 232
 vj-4
 ym-9
 LIGHT 1 line 233
+bz--1
 yt--6
 sf--14
 ie--6
-bz--1
 LIGHT 1 line 235
 bz--1
 ie--6
@@ -1004,6 +1004,8 @@ zc-5
 aw-6
 ja-5
 LIGHT 1 line 423
+bo--11
+vc--8
 br--8
 wn--1
 qu--10
@@ -1012,11 +1014,8 @@ sn--1
 vo--6
 nn--7
 fn--7
-bo--11
-vc--8
 LIGHT -1 line 425
 ii--9
-vc--8
 bo--11
 fn--7
 nn--7
@@ -1026,10 +1025,10 @@ gi--14
 qu--10
 wn--1
 br--8
+vc--8
 LIGHT -1 line 427
 ed-11
 ii--9
-vc--8
 bo--11
 fn--7
 nn--7
@@ -1039,9 +1038,11 @@ gi--14
 qu--10
 wn--1
 br--8
+vc--8
 DOMAIN_EXPANSION line 428
 ed-11
 LIGHT 1 line 429
+vc--8
 br--8
 wn--1
 qu--10
@@ -1051,13 +1052,11 @@ vo--6
 nn--7
 fn--7
 bo--11
-vc--8
 ii--9
 LIGHT -1 line 431
 jb-1
-br--8
-ii--9
 vc--8
+ii--9
 bo--11
 fn--7
 nn--7
@@ -1066,6 +1065,7 @@ sn--1
 gi--14
 qu--10
 wn--1
+br--8
 LIGHT -1 line 433
 LIGHT 1 line 435
 LIGHT -1 line 437
@@ -1489,42 +1489,42 @@ it-7
 je--15
 vi--10
 DOMAIN_EXPANSION line 758
-mv-10
-it-7
-LIGHT 1 line 759
-je--15
 vi--10
+je--15
+LIGHT 1 line 759
+it-7
+mv-10
 LIGHT -1 line 761
 sq--3
-je--15
-vi--10
+mv-10
+it-7
 LIGHT 1 line 763
 sq--3
-je--15
-vi--10
+mv-10
+it-7
 LIGHT -1 line 765
 ea--2
 sq--3
-vi--10
-je--15
+it-7
+mv-10
 LIGHT -1 line 767
 ko--3
 sq--3
-vi--10
-je--15
+it-7
+mv-10
 ea--2
 LIGHT 1 line 769
 ko--3
+it-7
+mv-10
 sq--3
-vi--10
-je--15
 ea--2
 LIGHT 1 line 771
 aw--11
 ko--3
+it-7
+mv-10
 sq--3
-vi--10
-je--15
 ea--2
 LIGHT -1 line 773
 LIGHT 1 line 775
@@ -1868,249 +1868,169 @@ ft-8
 mh-6
 ex-10
 DOMAIN_EXPANSION line 942
+md--11
+dd--1
+kf--3
+sr--1
+sc--11
+zm--2
+tr--14
+it--8
+qi--6
+ds--11
+LIGHT -1 line 943
+ex-10
+mh-6
+ft-8
+gp-7
+qv-11
+LIGHT 1 line 945
+an-10
+qv-11
 gp-7
 ft-8
 mh-6
 ex-10
-qv-11
-LIGHT -1 line 943
-ds--11
-md--11
-zm--2
-sr--1
-kf--3
-sc--11
-dd--1
-tr--14
-it--8
-qi--6
-LIGHT 1 line 945
-an-10
-qi--6
-it--8
-tr--14
-dd--1
-sc--11
-kf--3
-sr--1
-zm--2
-md--11
-ds--11
 LIGHT -1 line 947
 ci--9
-ds--11
-md--11
-zm--2
-sr--1
-kf--3
-sc--11
-dd--1
-tr--14
-it--8
-qi--6
+ex-10
+mh-6
+ft-8
+gp-7
+qv-11
 an-10
 LIGHT 1 line 949
 mb-11
-dd--1
-sc--11
-kf--3
-sr--1
-zm--2
-md--11
-ds--11
-ci--9
 an-10
-qi--6
-it--8
-tr--14
+qv-11
+gp-7
+ft-8
+mh-6
+ex-10
+ci--9
 LIGHT 1 line 951
 ra--11
 mb-11
-dd--1
-sc--11
-kf--3
-sr--1
-zm--2
-md--11
-ds--11
-ci--9
 an-10
-qi--6
-it--8
-tr--14
+qv-11
+gp-7
+ft-8
+mh-6
+ex-10
+ci--9
 LIGHT -1 line 953
 fg-8
-tr--14
-it--8
-qi--6
-an-10
-ci--9
-ds--11
-md--11
-zm--2
-sr--1
-kf--3
-sc--11
-dd--1
-mb-11
 ra--11
+ci--9
+ex-10
+mh-6
+ft-8
+gp-7
+qv-11
+an-10
+mb-11
 LIGHT -1 line 955
 uu--11
 ra--11
-fg-8
-tr--14
-it--8
-qi--6
-an-10
 ci--9
-ds--11
-md--11
-zm--2
-sr--1
-kf--3
-sc--11
-dd--1
+ex-10
+mh-6
+ft-8
+gp-7
+qv-11
+an-10
 mb-11
+fg-8
 LIGHT 1 line 957
 uu--11
 ra--11
-tr--14
-it--8
-qi--6
 ci--9
-ds--11
-md--11
+ex-10
+mh-6
+ft-8
+gp-7
+qv-11
 an-10
-zm--2
-sr--1
-kf--3
 mb-11
-sc--11
-dd--1
 fg-8
 LIGHT 0 line 959
 LIGHT 1 line 961
 zh-11
-it--8
-qi--6
 ci--9
-ds--11
-md--11
+ex-10
+mh-6
+ft-8
+gp-7
+qv-11
 an-10
-zm--2
-sr--1
-kf--3
-yq--8
 mb-11
-sc--11
-dd--1
 fg-8
 uu--11
+yq--8
 ra--11
-tr--14
 LIGHT -1 line 963
 bw--15
-tr--14
 ra--11
+yq--8
 uu--11
 fg-8
-dd--1
-sc--11
 mb-11
-yq--8
-kf--3
-sr--1
-zm--2
 an-10
-md--11
-ds--11
+qv-11
+gp-7
+ft-8
+mh-6
+ex-10
 ci--9
-qi--6
-it--8
 zh-11
 LIGHT 1 line 965
 hx-4
 zh-11
-it--8
-qi--6
 ci--9
-ds--11
-md--11
+ex-10
+mh-6
+ft-8
+gp-7
+qv-11
 an-10
-zm--2
-sr--1
-kf--3
-yq--8
 mb-11
-sc--11
-dd--1
 fg-8
 uu--11
+yq--8
 ra--11
-tr--14
 bw--15
 LIGHT 1 line 967
-mb-11
-fg-8
-uu--11
-ra--11
+yq--8
 bw--15
 hx-4
 zh-11
-ci--9
-md--11
-an-10
-yq--8
+fg-8
+uu--11
 LIGHT -1 line 969
-mb-11
 yq--8
-an-10
-md--11
-ci--9
+uu--11
+fg-8
 zh-11
 hx-4
 bw--15
-ra--11
-uu--11
-fg-8
 LIGHT -1 line 971
-mb-11
+an-12
 yq--8
-an-10
-md--11
-ci--9
-zh-11
-hx-4
-bw--15
-ra--11
 uu--11
 fg-8
-LIGHT 1 line 973
-yq--8
-bw--15
-hx-4
 zh-11
+hx-4
+bw--15
+LIGHT 1 line 973
 LIGHT -1 line 975
 qg--13
-zh-11
-hx-4
-bw--15
-yq--8
 LIGHT 0 line 977
 LIGHT -1 line 979
 kt-2
 qg--13
-yq--8
-hx-4
-zh-11
-bw--15
 LIGHT -1 line 981
 pe--12
 qg--13
-yq--8
-hx-4
-zh-11
-bw--15
 kt-2
 LIGHT 1 line 983
 LIGHT -1 line 985

@@ -50,41 +50,41 @@ DOMAIN_EXPANSION line 26
 pn--12
 pi--11
 LIGHT -1 line 27
+jr-5
 dz-12
 tq-5
 cu-6
 fq-13
 bh-10
 wb-8
-jr-5
 LIGHT 1 line 29
-dz-12
 jr-5
 wb-8
 bh-10
 fq-13
 cu-6
 tq-5
+dz-12
 DOMAIN_EXPANSION line 30
 LIGHT 0 line 31
 LIGHT -1 line 33
 qd--2
+dz-12
 tq-5
 cu-6
 fq-13
 bh-10
 wb-8
 jr-5
-dz-12
 LIGHT 1 line 35
 hc-9
-dz-12
 jr-5
 wb-8
 bh-10
 fq-13
 cu-6
 tq-5
+dz-12
 qd--2
 LIGHT 0 line 37
 LIGHT -1 line 39
@@ -195,18 +195,16 @@ mf--11
 li--13
 LIGHT 0 line 124
 DOMAIN_EXPANSION line 125
-zh-12
-LIGHT 1 line 126
-li--13
 mf--11
+li--13
+LIGHT 1 line 126
+zh-12
 LIGHT 1 line 128
 ss-10
-mf--11
-li--13
+zh-12
 LIGHT -1 line 130
 ss-10
-li--13
-mf--11
+zh-12
 LIGHT 0 line 132
 LIGHT -1 line 134
 LIGHT -1 line 136

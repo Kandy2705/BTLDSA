@@ -73,14 +73,14 @@ LIGHT -1 line 53
 oj-3
 my--4
 DOMAIN_EXPANSION line 54
-oj-3
+my--4
 LIGHT 1 line 55
-my--4
+oj-3
 LIGHT -1 line 57
-my--4
+oj-3
 UNLIMITED_VOID line 58
 LIGHT 1 line 59
-my--4
+oj-3
 LIGHT 0 line 61
 LIGHT 1 line 63
 DOMAIN_EXPANSION line 64
@@ -322,17 +322,17 @@ pg--12
 oj--11
 qg--9
 LIGHT -1 line 205
-kc-12
-uo-6
 lj-8
 yi-5
 zy-2
+kc-12
+uo-6
 LIGHT -1 line 207
+lj-8
+uo-6
 kc-12
 zy-2
 yi-5
-lj-8
-uo-6
 LIGHT 0 line 209
 LIGHT 1 line 211
 LIGHT 0 line 213
@@ -484,6 +484,7 @@ DOMAIN_EXPANSION line 288
 ih--12
 ta--4
 LIGHT -1 line 289
+dx-7
 vm-9
 fw-14
 ve-4
@@ -491,9 +492,9 @@ lo-11
 tq-13
 at-1
 uz-4
-dx-7
 LIGHT -1 line 291
 kw--14
+vm-9
 fw-14
 ve-4
 lo-11
@@ -501,10 +502,10 @@ tq-13
 at-1
 uz-4
 dx-7
-vm-9
 LIGHT -1 line 293
 sn--9
 kw--14
+vm-9
 fw-14
 ve-4
 lo-11
@@ -512,13 +513,11 @@ tq-13
 at-1
 uz-4
 dx-7
-vm-9
 LIGHT 0 line 295
 LIGHT 1 line 297
 vu-1
 bs-2
 sn--9
-vm-9
 dx-7
 uz-4
 at-1
@@ -526,6 +525,7 @@ tq-13
 lo-11
 ve-4
 fw-14
+vm-9
 kw--14
 LIGHT -1 line 299
 kk--12
@@ -535,11 +535,11 @@ tq-13
 at-1
 uz-4
 dx-7
-vm-9
 sn--9
 bs-2
 vu-1
 kw--14
+vm-9
 fw-14
 LIGHT -1 line 301
 bh--11
@@ -550,20 +550,19 @@ tq-13
 at-1
 uz-4
 dx-7
-vm-9
 sn--9
 bs-2
 vu-1
 kw--14
+vm-9
 fw-14
 LIGHT 0 line 303
 LIGHT 0 line 305
 UNLIMITED_VOID line 306
-kw--14
 kk--12
 bh--11
 fo--7
-fw-14
+ve-4
 LIGHT -1 line 307
 fo--7
 bh--11
@@ -574,26 +573,24 @@ tq-13
 at-1
 uz-4
 dx-7
-vm-9
 sn--9
 bs-2
 vu-1
 bo-13
 kw--14
+vm-9
 fw-14
 UNLIMITED_VOID line 308
-kw--14
 kk--12
 bh--11
 fo--7
-fw-14
+ve-4
 LIGHT 0 line 309
 UNLIMITED_VOID line 310
-kw--14
 kk--12
 bh--11
 fo--7
-fw-14
+ve-4
 LIGHT 0 line 311
 LIGHT 0 line 313
 LIGHT 1 line 315
@@ -687,10 +684,10 @@ zx--8
 tm--7
 cw-8
 DOMAIN_EXPANSION line 372
-cw-8
-LIGHT 1 line 373
 zx--8
 tm--7
+LIGHT 1 line 373
+cw-8
 LIGHT 0 line 375
 LIGHT -1 line 377
 LIGHT 1 line 379
@@ -828,45 +825,45 @@ rj--2
 wc--2
 ql--3
 LIGHT 1 line 419
-sk-10
-qj-7
 gk-3
 vb-10
 lc-2
+sk-10
+qj-7
 LIGHT 1 line 421
 lw-4
+vb-10
+lc-2
 sk-10
 qj-7
 gk-3
-vb-10
-lc-2
 UNLIMITED_VOID line 422
 lc-2
-lw-4
 gk-3
+lw-4
 vb-10
 LIGHT -1 line 423
 lw-4
-lc-2
-vb-10
 gk-3
 qj-7
 sk-10
+lc-2
+vb-10
 LIGHT -1 line 425
 ff-8
 lw-4
-lc-2
-vb-10
 gk-3
 qj-7
 sk-10
+lc-2
+vb-10
 LIGHT 1 line 427
 fs-10
+vb-10
+lc-2
 sk-10
 qj-7
 gk-3
-vb-10
-lc-2
 lw-4
 ff-8
 LIGHT -1 line 429
