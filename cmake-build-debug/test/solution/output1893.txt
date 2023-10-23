@@ -2025,60 +2025,60 @@ vz-10
 jh-9
 LIGHT 1 line 705
 kn--12
-kd-1
 ow-10
 vz-10
+jh-9
 zv--5
 wt--1
-jh-9
 jb-7
 hr-10
 vq-6
+kd-1
 LIGHT -1 line 707
 si--13
+kd-1
 vq-6
 hr-10
 jb-7
-jh-9
 wt--1
 zv--5
+jh-9
 vz-10
 ow-10
-kd-1
 kn--12
 LIGHT 0 line 709
 LIGHT -1 line 711
 qf-3
 si--13
+kd-1
 vq-6
 hr-10
 jb-7
-jh-9
 wt--1
 zv--5
+jh-9
 vz-10
 ow-10
-kd-1
 kn--12
 LIGHT 0 line 713
 LIGHT -1 line 715
 hl-5
 gp--4
 si--13
+kd-1
 vq-6
 hr-10
 jb-7
-jh-9
 wt--1
 zv--5
+jh-9
 vz-10
 ow-10
-kd-1
 kn--12
 qf-3
 LIGHT 1 line 717
-zv--5
 jh-9
+zv--5
 si--13
 gp--4
 hl-5
@@ -2087,45 +2087,45 @@ kn--12
 LIGHT 1 line 719
 ci-1
 jh-9
+zv--5
 si--13
 gp--4
 hl-5
 qf-3
 kn--12
-zv--5
 LIGHT 0 line 721
 LIGHT 1 line 723
 sk-4
 ci-1
 jh-9
+zv--5
 si--13
 gp--4
 hl-5
 qf-3
 kn--12
-zv--5
 qg--13
 LIGHT -1 line 725
 il--15
 qg--13
-zv--5
 kn--12
 qf-3
 hl-5
 gp--4
 si--13
+zv--5
 jh-9
 ci-1
 sk-4
 LIGHT -1 line 727
 il--15
 qg--13
-zv--5
 kn--12
 qf-3
 hl-5
 gp--4
 si--13
+zv--5
 jh-9
 ci-1
 sk-4
@@ -2134,24 +2134,24 @@ mq--6
 sk-4
 ci-1
 jh-9
+zv--5
 si--13
 gp--4
 hl-5
 qf-3
 kn--12
-zv--5
 qg--13
 il--15
 LIGHT -1 line 731
 uo--13
 il--15
 qg--13
-zv--5
 kn--12
 qf-3
 hl-5
 gp--4
 si--13
+zv--5
 jh-9
 ci-1
 sk-4
@@ -2179,27 +2179,27 @@ lj--7
 mq--6
 uo--13
 il--15
-hl-5
-qg--13
 ci-1
+qg--13
 sk-4
+hl-5
 LIGHT -1 line 741
 ag-7
 lj--7
-sk-4
-ci-1
-qg--13
 hl-5
+sk-4
+qg--13
+ci-1
 il--15
 uo--13
 mq--6
 LIGHT 1 line 743
 ag-7
 uo--13
-sk-4
-ci-1
-mq--6
 hl-5
+sk-4
+mq--6
+ci-1
 lj--7
 qg--13
 il--15
@@ -2207,10 +2207,10 @@ LIGHT 1 line 745
 fm--6
 ag-7
 uo--13
-sk-4
-ci-1
-mq--6
 hl-5
+sk-4
+mq--6
+ci-1
 lj--7
 qg--13
 il--15
@@ -2219,10 +2219,10 @@ vu--10
 il--15
 qg--13
 lj--7
-hl-5
-mq--6
 ci-1
+mq--6
 sk-4
+hl-5
 uo--13
 ag-7
 fm--6
@@ -2332,33 +2332,33 @@ LIGHT 0 line 797
 LIGHT 0 line 799
 LIGHT 1 line 801
 fh--3
-tf-10
-ef-14
-qi--13
 pr-8
+tf-10
+qi--13
+ef-14
 LIGHT 1 line 803
 fh--3
-tf-10
-ef-14
-qi--13
 pr-8
+tf-10
+qi--13
+ef-14
 LIGHT -1 line 805
 fh--3
-pr-8
-qi--13
 ef-14
+qi--13
 tf-10
+pr-8
 UNLIMITED_VOID line 806
 qi--13
-pr-8
 fh--3
+pr-8
 tf-10
 LIGHT 1 line 807
 fh--3
-tf-10
-ef-14
-qi--13
 pr-8
+tf-10
+qi--13
+ef-14
 LIGHT 1 line 809
 LIGHT -1 line 811
 LIGHT 1 line 813
@@ -2485,30 +2485,30 @@ ce-6
 yc-9
 LIGHT -1 line 879
 vi--6
+ce-6
 wa-3
-yc-9
 ki--2
 nm--8
 fu--4
-ce-6
+yc-9
 va--15
 LIGHT -1 line 881
 lt-2
 vi--6
+ce-6
 wa-3
-yc-9
 ki--2
 nm--8
 fu--4
-ce-6
+yc-9
 va--15
 LIGHT -1 line 883
 lt-2
 vi--6
-ce-6
-va--15
 yc-9
+va--15
 wa-3
+ce-6
 fu--4
 nm--8
 ki--2
@@ -2518,60 +2518,63 @@ lt-2
 ki--2
 nm--8
 fu--4
-wa-3
-yc-9
-va--15
 ce-6
+wa-3
+va--15
+yc-9
 vi--6
 UNLIMITED_VOID line 886
 va--15
-ce-6
 vi--6
 er--9
 lt-2
 ki--2
 nm--8
 fu--4
+ce-6
+wa-3
 LIGHT 1 line 887
 er--9
 lt-2
 ki--2
 nm--8
 fu--4
-wa-3
-yc-9
-va--15
 ce-6
+wa-3
+va--15
+yc-9
 vi--6
 UNLIMITED_VOID line 888
 va--15
-ce-6
 vi--6
 er--9
 lt-2
 ki--2
 nm--8
 fu--4
+ce-6
+wa-3
 LIGHT -1 line 889
 er--9
 vi--6
-ce-6
-va--15
 yc-9
+va--15
 wa-3
+ce-6
 fu--4
 nm--8
 ki--2
 lt-2
 UNLIMITED_VOID line 890
 va--15
-ce-6
 vi--6
 er--9
 lt-2
 ki--2
 nm--8
 fu--4
+ce-6
+wa-3
 LIGHT 0 line 891
 DOMAIN_EXPANSION line 892
 lt-2

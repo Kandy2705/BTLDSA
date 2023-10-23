@@ -1436,8 +1436,6 @@ xj-17
 sj-18
 LIGHT -18 line 167
 em--11
-cb-5
-sj-18
 xj-17
 yg-16
 zs-3
@@ -1457,12 +1455,12 @@ tp-9
 od-5
 hs-6
 at-7
-xo--18
 qk-10
+cb-5
+xo--18
+sj-18
 LIGHT -13 line 169
 em--11
-cb-5
-sj-18
 xj-17
 yg-16
 zs-3
@@ -1482,12 +1480,12 @@ tp-9
 od-5
 hs-6
 at-7
-xo--18
 qk-10
+cb-5
+xo--18
+sj-18
 LIGHT -3 line 171
 em--11
-cb-5
-sj-18
 xj-17
 yg-16
 zs-3
@@ -1507,12 +1505,16 @@ tp-9
 od-5
 hs-6
 at-7
-xo--18
 qk-10
+cb-5
+xo--18
+sj-18
 LIGHT 17 line 173
 em--11
-qk-10
+sj-18
 xo--18
+cb-5
+qk-10
 at-7
 hs-6
 od-5
@@ -1532,11 +1534,11 @@ fa-8
 zs-3
 yg-16
 xj-17
-sj-18
-cb-5
 LIGHT 13 line 175
 nm-13
 zw-16
+cb-5
+qk-10
 at-7
 hs-6
 od-5
@@ -1554,18 +1556,14 @@ fa-8
 zs-3
 yg-16
 xj-17
-sj-18
-cb-5
 em--11
-qk-10
+sj-18
 xo--18
 LIGHT -15 line 177
 nm-13
 xo--18
-qk-10
-em--11
-cb-5
 sj-18
+em--11
 xj-17
 yg-16
 zs-3
@@ -1583,13 +1581,17 @@ tp-9
 od-5
 hs-6
 at-7
+qk-10
+cb-5
 zw-16
 LIGHT -6 line 179
 nm-13
 zw-16
 em--11
-at-7
+cb-5
 xo--18
+qk-10
+at-7
 hs-6
 od-5
 tp-9
@@ -1607,14 +1609,14 @@ zs-3
 yg-16
 xj-17
 sj-18
-cb-5
-qk-10
 LIGHT -9 line 181
 nm-13
 zw-16
 em--11
-at-7
+cb-5
 xo--18
+qk-10
+at-7
 hs-6
 od-5
 tp-9
@@ -1632,19 +1634,19 @@ zs-3
 yg-16
 xj-17
 sj-18
-cb-5
-qk-10
 UNLIMITED_VOID line 182
 xo--18
-at-7
+cb-5
 em--11
-hs-6
+qk-10
 LIGHT -14 line 183
 nm-13
 zw-16
 em--11
-at-7
+cb-5
 xo--18
+qk-10
+at-7
 hs-6
 od-5
 tp-9
@@ -1662,20 +1664,16 @@ zs-3
 yg-16
 xj-17
 sj-18
-cb-5
-qk-10
 DOMAIN_EXPANSION line 184
 px--11
 wu--13
 em--11
 xo--18
 LIGHT 16 line 185
-hs-6
-at-7
-zw-16
-nm-13
 qk-10
 cb-5
+zw-16
+nm-13
 sj-18
 xj-17
 yg-16
@@ -1692,12 +1690,14 @@ to-15
 yj-17
 tp-9
 od-5
+hs-6
+at-7
 LIGHT -18 line 187
 gy--12
-cb-5
-qk-10
 nm-13
 zw-16
+cb-5
+qk-10
 at-7
 hs-6
 od-5
@@ -1731,23 +1731,23 @@ tp-9
 od-5
 hs-6
 at-7
-zw-16
-nm-13
 qk-10
 cb-5
+zw-16
+nm-13
 gy--12
 UNLIMITED_VOID line 190
 gy--12
 xj-17
 zs-3
-cb-5
+nm-13
 LIGHT -3 line 191
 xj-17
 gy--12
-cb-5
-qk-10
 nm-13
 zw-16
+cb-5
+qk-10
 at-7
 hs-6
 od-5
@@ -1775,10 +1775,10 @@ tp-9
 od-5
 hs-6
 at-7
-zw-16
-nm-13
 qk-10
 cb-5
+zw-16
+nm-13
 gy--12
 xj-17
 zs-3
@@ -1786,10 +1786,10 @@ DOMAIN_EXPANSION line 194
 fe--2
 gy--12
 LIGHT -5 line 195
-cb-5
-qk-10
 nm-13
 zw-16
+cb-5
+qk-10
 at-7
 hs-6
 od-5
@@ -1805,10 +1805,10 @@ ia-18
 zs-3
 xj-17
 LIGHT 19 line 197
-cb-5
-qk-10
 nm-13
 zw-16
+cb-5
+qk-10
 at-7
 hs-6
 od-5
@@ -1826,10 +1826,10 @@ xj-17
 LIGHT 11 line 199
 hj-13
 yr-13
-cb-5
-qk-10
 nm-13
 zw-16
+cb-5
+qk-10
 at-7
 hs-6
 od-5

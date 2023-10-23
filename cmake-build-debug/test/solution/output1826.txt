@@ -1973,11 +1973,11 @@ ff-4
 pv-14
 LIGHT -1 line 559
 ng--7
-dh-1
-pv-14
 ff-4
-ei--10
 qc-1
+dh-1
+ei--10
+pv-14
 gk--11
 lw--3
 up--11
@@ -1986,8 +1986,10 @@ UNLIMITED_VOID line 560
 up--11
 lw--3
 gk--11
-qc-1
 ei--10
+dh-1
+qc-1
+ff-4
 ng--7
 ma--8
 LIGHT 1 line 561
@@ -1996,11 +1998,11 @@ ma--8
 up--11
 lw--3
 gk--11
-qc-1
-ei--10
-ff-4
 pv-14
+ei--10
 dh-1
+qc-1
+ff-4
 DOMAIN_EXPANSION line 562
 rm-6
 wh-6

@@ -96,46 +96,46 @@ dh-4
 ex-3
 LIGHT -2 line 61
 fj--7
+dh-4
 tt-4
-ex-3
 rq--19
 pz--2
-dh-4
+ex-3
 LIGHT -10 line 63
 py-15
 fj--7
+dh-4
 tt-4
-ex-3
 rq--19
 pz--2
-dh-4
+ex-3
 LIGHT 2 line 65
 de--20
 py-15
-dh-4
+ex-3
 pz--2
 rq--19
-ex-3
 tt-4
+dh-4
 fj--7
 LIGHT -4 line 67
 ba-5
 de--20
 fj--7
+dh-4
 tt-4
-ex-3
 rq--19
 pz--2
-dh-4
+ex-3
 py-15
 LIGHT 5 line 69
 ek-16
 py-15
-dh-4
+ex-3
 pz--2
 rq--19
-ex-3
 tt-4
+dh-4
 fj--7
 de--20
 ba-5
@@ -143,36 +143,36 @@ LIGHT 8 line 71
 ku--10
 ek-16
 py-15
-dh-4
+ex-3
 pz--2
 rq--19
-ex-3
 tt-4
+dh-4
 fj--7
 de--20
 ba-5
 LIGHT -1 line 73
 ku--10
-ex-3
 tt-4
+dh-4
 ba-5
 pz--2
 ek-16
 rq--19
 fj--7
 py-15
-dh-4
+ex-3
 de--20
 LIGHT 1 line 75
 wm--20
 ek-16
 pz--2
 ba-5
+dh-4
 tt-4
-ex-3
 ku--10
 de--20
-dh-4
+ex-3
 py-15
 fj--7
 rq--19
@@ -181,18 +181,18 @@ ji--9
 ek-16
 pz--2
 ba-5
+dh-4
 tt-4
-ex-3
 ku--10
 de--20
-dh-4
+ex-3
 py-15
 fj--7
 rq--19
 wm--20
 LIGHT 13 line 79
 xg-3
-dh-4
+ex-3
 py-15
 fj--7
 rq--19
@@ -201,8 +201,8 @@ ji--9
 ek-16
 pz--2
 ba-5
+dh-4
 tt-4
-ex-3
 ku--10
 de--20
 LIGHT 4 line 81
@@ -211,12 +211,12 @@ ji--9
 ek-16
 pz--2
 ba-5
+dh-4
 tt-4
-ex-3
 ku--10
 de--20
 xg-3
-dh-4
+ex-3
 py-15
 fj--7
 rq--19
@@ -229,22 +229,22 @@ wm--20
 rq--19
 fj--7
 py-15
-dh-4
+ex-3
 xg-3
 de--20
 ku--10
-ex-3
 tt-4
+dh-4
 ba-5
 pz--2
 ek-16
 LIGHT -8 line 85
 fj--7
 py-15
+ex-3
 xg-3
 de--20
 ku--10
-ex-3
 ba-5
 pz--2
 ek-16
@@ -260,10 +260,10 @@ qs-1
 wm--20
 fj--7
 py-15
+ex-3
 xg-3
 de--20
 ku--10
-ex-3
 ba-5
 pz--2
 ek-16
@@ -275,10 +275,10 @@ qs-1
 wm--20
 fj--7
 py-15
+ex-3
 xg-3
 de--20
 ku--10
-ex-3
 ba-5
 pz--2
 ek-16
@@ -290,74 +290,74 @@ ba-5
 py-15
 ex-3
 LIGHT -1 line 91
+fj--7
+de--20
 ku--10
 pz--2
 ag--18
 sx--16
 ji--9
 wm--20
-fj--7
-de--20
 DOMAIN_EXPANSION line 92
 LIGHT -3 line 93
+fj--7
+de--20
 ku--10
 pz--2
 ag--18
 sx--16
 ji--9
 wm--20
-fj--7
-de--20
 LIGHT -4 line 95
 fk-6
+fj--7
+de--20
 ku--10
 pz--2
 ag--18
 sx--16
 ji--9
 wm--20
-fj--7
-de--20
 UNLIMITED_VOID line 96
-de--20
-fj--7
 wm--20
 ji--9
 sx--16
 ag--18
 pz--2
 ku--10
+de--20
+fj--7
 LIGHT 19 line 97
 fk-6
-de--20
-fj--7
 wm--20
 ji--9
 sx--16
 ag--18
 pz--2
 ku--10
+de--20
+fj--7
 DOMAIN_EXPANSION line 98
 fk-6
 LIGHT -7 line 99
+wm--20
+fj--7
 de--20
 ku--10
 pz--2
 ag--18
 sx--16
 ji--9
-wm--20
-fj--7
 DOMAIN_EXPANSION line 100
 LIGHT -13 line 101
+wm--20
+fj--7
 de--20
 ku--10
 pz--2
 ag--18
 sx--16
 ji--9
-wm--20
-fj--7
 LIGHT -20 line 103
 ag--18
 sx--16
@@ -500,39 +500,41 @@ rs-18
 LIGHT 15 line 141
 hp--19
 mx--16
-rs-18
-ci--5
-or-6
-ep--16
 cw-10
+ci--5
+km-6
+ep--16
+zn-8
 tu--5
 yi--3
-km-6
+rs-18
 un--9
-zn-8
+or-6
 UNLIMITED_VOID line 142
 hp--19
 mx--16
-ep--16
 cw-10
+ci--5
+km-6
+ep--16
+zn-8
 tu--5
 yi--3
-km-6
 un--9
-zn-8
+or-6
 LIGHT 3 line 143
 hp--19
 mx--16
-rs-18
-ci--5
-or-6
-ep--16
 cw-10
+ci--5
+km-6
+ep--16
+zn-8
 tu--5
 yi--3
-km-6
+rs-18
 un--9
-zn-8
+or-6
 DOMAIN_EXPANSION line 144
 cw-10
 or-6
@@ -540,82 +542,82 @@ rs-18
 zn-8
 km-6
 LIGHT 15 line 145
+ep--16
+tu--5
+yi--3
 un--9
 hp--19
 mx--16
 ci--5
-ep--16
-tu--5
-yi--3
 LIGHT 5 line 147
 kp--1
+tu--5
+yi--3
+un--9
 hp--19
 mx--16
 ci--5
 ep--16
-tu--5
-yi--3
-un--9
 DOMAIN_EXPANSION line 148
 LIGHT -12 line 149
 kp--1
-un--9
-yi--3
-tu--5
 ep--16
 ci--5
 mx--16
 hp--19
+un--9
+yi--3
+tu--5
 LIGHT 4 line 151
 mf--17
 kp--1
+tu--5
+yi--3
+un--9
 hp--19
 mx--16
 ci--5
 ep--16
-tu--5
-yi--3
-un--9
 DOMAIN_EXPANSION line 152
 LIGHT -9 line 153
 mf--17
-un--9
-yi--3
-tu--5
 ep--16
 ci--5
 mx--16
 hp--19
+un--9
+yi--3
+tu--5
 kp--1
 LIGHT 16 line 155
 mf--17
-un--9
-yi--3
-tu--5
 ep--16
 ci--5
 mx--16
 hp--19
+un--9
+yi--3
+tu--5
 kp--1
 LIGHT 18 line 157
 yp-8
-un--9
-yi--3
-tu--5
 ep--16
 ci--5
 mx--16
 hp--19
+un--9
+yi--3
+tu--5
 kp--1
 mf--17
 LIGHT 4 line 159
 bx--3
-kp--1
-mf--17
-yp-8
 un--9
 yi--3
 tu--5
+kp--1
+mf--17
+yp-8
 ep--16
 ci--5
 mx--16
@@ -623,12 +625,12 @@ hp--19
 LIGHT 18 line 161
 mh-10
 bx--3
-kp--1
-mf--17
-yp-8
 un--9
 yi--3
 tu--5
+kp--1
+mf--17
+yp-8
 ep--16
 ci--5
 mx--16
@@ -637,46 +639,46 @@ DOMAIN_EXPANSION line 162
 mh-10
 yp-8
 LIGHT -8 line 163
-un--9
+ep--16
 mf--17
 kp--1
+tu--5
+yi--3
+un--9
 bx--3
 hp--19
 mx--16
 ci--5
-ep--16
-tu--5
-yi--3
 LIGHT -6 line 165
+ep--16
+ci--5
+mx--16
+hp--19
+bx--3
 un--9
 yi--3
 tu--5
-ep--16
-ci--5
-mx--16
-hp--19
-bx--3
 kp--1
 mf--17
 LIGHT -2 line 167
 ax-1
 hp--19
 bx--3
-kp--1
-mf--17
 un--9
 yi--3
 tu--5
+kp--1
+mf--17
 ep--16
 ci--5
 mx--16
 LIGHT 7 line 169
-mx--16
-mf--17
 kp--1
 bx--3
 hp--19
 ax-1
+mx--16
+mf--17
 LIGHT 19 line 171
 mf--17
 bx--3

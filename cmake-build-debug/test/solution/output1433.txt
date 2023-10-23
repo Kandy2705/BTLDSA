@@ -482,15 +482,15 @@ bq--5
 gw--8
 ht--7
 ft--10
-zz-5
+di-13
 jm--8
 vc--2
+eo-1
+zz-5
 lw-7
 rn-6
 ix-10
 we-10
-di-13
-eo-1
 LIGHT -1 line 233
 dh-9
 ft--10
@@ -499,26 +499,26 @@ gw--8
 bq--5
 om--8
 kx--7
-eo-1
-di-13
 we-10
 ix-10
 rn-6
 lw-7
+zz-5
+eo-1
 vc--2
 jm--8
-zz-5
+di-13
 LIGHT 1 line 235
 dh-9
-zz-5
+di-13
 jm--8
 vc--2
+eo-1
+zz-5
 lw-7
 rn-6
 ix-10
 we-10
-di-13
-eo-1
 kx--7
 om--8
 bq--5
@@ -533,20 +533,27 @@ gw--8
 bq--5
 om--8
 kx--7
-eo-1
-di-13
 we-10
 ix-10
 rn-6
 lw-7
+zz-5
+eo-1
 vc--2
 jm--8
-zz-5
+di-13
 dh-9
 LIGHT 1 line 239
 vk--10
 di-13
+jm--8
+vc--2
 eo-1
+zz-5
+lw-7
+rn-6
+ix-10
+we-10
 kx--7
 om--8
 bq--5
@@ -555,23 +562,9 @@ ht--7
 ft--10
 tt-4
 dh-9
-zz-5
-jm--8
-vc--2
-lw-7
-rn-6
-ix-10
-we-10
 LIGHT -1 line 241
 qi-4
 vk--10
-we-10
-ix-10
-rn-6
-lw-7
-vc--2
-jm--8
-zz-5
 dh-9
 tt-4
 ft--10
@@ -580,7 +573,14 @@ gw--8
 bq--5
 om--8
 kx--7
+we-10
+ix-10
+rn-6
+lw-7
+zz-5
 eo-1
+vc--2
+jm--8
 di-13
 LIGHT 0 line 243
 DOMAIN_EXPANSION line 244
@@ -594,76 +594,76 @@ ht--7
 jm--8
 vc--2
 LIGHT 1 line 245
+di-13
+eo-1
 zz-5
 lw-7
 rn-6
 ix-10
 we-10
-qi-4
-di-13
-eo-1
 tt-4
 dh-9
+qi-4
 DOMAIN_EXPANSION line 246
 LIGHT 1 line 247
+di-13
+eo-1
 zz-5
 lw-7
 rn-6
 ix-10
 we-10
-qi-4
-di-13
-eo-1
 tt-4
 dh-9
+qi-4
 DOMAIN_EXPANSION line 248
 LIGHT -1 line 249
-zz-5
-dh-9
-tt-4
-eo-1
 di-13
 qi-4
+dh-9
+tt-4
 we-10
 ix-10
 rn-6
 lw-7
+zz-5
+eo-1
 LIGHT 1 line 251
 uk--14
 di-13
 eo-1
-tt-4
-dh-9
 zz-5
 lw-7
 rn-6
 ix-10
 we-10
+tt-4
+dh-9
 qi-4
 LIGHT -1 line 253
 ts--13
 uk--14
 qi-4
+dh-9
+tt-4
 we-10
 ix-10
 rn-6
 lw-7
 zz-5
-dh-9
-tt-4
 eo-1
 di-13
 LIGHT 1 line 255
 ts--13
 di-13
 eo-1
-tt-4
-dh-9
 zz-5
 lw-7
 rn-6
 ix-10
 we-10
+tt-4
+dh-9
 qi-4
 uk--14
 LIGHT 0 line 257
@@ -2169,18 +2169,18 @@ ha-2
 sg-12
 LIGHT -1 line 729
 bc--2
-vp-5
-gj-11
-sg-12
-ha-2
 ve-2
 zh-2
 jj-5
+yo-10
+me-7
+vp-5
+gj-11
 ij--13
 hu--3
 nq--15
-yo-10
-me-7
+sg-12
+ha-2
 LIGHT 0 line 731
 DOMAIN_EXPANSION line 732
 ti--14
@@ -2190,44 +2190,44 @@ hu--3
 ij--13
 LIGHT 0 line 733
 LIGHT 1 line 735
-yo-10
-me-7
-vp-5
-gj-11
 sg-12
 ha-2
 ve-2
 zh-2
 jj-5
+yo-10
+me-7
+vp-5
+gj-11
 DOMAIN_EXPANSION line 736
 LIGHT -1 line 737
+sg-12
+gj-11
+vp-5
+me-7
 yo-10
 jj-5
 zh-2
 ve-2
 ha-2
-sg-12
-gj-11
-vp-5
-me-7
 LIGHT -1 line 739
 pw-8
+gj-11
+vp-5
+me-7
+yo-10
 jj-5
 zh-2
 ve-2
 ha-2
 sg-12
-gj-11
-vp-5
-me-7
-yo-10
 LIGHT -1 line 741
 jh-5
+pw-8
 gj-11
 vp-5
 me-7
 yo-10
-pw-8
 jj-5
 zh-2
 ve-2

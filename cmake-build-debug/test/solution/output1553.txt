@@ -372,13 +372,13 @@ wp--12
 oy--1
 LIGHT -1 line 141
 uu--1
-ar-11
+fy-14
 jn--5
 di--10
 wp--12
-fy-14
-oy--1
 yf-14
+oy--1
+ar-11
 LIGHT 1 line 143
 uu--1
 yf-14
@@ -474,43 +474,43 @@ yf-14
 LIGHT 1 line 161
 wc--2
 oi--14
-yf-14
+fy-14
 uu--1
 oy--1
-hp-9
+yf-14
 di--10
-fy-14
+hp-9
 LIGHT -1 line 163
 wc--2
-fy-14
-di--10
 hp-9
+di--10
+yf-14
 oy--1
 uu--1
-yf-14
+fy-14
 oi--14
 UNLIMITED_VOID line 164
 oi--14
 di--10
-fy-14
+hp-9
 wc--2
 LIGHT 1 line 165
 wc--2
 oi--14
-yf-14
+fy-14
 uu--1
 oy--1
-hp-9
+yf-14
 di--10
-fy-14
+hp-9
 LIGHT -1 line 167
 wc--2
-fy-14
-di--10
 hp-9
+di--10
+yf-14
 oy--1
 uu--1
-yf-14
+fy-14
 oi--14
 LIGHT -1 line 169
 qs--9
@@ -1291,13 +1291,13 @@ xt-3
 nw-13
 LIGHT -1 line 439
 pl--8
-bp-12
 yr-11
-ko--6
 eg-1
-tl--5
+ko--6
 nw-13
+tl--5
 xt-3
+bp-12
 DOMAIN_EXPANSION line 440
 pl--8
 tl--5
@@ -2354,25 +2354,25 @@ bh-11
 LIGHT 1 line 693
 fw--8
 bc--8
+kh-4
 bh-11
-ug-5
 pr--14
 wg--7
-kh-4
+ug-5
 LIGHT 1 line 695
 ye--8
 bh-11
-ug-5
 pr--14
 wg--7
-kh-4
+ug-5
 fw--8
 bc--8
+kh-4
 LIGHT -1 line 697
 ye--8
 kh-4
-bh-11
 pr--14
+bh-11
 wg--7
 fw--8
 ug-5
@@ -2382,18 +2382,18 @@ kh-4
 ug-5
 bh-11
 LIGHT -1 line 699
-ye--8
 pr--14
 wg--7
 fw--8
 bc--8
+ye--8
 DOMAIN_EXPANSION line 700
 LIGHT 1 line 701
+pr--14
 ye--8
 bc--8
 fw--8
 wg--7
-pr--14
 LIGHT 0 line 703
 LIGHT 0 line 705
 LIGHT 1 line 707
@@ -3031,14 +3031,14 @@ cx--4
 zu--6
 tq--15
 LIGHT -1 line 921
-xr--13
-qh-4
-rl-4
+tq--15
 fh--12
-mz--1
 qz--5
 yf--10
 za--13
+xr--13
+qh-4
+rl-4
 DOMAIN_EXPANSION line 922
 lg-6
 dn-14
@@ -3047,65 +3047,62 @@ mu-11
 qh-4
 rl-4
 LIGHT 0 line 923
-cx--4
 jy--3
 LIGHT -1 line 925
-zu--6
+cx--4
 tq--15
+fh--12
 qz--5
 yf--10
 za--13
 xr--13
-fh--12
-mz--1
-LIGHT 1 line 927
 zu--6
-mz--1
-fh--12
+LIGHT 1 line 927
+cx--4
+zu--6
 xr--13
 za--13
 yf--10
 qz--5
+fh--12
 tq--15
 LIGHT 1 line 929
+cx--4
 zu--6
-mz--1
-fh--12
 xr--13
 za--13
 yf--10
 qz--5
+fh--12
 tq--15
 LIGHT 0 line 931
-cx--4
 jy--3
 vc--8
 cu-4
 kb--4
 df-5
 LIGHT -1 line 933
-zu--6
+cx--4
 tq--15
+fh--12
 qz--5
 yf--10
 za--13
 xr--13
-fh--12
-mz--1
-LIGHT 1 line 935
 zu--6
-mz--1
-fh--12
+LIGHT 1 line 935
+cx--4
+zu--6
 xr--13
 za--13
 yf--10
 qz--5
+fh--12
 tq--15
 LIGHT -1 line 937
 fb--15
 dj--6
 vc--8
-cx--4
 jy--3
 cu-4
 kb--4
@@ -3115,7 +3112,6 @@ LIGHT 1 line 941
 fb--15
 kb--4
 jy--3
-cx--4
 vc--8
 df-5
 dj--6
@@ -3127,14 +3123,12 @@ LIGHT -1 line 943
 fb--15
 dj--6
 vc--8
-cx--4
 jy--3
 kb--4
 LIGHT 1 line 945
 fb--15
 kb--4
 jy--3
-cx--4
 vc--8
 dj--6
 LIGHT -1 line 947

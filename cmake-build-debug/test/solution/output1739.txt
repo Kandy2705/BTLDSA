@@ -423,12 +423,12 @@ LIGHT 1 line 135
 et--9
 ph--14
 ff--10
-dg-12
-az-1
-jy--6
 ah-8
-zf--7
 bp-11
+jy--6
+dg-12
+zf--7
+az-1
 LIGHT -1 line 137
 DOMAIN_EXPANSION line 138
 LIGHT 1 line 139
@@ -1446,124 +1446,124 @@ bb--7
 wk-7
 LIGHT -1 line 527
 vq--12
-wk-7
-gb-13
 ja-5
 qw-10
-bb--7
 gz-12
+wk-7
+bb--7
+gb-13
 LIGHT 1 line 529
 yv-13
-gz-12
+gb-13
 bb--7
+wk-7
+gz-12
 qw-10
 ja-5
-gb-13
-wk-7
 vq--12
 LIGHT 1 line 531
 yv-13
 vq--12
-wk-7
-gb-13
 ja-5
 qw-10
-bb--7
 gz-12
+wk-7
+bb--7
+gb-13
 LIGHT 0 line 533
 LIGHT 1 line 535
 yv-13
-wk-7
-gb-13
-bb--7
 ja-5
 qw-10
-vq--12
+bb--7
 gz-12
+wk-7
+vq--12
+gb-13
 LIGHT 0 line 537
 LIGHT 0 line 539
 LIGHT 1 line 541
 be-9
-gz-12
+gb-13
 zt--6
 yv-13
-wk-7
-gb-13
-bb--7
 ja-5
 qw-10
+bb--7
+gz-12
+wk-7
 vq--12
 LIGHT -1 line 543
 be-9
 vq--12
+wk-7
+gz-12
+bb--7
 qw-10
 ja-5
-bb--7
-gb-13
-wk-7
 yv-13
 zt--6
-gz-12
+gb-13
 UNLIMITED_VOID line 544
 vq--12
 bb--7
-ja-5
-qw-10
+gz-12
+wk-7
 LIGHT 1 line 545
 be-9
-gz-12
+gb-13
 zt--6
 yv-13
-wk-7
-gb-13
-bb--7
 ja-5
 qw-10
+bb--7
+gz-12
+wk-7
 vq--12
 LIGHT -1 line 547
 ye--11
-zt--6
 be-9
 vq--12
+wk-7
+bb--7
 qw-10
 ja-5
-bb--7
-gb-13
-wk-7
 yv-13
+zt--6
+gb-13
 LIGHT -1 line 549
 ye--11
+be-9
+zt--6
+gb-13
+bb--7
+yv-13
+vq--12
 ja-5
 qw-10
-be-9
-bb--7
-vq--12
-yv-13
-zt--6
 wk-7
-gb-13
 LIGHT -1 line 551
 ye--11
+be-9
+zt--6
+gb-13
+bb--7
+yv-13
+vq--12
 ja-5
 qw-10
-be-9
-bb--7
-vq--12
-yv-13
-zt--6
 wk-7
-gb-13
 LIGHT 1 line 553
 ye--11
-gb-13
 wk-7
-zt--6
-yv-13
-vq--12
-bb--7
-be-9
 qw-10
 ja-5
+vq--12
+yv-13
+bb--7
+gb-13
+zt--6
+be-9
 DOMAIN_EXPANSION line 554
 ye--11
 ig--8
@@ -1576,64 +1576,64 @@ LIGHT 0 line 557
 LIGHT 1 line 559
 pa-1
 yv-13
+gb-13
 be-9
+wk-7
 qw-10
 ja-5
-gb-13
-wk-7
 vv-4
 LIGHT 0 line 561
 LIGHT 1 line 563
 pa-1
 vv-4
-wk-7
-gb-13
 ja-5
 qw-10
+wk-7
 be-9
+gb-13
 yv-13
 DOMAIN_EXPANSION line 564
 LIGHT 1 line 565
 pa-1
 vv-4
-wk-7
-gb-13
 ja-5
 qw-10
+wk-7
 be-9
+gb-13
 yv-13
 LIGHT 1 line 567
 ff--4
 gb-13
+yv-13
+pa-1
+vv-4
 ja-5
 qw-10
-be-9
-yv-13
-pa-1
-vv-4
 wk-7
+be-9
 LIGHT 1 line 569
 qw-10
+wk-7
 be-9
+ff--4
 yv-13
 pa-1
 vv-4
-wk-7
-ff--4
 DOMAIN_EXPANSION line 570
 ff--4
 LIGHT 1 line 571
-wk-7
-qw-10
 be-9
 yv-13
 pa-1
 vv-4
+qw-10
+wk-7
 LIGHT 1 line 573
 fp-11
 vv-4
-wk-7
 qw-10
+wk-7
 be-9
 yv-13
 pa-1
@@ -1646,14 +1646,14 @@ yv-13
 pa-1
 fp-11
 vv-4
-wk-7
 qw-10
+wk-7
 be-9
 LIGHT 1 line 581
 ia-1
 be-9
-qw-10
 wk-7
+qw-10
 vv-4
 fp-11
 pa-1

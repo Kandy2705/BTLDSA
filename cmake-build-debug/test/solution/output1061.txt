@@ -95,32 +95,32 @@ yy-7
 LIGHT 0 line 75
 LIGHT 1 line 77
 iu--10
-yy-7
-cz-4
-vt--7
-md-2
-sj--12
-gr-7
 nv-5
+yy-7
+vt--7
+cz-4
+sj--12
+md-2
+gr-7
 LIGHT -1 line 79
 iu--10
-nv-5
 gr-7
-sj--12
 md-2
-vt--7
+sj--12
 cz-4
+vt--7
 yy-7
+nv-5
 LIGHT -1 line 81
 zv--1
 iu--10
-nv-5
 gr-7
-sj--12
 md-2
-vt--7
+sj--12
 cz-4
+vt--7
 yy-7
+nv-5
 LIGHT -1 line 83
 LIGHT 1 line 85
 xe-13
@@ -756,60 +756,60 @@ LIGHT 1 line 325
 xe--15
 mb--10
 ek--15
-lv-13
-hn--7
-as-2
-rp--1
 ty-7
-np--3
+hn--7
 dx-10
+rp--1
+jj-10
+np--3
+dl-4
 gw--5
 id--12
 mi--9
-jj-10
-dl-4
+of-9
+lv-13
 dj--5
 sn--9
 kj--6
-of-9
+as-2
 LIGHT -1 line 327
 ln--15
-ek--15
-mb--10
-xe--15
 of-9
-kj--6
-sn--9
-dj--5
-dl-4
-jj-10
 mi--9
 id--12
 gw--5
-dx-10
+dl-4
 np--3
-ty-7
+jj-10
 rp--1
-as-2
+dx-10
 hn--7
+ty-7
+ek--15
+mb--10
+xe--15
+as-2
+kj--6
+sn--9
+dj--5
 lv-13
 LIGHT 1 line 329
-ty-7
+jj-10
+dl-4
 gw--5
 id--12
 mi--9
-jj-10
-dl-4
+of-9
+ln--15
+lv-13
 dj--5
 sn--9
 kj--6
-of-9
+as-2
 xe--15
 mb--10
 ek--15
-ln--15
-lv-13
-as-2
+ty-7
 LIGHT 0 line 331
 UNLIMITED_VOID line 332
 LIGHT 1 line 333
@@ -1423,48 +1423,48 @@ LIGHT 1 line 673
 uv--9
 tq--6
 xy--8
-qc-1
-gt-9
 vd-9
 vy-11
-ep--10
 hd-9
+qc-1
+ep--10
+gt-9
 LIGHT 1 line 675
 rt--5
 tq--6
 xy--8
-qc-1
-gt-9
 vd-9
 vy-11
-ep--10
 hd-9
+qc-1
+ep--10
+gt-9
 uv--9
 LIGHT -1 line 677
 rt--5
 uv--9
-hd-9
+gt-9
 ep--10
+qc-1
+hd-9
 vy-11
 vd-9
-gt-9
-qc-1
 xy--8
 tq--6
 LIGHT -1 line 679
 rt--5
 tq--6
 xy--8
-qc-1
-ep--10
-gt-9
 vd-9
+ep--10
 vy-11
 hd-9
+qc-1
+gt-9
 uv--9
 UNLIMITED_VOID line 680
 ep--10
-qc-1
+vd-9
 xy--8
 tq--6
 rt--5
@@ -1473,12 +1473,12 @@ LIGHT -1 line 681
 rt--5
 tq--6
 xy--8
-qc-1
-ep--10
-gt-9
 vd-9
+ep--10
 vy-11
 hd-9
+qc-1
+gt-9
 uv--9
 LIGHT 0 line 683
 LIGHT -1 line 685
@@ -1487,41 +1487,41 @@ vq--2
 rt--5
 tq--6
 xy--8
-qc-1
-ep--10
-gt-9
 vd-9
+ep--10
 vy-11
 hd-9
+qc-1
+gt-9
 uv--9
 LIGHT 0 line 687
 LIGHT 1 line 689
 ip--11
 jz-9
+qc-1
 hd-9
 vy-11
-vd-9
 ep--10
-qc-1
+vd-9
 xy--8
 tq--6
 rt--5
 vq--2
 LIGHT 1 line 691
 ip--11
-vd-9
+jz-9
 vq--2
 rt--5
 tq--6
 xy--8
 ep--10
+vd-9
 vy-11
 hd-9
-jz-9
 qc-1
 UNLIMITED_VOID line 692
 ip--11
-vd-9
+jz-9
 vq--2
 rt--5
 tq--6
@@ -1529,15 +1529,15 @@ xy--8
 ep--10
 LIGHT 1 line 693
 ip--11
-vd-9
+jz-9
 vq--2
 rt--5
 tq--6
 xy--8
 ep--10
+vd-9
 vy-11
 hd-9
-jz-9
 qc-1
 DOMAIN_EXPANSION line 694
 jz-9

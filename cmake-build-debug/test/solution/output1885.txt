@@ -1588,16 +1588,16 @@ yr--3
 sl-13
 LIGHT -1 line 535
 me--6
-tl-4
 jr-4
 go-6
-yg--2
 sl-13
+yg--2
+fz-14
 pb--1
 yr--3
-fz-14
 oj-4
 bx-12
+tl-4
 LIGHT -1 line 537
 me--6
 sl-13
@@ -1664,68 +1664,68 @@ lp-2
 fz-14
 LIGHT -1 line 547
 px--9
-sl-13
-go-6
+bx-12
+oj-4
 yg--2
 me--6
 yr--3
-jr-4
-tl-4
-bx-12
-pb--1
-oj-4
 fz-14
 lp-2
+sl-13
+pb--1
+go-6
+jr-4
+tl-4
 UNLIMITED_VOID line 548
 me--6
 yg--2
-jr-4
+oj-4
 yr--3
 LIGHT -1 line 549
 px--9
-sl-13
-go-6
+bx-12
+oj-4
 yg--2
 me--6
 yr--3
-jr-4
-tl-4
-bx-12
-pb--1
-oj-4
 fz-14
 lp-2
+sl-13
+pb--1
+go-6
+jr-4
+tl-4
 UNLIMITED_VOID line 550
 me--6
 yg--2
-jr-4
+oj-4
 yr--3
 LIGHT 1 line 551
 px--9
-lp-2
-fz-14
-oj-4
-pb--1
-bx-12
 tl-4
 jr-4
+go-6
+pb--1
+sl-13
+lp-2
+fz-14
 yr--3
 me--6
 yg--2
-go-6
-sl-13
+oj-4
+bx-12
 LIGHT 1 line 553
 me--6
-sl-13
-px--9
-lp-2
 oj-4
+px--9
+sl-13
+lp-2
 LIGHT -1 line 555
 me--6
-oj-4
 lp-2
-px--9
 sl-13
+px--9
+oj-4
 LIGHT -1 line 557
 me--6
 lp-2
@@ -1811,40 +1811,40 @@ jc--7
 me--6
 LIGHT -1 line 575
 wr--3
+oj-4
 lp-2
-sl-13
 px--9
 in--14
 jc--7
 me--6
-oj-4
+sl-13
 LIGHT -1 line 577
 ef--2
+wr--3
+oj-4
+lp-2
 px--9
 in--14
 jc--7
 me--6
-oj-4
-wr--3
-lp-2
 sl-13
 LIGHT 1 line 579
-lp-2
-wr--3
 me--6
 jc--7
 in--14
 px--9
+lp-2
+wr--3
 ef--2
 LIGHT 0 line 581
 LIGHT -1 line 583
-lp-2
+me--6
 ef--2
+wr--3
+lp-2
 px--9
 in--14
 jc--7
-me--6
-wr--3
 LIGHT 0 line 585
 LIGHT 1 line 587
 LIGHT 1 line 589

@@ -2275,42 +2275,42 @@ zy--2
 LIGHT 0 line 873
 LIGHT -1 line 875
 nl--6
-re-12
-ft-14
 ud-6
 dq-3
 rr-2
-zy--2
 wt-11
+re-12
+zy--2
+ft-14
 LIGHT -1 line 877
 nl--6
-re-12
-ft-14
 ud-6
 dq-3
 rr-2
-zy--2
 wt-11
+re-12
+zy--2
+ft-14
 LIGHT -1 line 879
 nl--6
-rr-2
-zy--2
-dq-3
 ud-6
+zy--2
 ft-14
 re-12
 wt-11
+rr-2
+dq-3
 LIGHT 0 line 881
 ut-12
 LIGHT -1 line 883
 nl--6
-rr-2
-zy--2
-dq-3
 ud-6
+zy--2
 ft-14
 re-12
 wt-11
+rr-2
+dq-3
 LIGHT 0 line 885
 ut-12
 yl--5
@@ -2320,31 +2320,31 @@ yl--5
 nh--7
 LIGHT -1 line 889
 nl--6
-rr-2
-zy--2
-dq-3
 ud-6
+zy--2
 ft-14
 re-12
 wt-11
+rr-2
+dq-3
 LIGHT -1 line 891
 nl--6
-rr-2
-zy--2
-dq-3
 ud-6
+zy--2
 ft-14
 re-12
 wt-11
+rr-2
+dq-3
 LIGHT -1 line 893
 nl--6
-rr-2
-zy--2
-dq-3
 ud-6
+zy--2
 ft-14
 re-12
 wt-11
+rr-2
+dq-3
 DOMAIN_EXPANSION line 894
 nh--7
 yl--5
@@ -2717,59 +2717,54 @@ wd-8
 jv--14
 LIGHT -1 line 994
 ny--7
-xq-7
-nt-9
-xl-4
-cs--2
-jv--14
-kv-14
 mn-1
 ll-8
 wd-8
+cs--2
+jv--14
 lq-2
 mp-7
 yv-14
+xq-7
+nt-9
+xl-4
+kv-14
 UNLIMITED_VOID line 995
 jv--14
 cs--2
+mp-7
+lq-2
+LIGHT 1 line 996
+ny--7
+kv-14
 xl-4
 nt-9
 xq-7
-ny--7
-LIGHT 1 line 996
-ny--7
 yv-14
 mp-7
 lq-2
+jv--14
+cs--2
 wd-8
 ll-8
 mn-1
-kv-14
-jv--14
-cs--2
-xl-4
-nt-9
-xq-7
 DOMAIN_EXPANSION line 997
 ny--7
 jv--14
 cs--2
 LIGHT -1 line 998
-kv-14
-mn-1
-ll-8
-wd-8
 lq-2
 mp-7
 yv-14
 xq-7
 nt-9
 xl-4
+kv-14
+mn-1
+ll-8
+wd-8
 LIGHT -1 line 1000
 aj-13
-mn-1
-ll-8
-wd-8
 lq-2
 mp-7
 yv-14
@@ -2777,11 +2772,11 @@ xq-7
 nt-9
 xl-4
 kv-14
+mn-1
+ll-8
+wd-8
 LIGHT -1 line 1002
 aj-13
-mn-1
-ll-8
-wd-8
 lq-2
 mp-7
 yv-14
@@ -2789,9 +2784,15 @@ xq-7
 nt-9
 xl-4
 kv-14
+mn-1
+ll-8
+wd-8
 DOMAIN_EXPANSION line 1003
 LIGHT 1 line 1004
 aj-13
+wd-8
+ll-8
+mn-1
 kv-14
 xl-4
 nt-9
@@ -2799,12 +2800,12 @@ xq-7
 yv-14
 mp-7
 lq-2
-wd-8
-ll-8
-mn-1
 LIGHT 1 line 1006
 zw-5
 aj-13
+wd-8
+ll-8
+mn-1
 kv-14
 xl-4
 nt-9
@@ -2812,15 +2813,9 @@ xq-7
 yv-14
 mp-7
 lq-2
-wd-8
-ll-8
-mn-1
 LIGHT -1 line 1008
 lo-9
 zw-5
-mn-1
-ll-8
-wd-8
 lq-2
 mp-7
 yv-14
@@ -2828,4 +2823,7 @@ xq-7
 nt-9
 xl-4
 kv-14
+mn-1
+ll-8
+wd-8
 aj-13

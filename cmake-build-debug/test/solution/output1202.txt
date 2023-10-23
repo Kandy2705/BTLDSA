@@ -1488,14 +1488,14 @@ LIGHT 0 line 421
 LIGHT -1 line 423
 ur-9
 pu--9
-ni-13
-dz-4
 lf-11
+du-13
+ni-13
 xb--3
 is--12
 zr--8
 en--11
-du-13
+dz-4
 UNLIMITED_VOID line 424
 is--12
 xb--3
@@ -1503,22 +1503,22 @@ en--11
 zr--8
 LIGHT 1 line 425
 ur-9
-du-13
+dz-4
 en--11
 zr--8
 is--12
 xb--3
-lf-11
-dz-4
 ni-13
+du-13
+lf-11
 pu--9
 LIGHT -1 line 427
 ur-9
-du-13
-en--11
-lf-11
 dz-4
+en--11
 ni-13
+du-13
+lf-11
 zr--8
 is--12
 xb--3
@@ -1527,18 +1527,20 @@ LIGHT 0 line 429
 LIGHT -1 line 431
 qt-10
 yg-3
-du-13
-en--11
-lf-11
 dz-4
+en--11
 ni-13
+du-13
+lf-11
 zr--8
 is--12
 xb--3
 pu--9
 ur-9
 LIGHT -1 line 433
-dz-4
+en--11
+du-13
+lf-11
 zr--8
 is--12
 xb--3
@@ -1546,19 +1548,15 @@ pu--9
 ur-9
 qt-10
 yg-3
-du-13
-en--11
-lf-11
+dz-4
 UNLIMITED_VOID line 434
 is--12
 zr--8
 pu--9
 xb--3
 LIGHT 1 line 435
-dz-4
-lf-11
 en--11
-du-13
+dz-4
 yg-3
 qt-10
 ur-9
@@ -1566,12 +1564,12 @@ pu--9
 xb--3
 is--12
 zr--8
+lf-11
+du-13
 LIGHT 1 line 437
 ej--12
-dz-4
-lf-11
 en--11
-du-13
+dz-4
 yg-3
 qt-10
 ur-9
@@ -1579,18 +1577,17 @@ pu--9
 xb--3
 is--12
 zr--8
+lf-11
+du-13
 UNLIMITED_VOID line 438
 is--12
 zr--8
-ej--12
 pu--9
 xb--3
 LIGHT 1 line 439
 ej--12
-dz-4
-lf-11
 en--11
-du-13
+dz-4
 yg-3
 qt-10
 ur-9
@@ -1598,6 +1595,8 @@ pu--9
 xb--3
 is--12
 zr--8
+lf-11
+du-13
 DOMAIN_EXPANSION line 440
 qt-10
 yg-3
@@ -1606,125 +1605,125 @@ dz-4
 lf-11
 du-13
 LIGHT 1 line 441
+ej--12
+en--11
 pu--9
 xb--3
 is--12
 zr--8
-ej--12
-en--11
 UNLIMITED_VOID line 442
-is--12
-zr--8
 ej--12
 en--11
 pu--9
 xb--3
+is--12
+zr--8
 LIGHT -1 line 443
-pu--9
-en--11
 ej--12
 zr--8
 is--12
 xb--3
+pu--9
+en--11
 UNLIMITED_VOID line 444
-is--12
-zr--8
 ej--12
 en--11
 pu--9
 xb--3
+is--12
+zr--8
 LIGHT -1 line 445
-pu--9
-en--11
 ej--12
 zr--8
 is--12
 xb--3
+pu--9
+en--11
 LIGHT 1 line 447
 fi--1
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 UNLIMITED_VOID line 448
-is--12
-zr--8
 ej--12
+fi--1
 en--11
 pu--9
-fi--1
 xb--3
+is--12
+zr--8
 LIGHT 0 line 449
 LIGHT -1 line 451
 gt--15
-pu--9
-en--11
 ej--12
 zr--8
 is--12
 xb--3
+pu--9
+en--11
 fi--1
 UNLIMITED_VOID line 452
 gt--15
 fi--1
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 LIGHT 1 line 453
 gt--15
 fi--1
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 LIGHT 1 line 455
 wo--15
 fi--1
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 LIGHT 1 line 457
 he-3
 fi--1
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 wo--15
 UNLIMITED_VOID line 458
 gt--15
 wo--15
 fi--1
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 LIGHT -1 line 459
 he-3
 wo--15
 gt--15
-pu--9
-en--11
 ej--12
 zr--8
 is--12
 xb--3
+pu--9
+en--11
 fi--1
 DOMAIN_EXPANSION line 460
 he-3
@@ -1734,42 +1733,42 @@ rp-3
 fi--1
 wo--15
 gt--15
-pu--9
-en--11
 ej--12
 zr--8
 is--12
 xb--3
+pu--9
+en--11
 UNLIMITED_VOID line 464
 gt--15
 wo--15
 fi--1
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 LIGHT -1 line 465
 rp-3
 fi--1
 wo--15
 gt--15
-pu--9
-en--11
 ej--12
 zr--8
 is--12
 xb--3
+pu--9
+en--11
 LIGHT 1 line 467
 cl--8
 rp-3
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 wo--15
 fi--1
@@ -1778,33 +1777,33 @@ gt--15
 wo--15
 fi--1
 cl--8
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 LIGHT 1 line 469
 cl--8
 rp-3
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 wo--15
 fi--1
 LIGHT 1 line 471
 yx-10
 rp-3
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 wo--15
 fi--1
@@ -1812,12 +1811,12 @@ cl--8
 LIGHT -1 line 473
 yx-10
 rp-3
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 wo--15
 fi--1
@@ -1828,33 +1827,33 @@ cl--8
 fi--1
 wo--15
 gt--15
-pu--9
-en--11
 ej--12
 zr--8
 is--12
 xb--3
+pu--9
+en--11
 rp-3
 UNLIMITED_VOID line 476
 gt--15
 wo--15
 fi--1
 cl--8
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 LIGHT 1 line 477
 yx-10
 rp-3
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 wo--15
 fi--1
@@ -1863,17 +1862,19 @@ LIGHT 1 line 479
 ae--14
 yx-10
 rp-3
+en--11
+pu--9
 xb--3
 is--12
 zr--8
 ej--12
-en--11
-pu--9
 gt--15
 wo--15
 fi--1
 cl--8
 LIGHT -1 line 481
+pu--9
+en--11
 rp-3
 yx-10
 ae--14
@@ -1881,8 +1882,6 @@ cl--8
 fi--1
 wo--15
 gt--15
-pu--9
-en--11
 ej--12
 zr--8
 LIGHT -1 line 483

@@ -925,12 +925,12 @@ ba--15
 cq-3
 LIGHT -1 line 215
 tf--5
-ml-11
-ba--15
-ap-8
 rl-4
-bz--8
+ba--15
 cq-3
+ml-11
+bz--8
+ap-8
 bl--11
 wr--13
 lm--6
@@ -947,12 +947,12 @@ LIGHT -1 line 217
 dh-9
 kb--15
 tf--5
-ml-11
-ba--15
-ap-8
 rl-4
-bz--8
+ba--15
 cq-3
+ml-11
+bz--8
+ap-8
 bl--11
 wr--13
 lm--6
@@ -971,6 +971,7 @@ ap-8
 ml-11
 cq-3
 LIGHT -1 line 219
+ba--15
 bz--8
 bl--11
 wr--13
@@ -985,7 +986,6 @@ ph--4
 xj--6
 kb--15
 tf--5
-ba--15
 LIGHT -1 line 221
 rw-14
 ba--15
@@ -1819,57 +1819,56 @@ ec--7
 zw-13
 LIGHT -1 line 359
 lf--3
-zw-13
-rj-13
-ec--7
 lr-4
+zw-13
+ec--7
+rj-13
 LIGHT -1 line 361
 lf--3
-rj-13
-ec--7
-zw-13
 lr-4
+ec--7
+rj-13
+zw-13
 LIGHT 1 line 363
 tv--10
 lf--3
-lr-4
 zw-13
-ec--7
 rj-13
+ec--7
+lr-4
 LIGHT 1 line 365
 ff-1
 lf--3
-lr-4
 zw-13
-ec--7
 rj-13
+ec--7
+lr-4
 tv--10
 LIGHT 1 line 367
 je-5
 lf--3
-lr-4
 zw-13
-ec--7
 rj-13
+ec--7
+lr-4
 tv--10
 ff-1
 LIGHT 0 line 369
 UNLIMITED_VOID line 370
 tv--10
 ff-1
-iv-4
-je-5
-lf--3
+ec--7
+lr-4
 LIGHT 0 line 371
 LIGHT 1 line 373
 nb--9
 iv-4
 je-5
 lf--3
-lr-4
 zw-13
-ec--7
 rj-13
+ec--7
+lr-4
 tv--10
 ff-1
 LIGHT -1 line 375
@@ -1877,10 +1876,10 @@ fn-2
 nb--9
 ff-1
 tv--10
-rj-13
-ec--7
-zw-13
 lr-4
+ec--7
+rj-13
+zw-13
 lf--3
 je-5
 iv-4
@@ -1892,10 +1891,10 @@ fn-2
 iv-4
 je-5
 lf--3
-lr-4
 zw-13
-ec--7
 rj-13
+ec--7
+lr-4
 tv--10
 ff-1
 nb--9
@@ -1906,10 +1905,10 @@ fn-2
 iv-4
 je-5
 lf--3
-lr-4
 zw-13
-ec--7
 rj-13
+ec--7
+lr-4
 tv--10
 ff-1
 nb--9
@@ -1920,10 +1919,10 @@ xt--11
 nb--9
 ff-1
 tv--10
-rj-13
-ec--7
-zw-13
 lr-4
+ec--7
+rj-13
+zw-13
 lf--3
 je-5
 iv-4
@@ -1940,10 +1939,10 @@ ec--7
 iv-4
 tv--10
 je-5
-lr-4
-nb--9
 zw-13
+nb--9
 rj-13
+lr-4
 ff-1
 xt--11
 LIGHT 0 line 387
@@ -2787,19 +2786,19 @@ qo--9
 zt--11
 qy--2
 gq--2
-ap-1
-lx-5
 tn-2
-qu--13
 wz-7
+ap-1
+qu--13
+lx-5
 LIGHT -1 line 697
 tx-4
 qo--9
-wz-7
-qu--13
-tn-2
 lx-5
+qu--13
 ap-1
+wz-7
+tn-2
 gq--2
 qy--2
 zt--11
@@ -2809,11 +2808,11 @@ tx-4
 zt--11
 qy--2
 gq--2
-ap-1
-lx-5
 tn-2
-qu--13
 wz-7
+ap-1
+qu--13
+lx-5
 qo--9
 LIGHT 1 line 701
 gb-4
@@ -2821,11 +2820,11 @@ tx-4
 zt--11
 qy--2
 gq--2
-ap-1
-lx-5
 tn-2
-qu--13
 wz-7
+ap-1
+qu--13
+lx-5
 qo--9
 hk--3
 LIGHT 0 line 703
@@ -2834,11 +2833,11 @@ vl--9
 vk--9
 hk--3
 qo--9
-wz-7
-qu--13
-tn-2
 lx-5
+qu--13
 ap-1
+wz-7
+tn-2
 gq--2
 qy--2
 zt--11
@@ -2851,11 +2850,11 @@ tx-4
 zt--11
 qy--2
 gq--2
-ap-1
-lx-5
 tn-2
-qu--13
 wz-7
+ap-1
+qu--13
+lx-5
 qo--9
 hk--3
 vk--9
@@ -2863,11 +2862,11 @@ LIGHT 1 line 709
 vl--9
 vk--9
 hk--3
-tx-4
-gb-4
 wz-7
-qo--9
 tn-2
+tx-4
+qo--9
+gb-4
 qu--13
 gq--2
 qy--2
@@ -2882,11 +2881,11 @@ zt--11
 qy--2
 gq--2
 qu--13
-tn-2
-qo--9
-wz-7
 gb-4
+qo--9
 tx-4
+tn-2
+wz-7
 hk--3
 vk--9
 LIGHT -1 line 713
@@ -2898,21 +2897,21 @@ zt--11
 qy--2
 gq--2
 qu--13
-tn-2
-qo--9
-wz-7
 gb-4
+qo--9
 tx-4
+tn-2
+wz-7
 hk--3
 vk--9
 LIGHT -1 line 715
 av-11
 qu--13
-tn-2
-qo--9
-wz-7
 gb-4
+qo--9
 tx-4
+tn-2
+wz-7
 hk--3
 vk--9
 hp--6
@@ -3509,16 +3508,16 @@ ws--13
 xl--1
 LIGHT -1 line 783
 on--2
+kc-7
+cv-3
 ze-4
 ls-4
-rb-12
-pl-4
 lf--1
 os--13
 st--10
 ek--9
 cj--5
-kc-7
+rb-12
 gn--3
 wt--3
 rs--6
@@ -3526,23 +3525,23 @@ sh--13
 kn--13
 ws--13
 xl--1
-cv-3
+pl-4
 LIGHT 0 line 785
 LIGHT 0 line 787
 LIGHT 1 line 789
 db--5
 qg-2
-kc-7
+rb-12
 ek--9
 st--10
 os--13
 lf--1
-pl-4
-rb-12
 ls-4
 ze-4
-on--2
 cv-3
+kc-7
+on--2
+pl-4
 xl--1
 sh--13
 LIGHT 0 line 791
@@ -3555,7 +3554,6 @@ ze-4
 rb-12
 ls-4
 LIGHT -1 line 793
-os--13
 lf--1
 on--2
 xl--1
@@ -3563,6 +3561,7 @@ sh--13
 db--5
 ek--9
 st--10
+os--13
 UNLIMITED_VOID line 794
 os--13
 st--10
@@ -3573,7 +3572,6 @@ xl--1
 on--2
 lf--1
 LIGHT -1 line 795
-os--13
 lf--1
 on--2
 xl--1
@@ -3581,9 +3579,9 @@ sh--13
 db--5
 ek--9
 st--10
+os--13
 DOMAIN_EXPANSION line 796
 LIGHT -1 line 797
-os--13
 lf--1
 on--2
 xl--1
@@ -3591,9 +3589,9 @@ sh--13
 db--5
 ek--9
 st--10
+os--13
 LIGHT -1 line 799
 ar-8
-os--13
 lf--1
 on--2
 xl--1
@@ -3601,10 +3599,10 @@ sh--13
 db--5
 ek--9
 st--10
+os--13
 LIGHT 0 line 801
 LIGHT 1 line 803
 ce--6
-os--13
 lf--1
 on--2
 xl--1
@@ -3612,6 +3610,7 @@ sh--13
 db--5
 ek--9
 st--10
+os--13
 ar-8
 LIGHT 1 line 805
 ce--6

@@ -22,9 +22,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "RED") // RED <NAME> <ENERGY>
         {
-            if (i == 12){
-                cout << "Hello";
-            }
+//            if (i == 12){
+//                cout << "Hello";
+//            }
             ss >> name;
             ss >> energy;
             r->RED(name, stoi(energy));
@@ -32,9 +32,9 @@ void simulate(string filename, imp_res *r)
 
         else if (str == "BLUE") // BLUE <NUM>
         {
-            if (i == 13){
-                cout << "Hello";
-            }
+//            if (i == 13){
+//                cout << "Hello";
+//            }
             ss >> num;
             r->BLUE(stoi(num));
         }
@@ -48,6 +48,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "UNLIMITED_VOID") // UNLIMITED_VOID
         {
+//            if (i == 8){
+//                cout << "Hello";
+//            }
             solution << str << " "
                      << "line " << i << endl;
             r->UNLIMITED_VOID();
@@ -183,8 +186,8 @@ int main(int argc, char *argv[])
         argc--;
     }
     {
-        int start = 315;
-        int end = 315;
+        int start = 400;
+        int end = 500;
 
         if (argc == 2)
         {

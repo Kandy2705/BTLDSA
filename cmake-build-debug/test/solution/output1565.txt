@@ -128,11 +128,11 @@ xw--14
 oi-6
 LIGHT -1 line 103
 is--15
-oi-6
-gi-7
 rs-7
-bx--8
 kg-4
+oi-6
+bx--8
+gi-7
 xw--14
 LIGHT -1 line 105
 is--15
@@ -1279,11 +1279,11 @@ od--11
 bq--13
 jw--8
 ub--8
-fh-10
-va--7
-tv-4
 xl-2
+va--7
 ge-3
+fh-10
+tv-4
 LIGHT 0 line 517
 LIGHT 1 line 519
 nw--8
@@ -1292,21 +1292,21 @@ od--11
 bq--13
 jw--8
 ub--8
-fh-10
-va--7
-tv-4
 xl-2
+va--7
 ge-3
+fh-10
+tv-4
 mr--14
 LIGHT -1 line 521
 xq-3
 nw--8
 mr--14
-ge-3
-xl-2
 tv-4
-va--7
 fh-10
+ge-3
+va--7
+xl-2
 ub--8
 jw--8
 bq--13
@@ -1317,11 +1317,11 @@ yk-10
 xq-3
 nw--8
 mr--14
-ge-3
-xl-2
 tv-4
-va--7
 fh-10
+ge-3
+va--7
+xl-2
 ub--8
 jw--8
 bq--13
@@ -2322,9 +2322,9 @@ yl--1
 rp-5
 LIGHT 1 line 635
 ay--13
-rp-5
+sk-5
 yx--12
-fl-2
+rp-5
 lj--11
 af--9
 nw--8
@@ -2339,12 +2339,12 @@ bi--5
 ly--3
 hq--15
 yl--1
-sk-5
+fl-2
 LIGHT 1 line 637
 kr--9
-rp-5
+sk-5
 yx--12
-fl-2
+rp-5
 lj--11
 af--9
 nw--8
@@ -2359,7 +2359,7 @@ bi--5
 ly--3
 hq--15
 yl--1
-sk-5
+fl-2
 ay--13
 LIGHT -1 line 639
 ku-5
@@ -2376,23 +2376,23 @@ fq--6
 nw--8
 af--9
 lj--11
-fl-2
-yx--12
 rp-5
+yx--12
+sk-5
 kr--9
 ay--13
-sk-5
+fl-2
 yl--1
 LIGHT 1 line 641
 ym--6
 ku-5
 yl--1
-sk-5
+fl-2
 ay--13
 kr--9
-rp-5
+sk-5
 yx--12
-fl-2
+rp-5
 lj--11
 af--9
 nw--8
@@ -2411,9 +2411,9 @@ hq--15
 ym--6
 ay--13
 kr--9
-rp-5
+sk-5
 yx--12
-fl-2
+rp-5
 lj--11
 af--9
 nw--8
@@ -2430,12 +2430,12 @@ LIGHT 1 line 643
 ym--6
 ku-5
 yl--1
-sk-5
+fl-2
 ay--13
 kr--9
-rp-5
+sk-5
 yx--12
-fl-2
+rp-5
 lj--11
 af--9
 nw--8
@@ -2453,12 +2453,12 @@ LIGHT 1 line 645
 wa--7
 ku-5
 yl--1
-sk-5
+fl-2
 ay--13
 kr--9
-rp-5
+sk-5
 yx--12
-fl-2
+rp-5
 lj--11
 af--9
 nw--8
@@ -2477,12 +2477,12 @@ LIGHT 1 line 647
 sb--15
 ku-5
 yl--1
-sk-5
+fl-2
 ay--13
 kr--9
-rp-5
+sk-5
 yx--12
-fl-2
+rp-5
 lj--11
 af--9
 nw--8
@@ -2516,12 +2516,12 @@ fq--6
 nw--8
 af--9
 lj--11
-fl-2
-yx--12
 rp-5
+yx--12
+sk-5
 kr--9
 ay--13
-sk-5
+fl-2
 yl--1
 ku-5
 LIGHT 0 line 651
@@ -2544,12 +2544,12 @@ fq--6
 nw--8
 af--9
 lj--11
-fl-2
-yx--12
 rp-5
+yx--12
+sk-5
 kr--9
 ay--13
-sk-5
+fl-2
 yl--1
 ku-5
 DOMAIN_EXPANSION line 654
@@ -2558,6 +2558,8 @@ fl-2
 rp-5
 sk-5
 LIGHT -1 line 655
+yx--12
+kr--9
 ay--13
 yl--1
 ui--5
@@ -2578,9 +2580,9 @@ fq--6
 nw--8
 af--9
 lj--11
-yx--12
-kr--9
 LIGHT -1 line 657
+yx--12
+kr--9
 ay--13
 yl--1
 ui--5
@@ -2601,9 +2603,9 @@ fq--6
 nw--8
 af--9
 lj--11
-yx--12
-kr--9
 LIGHT -1 line 659
+yx--12
+kr--9
 ay--13
 yl--1
 ui--5
@@ -2624,8 +2626,6 @@ fq--6
 nw--8
 af--9
 lj--11
-yx--12
-kr--9
 LIGHT 1 line 661
 pv-2
 ym--6

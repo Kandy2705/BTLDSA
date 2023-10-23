@@ -1346,71 +1346,71 @@ ct-7
 gp-12
 LIGHT -1 line 455
 ur--12
-ui-10
 gl-4
-lm--1
 zs-8
+lm--1
+gp-12
 fm--13
 rt--5
-gp-12
+ct-7
 fi--5
 dw--13
-ct-7
+ui-10
 LIGHT 1 line 457
 ez--9
 gp-12
-rt--5
-fm--13
-zs-8
 lm--1
+zs-8
 gl-4
-ui-10
 ur--12
-ct-7
+ui-10
 dw--13
 fi--5
+ct-7
+rt--5
+fm--13
 LIGHT 1 line 459
 ez--9
+ui-10
+gl-4
+fm--13
+zs-8
+rt--5
 fi--5
 gp-12
 dw--13
-ct-7
-ui-10
 ur--12
-gl-4
 lm--1
-fm--13
-rt--5
-zs-8
+ct-7
 LIGHT -1 line 461
 iv-4
+fm--13
+gl-4
+ui-10
+ez--9
+ct-7
+lm--1
+ur--12
 dw--13
 gp-12
 fi--5
-ez--9
-zs-8
 rt--5
-fm--13
-lm--1
-gl-4
-ur--12
-ui-10
-ct-7
+zs-8
 LIGHT 1 line 463
 dt-5
-rt--5
-zs-8
+ur--12
+lm--1
+ct-7
 ez--9
+ui-10
+gl-4
+fm--13
+iv-4
+zs-8
+rt--5
 fi--5
 gp-12
 dw--13
-iv-4
-ct-7
-ui-10
-ur--12
-gl-4
-lm--1
-fm--13
 LIGHT 0 line 465
 LIGHT 0 line 467
 jp--14
@@ -2531,43 +2531,43 @@ bp-12
 LIGHT 1 line 707
 pt--4
 gg--15
-hp-12
+td-11
 qy--1
 ky--9
-rq-13
+hp-12
 ai--4
-bp-12
+rq-13
 ti--4
+bp-12
 oo-3
-td-11
 LIGHT 0 line 709
 LIGHT 1 line 711
 br--13
 rq-13
-ai--4
-bp-12
 ti--4
+bp-12
 oo-3
-td-11
 pt--4
 gg--15
-hp-12
+td-11
 qy--1
 ky--9
+hp-12
+ai--4
 LIGHT -1 line 713
 sz-9
 gg--15
 pt--4
-td-11
 oo-3
-ti--4
 bp-12
-ai--4
+ti--4
 rq-13
 br--13
+ai--4
+hp-12
 ky--9
 qy--1
-hp-12
+td-11
 DOMAIN_EXPANSION line 714
 br--13
 pt--4
@@ -2577,66 +2577,66 @@ ky--9
 ti--4
 gg--15
 LIGHT 1 line 715
-td-11
+oo-3
 sz-9
+td-11
 hp-12
 rq-13
 bp-12
-oo-3
 LIGHT 1 line 717
 hk-11
 sz-9
+td-11
 hp-12
 rq-13
 bp-12
 oo-3
-td-11
 LIGHT -1 line 719
 hk-11
-td-11
 oo-3
 bp-12
 rq-13
 hp-12
+td-11
 sz-9
 LIGHT 1 line 721
 hk-11
-td-11
 oo-3
 bp-12
 rq-13
 hp-12
+td-11
 sz-9
 LIGHT 1 line 723
 ck--10
 rq-13
 hp-12
+td-11
 sz-9
 hk-11
-td-11
 oo-3
 bp-12
 UNLIMITED_VOID line 724
 ck--10
-td-11
+hk-11
 oo-3
 bp-12
 LIGHT -1 line 725
 ck--10
 bp-12
 oo-3
-td-11
 hk-11
 sz-9
+td-11
 hp-12
 rq-13
 LIGHT 1 line 727
 kr-9
 rq-13
 hp-12
+td-11
 sz-9
 hk-11
-td-11
 oo-3
 bp-12
 ck--10
@@ -2646,9 +2646,9 @@ kr-9
 ck--10
 bp-12
 oo-3
-td-11
 hk-11
 sz-9
+td-11
 hp-12
 rq-13
 UNLIMITED_VOID line 730
@@ -2662,9 +2662,9 @@ kr-9
 ck--10
 bp-12
 oo-3
-td-11
 hk-11
 sz-9
+td-11
 hp-12
 rq-13
 UNLIMITED_VOID line 732
@@ -2676,9 +2676,9 @@ LIGHT 1 line 733
 dn-1
 rq-13
 hp-12
+td-11
 sz-9
 hk-11
-td-11
 oo-3
 bp-12
 ck--10
@@ -2687,9 +2687,9 @@ LIGHT 1 line 735
 dn-1
 rq-13
 hp-12
+td-11
 sz-9
 hk-11
-td-11
 oo-3
 bp-12
 ck--10

@@ -191,10 +191,10 @@ ls--16
 xq-3
 LIGHT -19 line 79
 co--20
-xq-3
-fc-7
-rw--4
 ed-7
+xq-3
+rw--4
+fc-7
 gu--8
 dw--4
 cq--2
@@ -202,10 +202,10 @@ ok--19
 ls--16
 LIGHT -15 line 81
 co--20
-xq-3
-fc-7
-rw--4
 ed-7
+xq-3
+rw--4
+fc-7
 gu--8
 dw--4
 cq--2
@@ -218,10 +218,10 @@ ok--19
 cq--2
 dw--4
 gu--8
-ed-7
-rw--4
 fc-7
+rw--4
 xq-3
+ed-7
 co--20
 LIGHT 10 line 85
 wt--16
@@ -229,10 +229,10 @@ co--20
 rw--4
 gu--8
 dw--4
-xq-3
-cq--2
-fc-7
 ed-7
+cq--2
+xq-3
+fc-7
 ok--19
 ls--16
 UNLIMITED_VOID line 86
@@ -249,10 +249,10 @@ co--20
 rw--4
 gu--8
 dw--4
-xq-3
-cq--2
-fc-7
 ed-7
+cq--2
+xq-3
+fc-7
 ok--19
 ls--16
 LIGHT -7 line 89
@@ -260,10 +260,10 @@ tn-4
 wt--16
 ls--16
 ok--19
-ed-7
 fc-7
-cq--2
 xq-3
+cq--2
+ed-7
 dw--4
 gu--8
 rw--4
@@ -274,6 +274,7 @@ fc-7
 xq-3
 ed-7
 LIGHT 12 line 91
+cq--2
 ok--19
 ls--16
 wt--16
@@ -281,33 +282,32 @@ co--20
 rw--4
 gu--8
 dw--4
-cq--2
 LIGHT -20 line 93
 hj--7
-ok--19
-cq--2
 dw--4
 gu--8
 rw--4
 co--20
 wt--16
 ls--16
+ok--19
+cq--2
 LIGHT -3 line 95
 be-10
 hj--7
-ok--19
-cq--2
 dw--4
 gu--8
 rw--4
 co--20
 wt--16
 ls--16
+ok--19
+cq--2
 LIGHT 13 line 97
 rw--4
-ok--19
 hj--7
 be-10
+ok--19
 ls--16
 wt--16
 co--20
@@ -317,14 +317,14 @@ rw--4
 co--20
 wt--16
 ls--16
+ok--19
 be-10
 hj--7
-ok--19
 LIGHT 3 line 101
 jl-6
-ok--19
 hj--7
 be-10
+ok--19
 ls--16
 wt--16
 co--20
@@ -338,9 +338,9 @@ rw--4
 co--20
 wt--16
 ls--16
+ok--19
 be-10
 hj--7
-ok--19
 LIGHT -10 line 105
 yw-16
 LIGHT 2 line 107

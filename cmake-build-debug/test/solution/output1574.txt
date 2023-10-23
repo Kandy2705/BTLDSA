@@ -413,26 +413,26 @@ qm-14
 LIGHT 1 line 121
 dv--7
 uk--13
-db-12
+qm-14
 un--8
 os--4
 tg--11
 mc--7
-qm-14
 cv-6
+db-12
 LIGHT -1 line 123
 dv--7
+db-12
 cv-6
-qm-14
 mc--7
 tg--11
 os--4
 un--8
-db-12
+qm-14
 uk--13
 UNLIMITED_VOID line 124
 uk--13
-db-12
+qm-14
 un--8
 os--4
 tg--11
@@ -440,13 +440,13 @@ mc--7
 dv--7
 LIGHT -1 line 125
 dv--7
+db-12
 cv-6
-qm-14
 mc--7
 tg--11
 os--4
 un--8
-db-12
+qm-14
 uk--13
 LIGHT 0 line 127
 ey--7
@@ -461,13 +461,13 @@ cd-12
 rf-7
 LIGHT -1 line 131
 dv--7
+db-12
 cv-6
-qm-14
 mc--7
 tg--11
 os--4
 un--8
-db-12
+qm-14
 uk--13
 DOMAIN_EXPANSION line 132
 kg--1
@@ -978,47 +978,47 @@ ae--13
 if-14
 LIGHT 1 line 351
 lj--7
-if-14
-ig--1
-vk-5
-ae--13
 kh-10
+ig--1
+if-14
+ae--13
+vk-5
 LIGHT -1 line 353
 iq-4
 ae--13
-vk-5
-ig--1
 if-14
-lj--7
+ig--1
 kh-10
+lj--7
+vk-5
 LIGHT 1 line 355
 vt-2
 iq-4
-kh-10
-lj--7
-if-14
-ig--1
 vk-5
+lj--7
+kh-10
+ig--1
+if-14
 ae--13
 LIGHT -1 line 357
 iu-2
 ae--13
-vk-5
-ig--1
 if-14
-lj--7
+ig--1
 kh-10
+lj--7
+vk-5
 iq-4
 vt-2
 LIGHT 1 line 359
 iu-2
 vt-2
 iq-4
-kh-10
-lj--7
-if-14
-ig--1
 vk-5
+lj--7
+kh-10
+ig--1
+if-14
 ae--13
 DOMAIN_EXPANSION line 360
 lj--7
@@ -1027,47 +1027,47 @@ ae--13
 LIGHT -1 line 361
 tf-9
 iu-2
-vk-5
 if-14
 kh-10
+vk-5
 iq-4
 vt-2
 LIGHT -1 line 363
 dn-3
 kh-10
+vk-5
 iq-4
 vt-2
 tf-9
 iu-2
-vk-5
 if-14
 DOMAIN_EXPANSION line 364
 LIGHT -1 line 365
 dn-3
 kh-10
+vk-5
 iq-4
 vt-2
 tf-9
 iu-2
-vk-5
 if-14
 LIGHT -1 line 367
 yo-11
 iu-2
-vk-5
 if-14
 dn-3
 kh-10
+vk-5
 iq-4
 vt-2
 tf-9
 LIGHT -1 line 369
 yo-11
 iu-2
-vk-5
 if-14
 dn-3
 kh-10
+vk-5
 iq-4
 vt-2
 tf-9
@@ -1076,18 +1076,18 @@ yo-11
 tf-9
 vt-2
 iq-4
+vk-5
 kh-10
 dn-3
 if-14
-vk-5
 iu-2
 LIGHT -1 line 373
 yo-11
 iu-2
-vk-5
 if-14
 dn-3
 kh-10
+vk-5
 iq-4
 vt-2
 tf-9
@@ -1889,22 +1889,22 @@ uu--15
 LIGHT 0 line 705
 LIGHT -1 line 707
 pw--7
+fl--7
 aj-7
+xj-11
+uo-1
 hm--7
 uu--15
-xj-11
-fl--7
-uo-1
 tx-12
 LIGHT -1 line 709
 ir-13
 uu--15
-xj-11
-fl--7
-uo-1
 tx-12
 pw--7
+fl--7
 aj-7
+xj-11
+uo-1
 hm--7
 DOMAIN_EXPANSION line 710
 pw--7
@@ -1913,26 +1913,26 @@ uu--15
 hm--7
 LIGHT -1 line 711
 ir-13
-xj-11
-uo-1
 tx-12
 aj-7
+xj-11
+uo-1
 LIGHT 0 line 713
 LIGHT -1 line 715
 wq--8
-ir-13
 uo-1
+ir-13
 tx-12
 DOMAIN_EXPANSION line 716
 wq--8
 LIGHT -1 line 717
-ir-13
 uo-1
+ir-13
 tx-12
 LIGHT 1 line 719
-ir-13
-tx-12
 uo-1
+tx-12
+ir-13
 LIGHT 1 line 721
 ir-13
 UNLIMITED_VOID line 722

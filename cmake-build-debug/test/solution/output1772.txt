@@ -121,12 +121,12 @@ kd-6
 yw--5
 LIGHT -1 line 57
 vu--2
-kn-10
+kd-6
 hd--2
 yw--5
-ea-4
-kd-6
 ri-10
+kn-10
+ea-4
 LIGHT 0 line 59
 df--2
 dz--1
@@ -987,42 +987,42 @@ nd--6
 qb--15
 LIGHT -1 line 337
 ym--11
-nx-3
+lx-3
 zx--2
 nd--6
 qb--15
-lx-3
 fc-11
+nx-3
 LIGHT -1 line 339
 ym--11
-nx-3
+lx-3
 zx--2
 nd--6
 qb--15
-lx-3
 fc-11
+nx-3
 LIGHT 1 line 341
 ym--11
+nx-3
 fc-11
-lx-3
 qb--15
 nd--6
 zx--2
-nx-3
+lx-3
 LIGHT -1 line 343
 ym--11
-nx-3
 fc-11
-qb--15
 lx-3
+qb--15
+nx-3
 nd--6
 zx--2
 LIGHT -1 line 345
 ym--11
-nx-3
 fc-11
-qb--15
 lx-3
+qb--15
+nx-3
 nd--6
 zx--2
 UNLIMITED_VOID line 346
@@ -1030,31 +1030,31 @@ qb--15
 ym--11
 zx--2
 nd--6
-lx-3
+nx-3
 LIGHT -1 line 347
 ym--11
-nx-3
 fc-11
-qb--15
 lx-3
+qb--15
+nx-3
 nd--6
 zx--2
 LIGHT 1 line 349
 ym--11
 zx--2
 nd--6
-lx-3
-qb--15
-fc-11
 nx-3
+qb--15
+lx-3
+fc-11
 LIGHT 1 line 351
 ym--11
 zx--2
 nd--6
-lx-3
-qb--15
-fc-11
 nx-3
+qb--15
+lx-3
+fc-11
 LIGHT -1 line 353
 ij-11
 ym--11
@@ -2547,84 +2547,84 @@ kb--4
 jj--5
 LIGHT -1 line 925
 td--6
+aq-4
 tx-11
-bp-13
 wp--6
 kb--4
 jj--5
-aq-4
+bp-13
 UNLIMITED_VOID line 926
 td--6
-aq-4
+bp-13
 jj--5
 kb--4
 wp--6
 LIGHT -1 line 927
 td--6
+aq-4
 tx-11
-bp-13
 wp--6
 kb--4
 jj--5
-aq-4
+bp-13
 LIGHT 1 line 929
 td--6
-aq-4
+bp-13
 jj--5
 kb--4
 wp--6
-bp-13
 tx-11
+aq-4
 LIGHT 0 line 931
 ed-12
 dm-12
 UNLIMITED_VOID line 932
 td--6
-aq-4
+bp-13
 jj--5
 kb--4
 wp--6
 LIGHT 1 line 933
 td--6
-aq-4
+bp-13
 jj--5
 kb--4
 wp--6
-bp-13
 tx-11
+aq-4
 LIGHT -1 line 935
 ed-12
 td--6
+aq-4
 tx-11
-bp-13
 kb--4
 jj--5
-aq-4
+bp-13
 LIGHT 1 line 937
 ed-12
-aq-4
+bp-13
 jj--5
 kb--4
-bp-13
 tx-11
+aq-4
 td--6
 LIGHT 0 line 939
 dm-12
 xh--1
 LIGHT 1 line 941
 ed-12
-aq-4
+bp-13
 jj--5
 kb--4
-bp-13
 tx-11
+aq-4
 td--6
 LIGHT -1 line 943
 ed-12
-aq-4
-jj--5
 bp-13
+jj--5
 tx-11
+aq-4
 kb--4
 td--6
 DOMAIN_EXPANSION line 944
@@ -2635,17 +2635,17 @@ jj--5
 LIGHT -1 line 945
 nw-4
 tx-11
-ed-12
 dm-12
 aq-4
+ed-12
 bp-13
 LIGHT 0 line 947
 LIGHT 1 line 949
 cd--7
 bp-13
+ed-12
 aq-4
 dm-12
-ed-12
 tx-11
 nw-4
 LIGHT 1 line 951

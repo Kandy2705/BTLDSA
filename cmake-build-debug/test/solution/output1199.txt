@@ -1145,7 +1145,7 @@ ps--13
 kn--14
 LIGHT 1 line 247
 rf--6
-dw-9
+qo-12
 kn--14
 ps--13
 tr--9
@@ -1161,8 +1161,8 @@ ne--13
 or--11
 jl--12
 jf--14
-qo-12
 zg-4
+dw-9
 LIGHT 1 line 249
 rf--6
 jf--14
@@ -1179,18 +1179,18 @@ qg--1
 qw--4
 tr--9
 ps--13
-dw-9
 zg-4
-kn--14
 qo-12
+kn--14
+dw-9
 LIGHT -1 line 251
 aq-9
 jf--14
 rf--6
-qo-12
-kn--14
-zg-4
 dw-9
+kn--14
+qo-12
+zg-4
 ps--13
 tr--9
 qw--4
@@ -1206,9 +1206,7 @@ or--11
 jl--12
 LIGHT -1 line 253
 vx--5
-kn--14
 zg-4
-dw-9
 ps--13
 tr--9
 qw--4
@@ -1225,6 +1223,8 @@ jl--12
 aq-9
 jf--14
 rf--6
+dw-9
+kn--14
 qo-12
 LIGHT -1 line 255
 LIGHT -1 line 257
@@ -2043,25 +2043,25 @@ fk--10
 xk-13
 LIGHT -1 line 509
 fw--10
-yv-5
+ix-3
 fk--10
 zg--7
-mm-11
+xk-13
 ao--15
 kp--10
 ev--5
 lo--3
-ix-3
-xk-13
+yv-5
+mm-11
 ih--11
 sw--13
 jr--15
 UNLIMITED_VOID line 510
 ao--15
-mm-11
+xk-13
 zg--7
 fk--10
-yv-5
+ix-3
 fw--10
 jr--15
 sw--13
@@ -2071,16 +2071,16 @@ ev--5
 kp--10
 LIGHT -1 line 511
 fw--10
-yv-5
+ix-3
 fk--10
 zg--7
-mm-11
+xk-13
 ao--15
 kp--10
 ev--5
 lo--3
-ix-3
-xk-13
+yv-5
+mm-11
 ih--11
 sw--13
 jr--15
@@ -2335,19 +2335,19 @@ wp-13
 LIGHT 0 line 577
 LIGHT -1 line 579
 vr--10
-cj-12
-jr--6
-wr-6
-hw-13
-ff-10
-fa--5
 wp-13
+jr--6
+gf-14
+cj-12
+wr-6
+fa--5
+hw-13
 gd--4
 sv--3
 pb--4
 vl--1
 vq--11
-gf-14
+ff-10
 LIGHT 1 line 581
 LIGHT -1 line 583
 wn-12
@@ -3000,6 +3000,8 @@ yn--5
 hl--15
 ad--14
 LIGHT -1 line 733
+eb-10
+va-10
 nb-7
 xo-13
 ri-3
@@ -3010,8 +3012,6 @@ gd-4
 rb-14
 ih-10
 no-12
-eb-10
-va-10
 LIGHT 1 line 735
 ma-9
 xo-13

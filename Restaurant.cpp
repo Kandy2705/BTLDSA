@@ -448,7 +448,7 @@ public:
     void REVERSAL()
     {
         //cout << "reversal" << endl;
-        if (sokhachban == 0) return;
+        if (sokhachban == 0 || sokhachban == 1) return;
         customer*temp = vitrix(x);
         string vitritruocthaydoi = vitrix(x) -> name;
         if (sokhachban == 1 || sokhachban == 0){
@@ -486,21 +486,50 @@ public:
     void UNLIMITED_VOID()
     {
         //cout << "unlimited_void" << endl;
-        int nhonhat = tong(head,4);
-        customer*q = head;
+        if (sokhachban < 4) return;
+        int nhonhat = tong(vitrix(x),3);
+        customer*q = vitrix(x);
         int temp = 0;
-        for (customer*p = head; p -> next != head; p = p -> next){
-            for (int i = 4; i <= sokhachban; i++){
-                if (tong(p,i) <= nhonhat){
-                    nhonhat = tong(p,i);
-                    temp = i;
-                    q=p;
+        customer*p = vitrix(x);
+        do {
+            for (int i = 3; i < sokhachban; i++) {
+                int s = tong(p, i);
+                int temp1 = i + 1;
+                if (s < nhonhat ||(s == nhonhat && temp1 >= temp)) {
+                    nhonhat = s;
+                    temp = i + 1;
+                    q = p;
                 }
             }
-        }
-        for(customer*p = q; temp>=1;temp--){
-            p -> print();
             p = p -> next;
+        } while(p != vitrix(x));
+        int gtnt = q -> energy;
+        customer* vitriin = q;
+        customer* cuoichuoi;
+        int xx = temp;
+        for(customer*nhoxiu = q -> next; xx > 1; xx--){
+            if (gtnt > nhoxiu -> energy){
+                gtnt = nhoxiu -> energy;
+                vitriin = nhoxiu;
+            }
+            cuoichuoi = nhoxiu;
+            nhoxiu = nhoxiu -> next;
+        }
+        int yy = temp;
+        for(customer*pp = vitriin; yy >= 1;yy--){
+            if (vitriin == q){
+                pp -> print();
+                pp = pp -> next;
+            }
+            else {
+                pp -> print();
+                if (pp == cuoichuoi){
+                    pp = q;
+                }
+                else pp = pp -> next;
+            }
+//            p -> print();
+//            p = p -> next;
         }
     }
     /////////////////////////////////////////////////////////////////////////////////////////////

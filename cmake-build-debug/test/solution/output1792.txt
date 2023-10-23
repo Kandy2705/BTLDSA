@@ -1907,23 +1907,24 @@ LIGHT 0 line 907
 LIGHT 0 line 909
 UNLIMITED_VOID line 910
 sr--15
-jz--6
-sk-3
 om--2
+pd-6
+sk-3
+jz--6
 LIGHT -1 line 911
 sr--15
-om--2
-sk-3
 jz--6
+sk-3
 pd-6
+om--2
 dm-13
 LIGHT 1 line 913
 sr--15
 dm-13
-pd-6
-jz--6
-sk-3
 om--2
+pd-6
+sk-3
+jz--6
 LIGHT -1 line 915
 ko-8
 LIGHT 1 line 917

@@ -818,37 +818,37 @@ ks--13
 jz-14
 LIGHT 1 line 307
 bc--13
+lo-6
 jz-14
-hr-4
 sk--14
 id--2
 ks--13
-lo-6
+hr-4
 LIGHT -1 line 309
 bc--13
-lo-6
+hr-4
 ks--13
 id--2
 sk--14
-hr-4
 jz-14
+lo-6
 LIGHT 1 line 311
 bc--13
 ks--13
 id--2
-hr-4
-sk--14
-jz-14
 lo-6
+sk--14
+hr-4
+jz-14
 DOMAIN_EXPANSION line 312
 jz-14
 lo-6
 hr-4
 LIGHT 1 line 313
-sk--14
 bc--13
 ks--13
 id--2
+sk--14
 LIGHT 1 line 315
 LIGHT 1 line 317
 LIGHT 1 line 319
@@ -1231,93 +1231,93 @@ oi-14
 LIGHT 1 line 431
 ls--12
 ws--4
-wn-9
-ry--10
 oi-14
+ry--10
 pc-9
+wn-9
 LIGHT -1 line 433
 gq-11
 ls--12
-pc-9
-oi-14
-ry--10
 wn-9
+pc-9
+ry--10
+oi-14
 ws--4
 LIGHT -1 line 435
 us--5
-ry--10
-wn-9
 ws--4
 gq-11
 ls--12
+wn-9
 pc-9
+ry--10
 oi-14
 LIGHT -1 line 437
 sv-11
 ls--12
+wn-9
 pc-9
+ry--10
 oi-14
 us--5
-ry--10
-wn-9
 ws--4
 gq-11
 LIGHT 1 line 439
 sv-11
 gq-11
 ws--4
-wn-9
-ry--10
 us--5
 oi-14
+ry--10
 pc-9
+wn-9
 ls--12
 UNLIMITED_VOID line 440
 ry--10
-us--5
 ws--4
-wn-9
+us--5
+oi-14
 LIGHT 1 line 441
 sv-11
 gq-11
 ws--4
-wn-9
-ry--10
 us--5
 oi-14
+ry--10
 pc-9
+wn-9
 ls--12
 LIGHT 1 line 443
 sv-11
 ls--12
-pc-9
-us--5
 ry--10
-oi-14
 wn-9
+us--5
+pc-9
+oi-14
 ws--4
 gq-11
 LIGHT -1 line 445
 ak--9
-ry--10
-us--5
 pc-9
+us--5
+wn-9
+ry--10
 ls--12
 sv-11
 gq-11
 ws--4
-wn-9
 oi-14
 LIGHT -1 line 447
 ak--9
-ry--10
-us--5
 pc-9
+us--5
+wn-9
+ry--10
 ls--12
 sv-11
 gq-11
 ws--4
-wn-9
 oi-14
 LIGHT -1 line 449
 ak--9
@@ -1785,48 +1785,48 @@ fh--4
 qk-13
 LIGHT 1 line 579
 jf--13
-qk-13
+nd-2
 io--5
-lx-4
+qk-13
 lm--11
 hf--14
 db--7
 ee--11
 fh--4
-nd-2
+lx-4
 LIGHT -1 line 581
 jf--13
-nd-2
+lx-4
 fh--4
 ee--11
 db--7
 hf--14
 lm--11
-lx-4
-io--5
 qk-13
+io--5
+nd-2
 LIGHT 1 line 583
 jf--13
-qk-13
+nd-2
 io--5
-lx-4
+qk-13
 lm--11
 hf--14
 db--7
 ee--11
 fh--4
-nd-2
+lx-4
 LIGHT -1 line 585
 jf--13
-nd-2
+lx-4
 fh--4
 ee--11
 db--7
 hf--14
 lm--11
-lx-4
-io--5
 qk-13
+io--5
+nd-2
 LIGHT -1 line 587
 jf--13
 lx-4
@@ -1840,11 +1840,11 @@ fh--4
 qk-13
 LIGHT -1 line 589
 jf--13
-nd-2
-fh--4
 lx-4
-ee--11
+fh--4
 qk-13
+ee--11
+nd-2
 db--7
 hf--14
 lm--11
@@ -1855,18 +1855,18 @@ io--5
 lm--11
 hf--14
 db--7
-qk-13
-ee--11
-lx-4
-fh--4
 nd-2
+ee--11
+qk-13
+fh--4
+lx-4
 LIGHT -1 line 593
 jf--13
-nd-2
-fh--4
 lx-4
-ee--11
+fh--4
 qk-13
+ee--11
+nd-2
 db--7
 hf--14
 lm--11
@@ -1877,11 +1877,11 @@ io--5
 lm--11
 hf--14
 db--7
-qk-13
-ee--11
-lx-4
-fh--4
 nd-2
+ee--11
+qk-13
+fh--4
+lx-4
 DOMAIN_EXPANSION line 596
 rg-13
 ez-12

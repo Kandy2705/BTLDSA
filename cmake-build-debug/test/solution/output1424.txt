@@ -675,11 +675,11 @@ gz--15
 bp-11
 LIGHT -1 line 141
 na--7
-lc-7
-gz--15
-qr-7
 iv-7
+gz--15
 bp-11
+lc-7
+qr-7
 cg--2
 vk--12
 er--14
@@ -696,10 +696,10 @@ LIGHT 0 line 143
 LIGHT 0 line 145
 LIGHT -1 line 147
 mq--14
-lc-7
-qr-7
 iv-7
 bp-11
+lc-7
+qr-7
 mi--2
 na--7
 gz--15
@@ -3945,31 +3945,31 @@ tv--5
 LIGHT 0 line 549
 LIGHT -1 line 551
 tv--5
-ph-2
-ki-10
 ih-1
 kw-10
 ie-4
 ps-4
 wc-9
 su-10
+we-11
+ph-2
 iu--10
 wx--7
-we-11
+ki-10
 iz--9
 LIGHT -1 line 553
 tv--5
-ph-2
-ki-10
 ih-1
 kw-10
 ie-4
 ps-4
 wc-9
 su-10
+we-11
+ph-2
 iu--10
 wx--7
-we-11
+ki-10
 iz--9
 LIGHT 0 line 555
 DOMAIN_EXPANSION line 556
@@ -3980,8 +3980,6 @@ iu--10
 LIGHT 0 line 557
 LIGHT -1 line 559
 sf--4
-ph-2
-ki-10
 ih-1
 kw-10
 ie-4
@@ -3989,6 +3987,8 @@ ps-4
 wc-9
 su-10
 we-11
+ph-2
+ki-10
 LIGHT 1 line 561
 LIGHT -1 line 563
 az--2

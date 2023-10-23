@@ -791,14 +791,14 @@ kr-7
 vs-12
 LIGHT -1 line 245
 tp--1
+ow-3
 uf-8
 dw-6
 ca-10
-vs-12
 tc--5
+vs-12
 kr-7
 fp-4
-ow-3
 LIGHT 0 line 247
 yj--4
 pm--9
@@ -806,24 +806,24 @@ sn--4
 ed--3
 LIGHT -1 line 249
 tp--1
-vs-12
-ca-10
 dw-6
-tc--5
 uf-8
 ow-3
+tc--5
 fp-4
 kr-7
+vs-12
+ca-10
 LIGHT 1 line 251
 yj--4
 vs-12
-tp--1
 kr-7
 fp-4
+tc--5
 ow-3
 uf-8
-tc--5
 dw-6
+tp--1
 DOMAIN_EXPANSION line 252
 ed--3
 sn--4
@@ -1509,71 +1509,71 @@ LIGHT 0 line 545
 LIGHT -1 line 547
 jv-12
 er--14
-xw-9
-yg-9
-em--1
 to-11
-cj--11
 xu-1
+em--1
+xw-9
+cj--11
+yg-9
 LIGHT -1 line 549
 wb--8
 er--14
-xw-9
-yg-9
-em--1
 to-11
-cj--11
 xu-1
+em--1
+xw-9
+cj--11
+yg-9
 jv-12
 LIGHT 1 line 551
 wb--8
-xu-1
-er--14
-jv-12
 xw-9
+er--14
+yg-9
+jv-12
 em--1
 cj--11
-yg-9
 to-11
+xu-1
 DOMAIN_EXPANSION line 552
 wb--8
 cj--11
 em--1
 er--14
 LIGHT -1 line 553
+xw-9
 xu-1
 to-11
-yg-9
-xw-9
 jv-12
+yg-9
 LIGHT 1 line 555
+xw-9
 xu-1
 to-11
-yg-9
-xw-9
 jv-12
+yg-9
 LIGHT -1 line 557
 sl--10
-xw-9
-yg-9
 to-11
 xu-1
+xw-9
+yg-9
 jv-12
 LIGHT 1 line 559
 gy--3
 jv-12
-xu-1
-to-11
 yg-9
 xw-9
+xu-1
+to-11
 sl--10
 LIGHT -1 line 561
 qs-5
 sl--10
-xw-9
-yg-9
 to-11
 xu-1
+xw-9
+yg-9
 jv-12
 gy--3
 LIGHT 0 line 563
@@ -1582,17 +1582,17 @@ qs-5
 sl--10
 jv-12
 gy--3
-xu-1
-to-11
 yg-9
 xw-9
+xu-1
+to-11
 LIGHT -1 line 567
 hs--13
 gy--3
-xu-1
-to-11
 yg-9
 xw-9
+xu-1
+to-11
 qs-5
 sl--10
 jv-12
@@ -1606,89 +1606,89 @@ hs--13
 jv-12
 sl--10
 qs-5
-xw-9
-yg-9
 to-11
 xu-1
+xw-9
+yg-9
 gy--3
 LIGHT 0 line 571
 LIGHT -1 line 573
 hs--13
-qs-5
+yg-9
 sl--10
 gy--3
-xw-9
-yg-9
+jv-12
+qs-5
 to-11
 xu-1
-jv-12
+xw-9
 LIGHT 1 line 575
 hs--13
-jv-12
+xw-9
 xu-1
 to-11
-yg-9
-xw-9
+qs-5
+jv-12
 gy--3
 sl--10
-qs-5
+yg-9
 DOMAIN_EXPANSION line 576
 mf--15
 hs--13
 gy--3
 sl--10
 LIGHT 1 line 577
-xw-9
-qs-5
 jv-12
+yg-9
+xw-9
 xu-1
 to-11
-yg-9
+qs-5
 LIGHT -1 line 579
-xw-9
-qs-5
 jv-12
+yg-9
+xw-9
 xu-1
 to-11
-yg-9
+qs-5
 UNLIMITED_VOID line 580
 xu-1
+xw-9
+qs-5
+to-11
+LIGHT 1 line 581
 jv-12
 qs-5
-xw-9
-LIGHT 1 line 581
-xw-9
-yg-9
 to-11
 xu-1
-jv-12
-qs-5
+xw-9
+yg-9
 UNLIMITED_VOID line 582
 xu-1
-jv-12
-qs-5
 xw-9
+qs-5
+to-11
 LIGHT -1 line 583
-xw-9
-qs-5
 jv-12
+yg-9
+xw-9
 xu-1
 to-11
-yg-9
+qs-5
 LIGHT -1 line 585
 fq--6
-xu-1
-to-11
 yg-9
 xw-9
+xu-1
+to-11
 qs-5
 jv-12
 LIGHT 1 line 587
 xu-1
+yg-9
 fq--6
 jv-12
 qs-5
-yg-9
 LIGHT 1 line 589
 fq--6
 UNLIMITED_VOID line 590

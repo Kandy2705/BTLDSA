@@ -246,33 +246,33 @@ LIGHT 0 line 93
 LIGHT 1 line 95
 ns--7
 qp--4
-lz--9
 qq-12
+lz--9
 DOMAIN_EXPANSION line 96
 qq-12
 LIGHT -1 line 97
-ns--7
 lz--9
 qp--4
+ns--7
 LIGHT 1 line 99
 ks--13
+lz--9
 ns--7
 qp--4
-lz--9
 LIGHT 0 line 101
 LIGHT -1 line 103
 mi-14
 hy-8
 ks--13
-lz--9
 qp--4
 ns--7
+lz--9
 LIGHT 1 line 105
 cx--5
 mi-14
+lz--9
 ns--7
 qp--4
-lz--9
 ks--13
 hy-8
 LIGHT -1 line 107
@@ -280,18 +280,18 @@ aq-9
 cx--5
 hy-8
 ks--13
-lz--9
 qp--4
 ns--7
+lz--9
 mi-14
 LIGHT -1 line 109
 he--14
 cx--5
 hy-8
 ks--13
-lz--9
 qp--4
 ns--7
+lz--9
 mi-14
 aq-9
 LIGHT -1 line 111
@@ -300,9 +300,9 @@ he--14
 cx--5
 hy-8
 ks--13
-lz--9
 qp--4
 ns--7
+lz--9
 mi-14
 aq-9
 LIGHT 0 line 113
@@ -706,74 +706,74 @@ us--11
 qk-11
 LIGHT 1 line 335
 xd--14
-vt-8
-us--11
-qk-11
-fi--4
 kj-7
-ao--14
+us--11
 el-13
+fi--4
+vt-8
+ao--14
+qk-11
 LIGHT -1 line 337
 kn-4
 xd--14
-el-13
-ao--14
-kj-7
-fi--4
 qk-11
-us--11
+ao--14
 vt-8
+fi--4
+el-13
+us--11
+kj-7
 UNLIMITED_VOID line 338
 ao--14
-el-13
+qk-11
 xd--14
 kn-4
-vt-8
+kj-7
 us--11
 LIGHT -1 line 339
 kn-4
 xd--14
-el-13
-ao--14
-kj-7
-fi--4
 qk-11
-us--11
+ao--14
 vt-8
+fi--4
+el-13
+us--11
+kj-7
 LIGHT 1 line 341
 vg--2
 kn-4
-vt-8
-us--11
-qk-11
-fi--4
 kj-7
-ao--14
+us--11
 el-13
+fi--4
+vt-8
+ao--14
+qk-11
 xd--14
 LIGHT 1 line 343
 hg--5
 vg--2
 kn-4
-vt-8
-us--11
-qk-11
-fi--4
 kj-7
-ao--14
+us--11
 el-13
+fi--4
+vt-8
+ao--14
+qk-11
 xd--14
 LIGHT 1 line 345
 sx--1
 vg--2
 kn-4
-vt-8
-us--11
-qk-11
-fi--4
 kj-7
-ao--14
+us--11
 el-13
+fi--4
+vt-8
+ao--14
+qk-11
 xd--14
 hg--5
 LIGHT 1 line 347
@@ -781,34 +781,37 @@ ax--12
 sx--1
 vg--2
 kn-4
-vt-8
-us--11
-qk-11
-fi--4
 kj-7
-ao--14
+us--11
 el-13
+fi--4
+vt-8
+ao--14
+qk-11
 xd--14
 hg--5
 UNLIMITED_VOID line 348
 ao--14
-el-13
+qk-11
 xd--14
 hg--5
 ax--12
 sx--1
 vg--2
+kn-4
+kj-7
+us--11
 LIGHT -1 line 349
 ax--12
 hg--5
 xd--14
-el-13
-ao--14
-kj-7
-fi--4
 qk-11
-us--11
+ao--14
 vt-8
+fi--4
+el-13
+us--11
+kj-7
 kn-4
 vg--2
 sx--1
@@ -819,14 +822,14 @@ qk-11
 el-13
 kj-7
 LIGHT -1 line 351
-ao--14
-fi--4
 us--11
 vg--2
 sx--1
 ax--12
 hg--5
 xd--14
+ao--14
+fi--4
 LIGHT -1 line 353
 vg--2
 sx--1

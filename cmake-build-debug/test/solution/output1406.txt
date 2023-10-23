@@ -413,10 +413,6 @@ sb--3
 kk-3
 LIGHT -1 line 83
 qw--14
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -426,22 +422,20 @@ ae-8
 lx-11
 up-8
 lh-5
-zd--12
 uf-9
+gi-12
+uv-1
+kk-3
+zd--12
+hm-12
 yu--10
 sb--3
-gi-12
+mt-4
 LIGHT 1 line 85
 qw--14
 zd--12
-gi-12
-yu--10
-uv-1
-kk-3
-hm-12
-mt-4
-in-12
 hs-7
+yu--10
 cw-3
 nz-2
 jl-9
@@ -449,14 +443,17 @@ ae-8
 lx-11
 up-8
 lh-5
-sb--3
 uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
+sb--3
+in-12
 LIGHT -1 line 87
 ax--8
-zd--12
-qw--14
 uf-9
-sb--3
 lh-5
 up-8
 lx-11
@@ -464,13 +461,16 @@ ae-8
 jl-9
 nz-2
 cw-3
+yu--10
 hs-7
+zd--12
+qw--14
 in-12
+sb--3
 mt-4
 hm-12
 kk-3
 uv-1
-yu--10
 gi-12
 DOMAIN_EXPANSION line 88
 ax--8
@@ -479,12 +479,6 @@ sb--3
 yu--10
 zd--12
 LIGHT 1 line 89
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -494,14 +488,14 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 LIGHT 1 line 91
 ry--9
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -511,15 +505,15 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 LIGHT 1 line 93
 ru--13
 ry--9
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -529,8 +523,20 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 LIGHT -1 line 95
 ru--13
+mt-4
+hm-12
+kk-3
+uv-1
+gi-12
+uf-9
 lh-5
 up-8
 lx-11
@@ -540,16 +546,16 @@ nz-2
 cw-3
 hs-7
 in-12
-mt-4
-hm-12
-kk-3
-uv-1
-gi-12
-uf-9
 ry--9
 LIGHT -1 line 97
 vt-11
 ru--13
+mt-4
+hm-12
+kk-3
+uv-1
+gi-12
+uf-9
 lh-5
 up-8
 lx-11
@@ -559,12 +565,6 @@ nz-2
 cw-3
 hs-7
 in-12
-mt-4
-hm-12
-kk-3
-uv-1
-gi-12
-uf-9
 ry--9
 DOMAIN_EXPANSION line 98
 ru--13
@@ -574,12 +574,6 @@ DOMAIN_EXPANSION line 100
 LIGHT 0 line 101
 LIGHT -1 line 103
 vt-11
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -589,8 +583,20 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 LIGHT 1 line 105
 oz-12
+mt-4
+hm-12
+kk-3
+uv-1
+gi-12
+uf-9
 lh-5
 up-8
 lx-11
@@ -600,23 +606,11 @@ nz-2
 cw-3
 hs-7
 in-12
-mt-4
-hm-12
-kk-3
-uv-1
-gi-12
-uf-9
 vt-11
 DOMAIN_EXPANSION line 106
 LIGHT -1 line 107
 oz-12
 vt-11
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -626,9 +620,21 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 DOMAIN_EXPANSION line 108
 LIGHT 1 line 109
 oz-12
+mt-4
+hm-12
+kk-3
+uv-1
+gi-12
+uf-9
 lh-5
 up-8
 lx-11
@@ -638,16 +644,16 @@ nz-2
 cw-3
 hs-7
 in-12
-mt-4
-hm-12
-kk-3
-uv-1
-gi-12
-uf-9
 vt-11
 LIGHT 1 line 111
 eq--12
 oz-12
+mt-4
+hm-12
+kk-3
+uv-1
+gi-12
+uf-9
 lh-5
 up-8
 lx-11
@@ -657,23 +663,11 @@ nz-2
 cw-3
 hs-7
 in-12
-mt-4
-hm-12
-kk-3
-uv-1
-gi-12
-uf-9
 vt-11
 LIGHT -1 line 113
 xb--3
 eq--12
 vt-11
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -683,18 +677,18 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 oz-12
 LIGHT -1 line 115
 ak--5
 xb--3
 eq--12
 vt-11
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -704,12 +698,24 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 oz-12
 LIGHT 1 line 117
 nd-2
 xb--3
 ak--5
 oz-12
+mt-4
+hm-12
+kk-3
+uv-1
+gi-12
+uf-9
 lh-5
 up-8
 lx-11
@@ -719,12 +725,6 @@ nz-2
 cw-3
 hs-7
 in-12
-mt-4
-hm-12
-kk-3
-uv-1
-gi-12
-uf-9
 vt-11
 eq--12
 DOMAIN_EXPANSION line 118
@@ -733,12 +733,6 @@ xb--3
 eq--12
 LIGHT -1 line 119
 vt-11
-uf-9
-gi-12
-uv-1
-kk-3
-hm-12
-mt-4
 in-12
 hs-7
 cw-3
@@ -748,6 +742,12 @@ ae-8
 lx-11
 up-8
 lh-5
+uf-9
+gi-12
+uv-1
+kk-3
+hm-12
+mt-4
 oz-12
 nd-2
 LIGHT -1 line 121
@@ -756,6 +756,9 @@ uv-1
 kk-3
 hm-12
 mt-4
+oz-12
+nd-2
+vt-11
 in-12
 hs-7
 cw-3
@@ -765,18 +768,12 @@ ae-8
 lx-11
 up-8
 lh-5
-oz-12
-nd-2
-vt-11
 uf-9
 gi-12
 LIGHT 1 line 123
 nt-13
 gi-12
 uf-9
-vt-11
-nd-2
-oz-12
 lh-5
 up-8
 lx-11
@@ -786,6 +783,9 @@ nz-2
 cw-3
 hs-7
 in-12
+vt-11
+nd-2
+oz-12
 mt-4
 hm-12
 kk-3

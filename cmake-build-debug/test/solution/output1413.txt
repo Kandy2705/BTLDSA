@@ -2870,10 +2870,12 @@ cd--4
 ss--10
 LIGHT -1 line 985
 rx--6
-jj-14
+ft-6
 aa--1
 cd--4
 ss--10
+tr-14
+jj-14
 qi-2
 sa-6
 jq-12
@@ -2881,11 +2883,11 @@ gr-9
 pz-14
 mt-6
 br-4
-ft-6
-tr-14
 LIGHT -1 line 987
 fj-6
 ss--10
+tr-14
+jj-14
 qi-2
 sa-6
 jq-12
@@ -2893,15 +2895,15 @@ gr-9
 pz-14
 mt-6
 br-4
-ft-6
-tr-14
 rx--6
-jj-14
+ft-6
 aa--1
 cd--4
 LIGHT 1 line 989
 fj-6
 aa--1
+tr-14
+jj-14
 qi-2
 sa-6
 jq-12
@@ -2909,10 +2911,8 @@ gr-9
 pz-14
 mt-6
 br-4
-ft-6
-tr-14
 cd--4
-jj-14
+ft-6
 ss--10
 rx--6
 DOMAIN_EXPANSION line 990
@@ -2921,8 +2921,6 @@ aa--1
 ss--10
 cd--4
 LIGHT -1 line 991
-tr-14
-ft-6
 br-4
 mt-6
 pz-14
@@ -2930,26 +2928,27 @@ gr-9
 jq-12
 sa-6
 qi-2
-fj-6
 jj-14
+tr-14
+fj-6
+ft-6
 DOMAIN_EXPANSION line 992
 LIGHT 1 line 993
+br-4
+ft-6
+fj-6
 tr-14
 jj-14
-fj-6
 qi-2
 sa-6
 jq-12
 gr-9
 pz-14
 mt-6
-br-4
-ft-6
 LIGHT 1 line 995
 gn-2
 tr-14
 jj-14
-fj-6
 qi-2
 sa-6
 jq-12
@@ -2958,12 +2957,12 @@ pz-14
 mt-6
 br-4
 ft-6
+fj-6
 LIGHT 0 line 997
 LIGHT 1 line 999
 pj--11
 tr-14
 jj-14
-fj-6
 qi-2
 sa-6
 jq-12
@@ -2972,5 +2971,6 @@ pz-14
 mt-6
 br-4
 ft-6
+fj-6
 gn-2
 zl--15
