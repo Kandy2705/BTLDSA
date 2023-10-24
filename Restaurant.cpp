@@ -623,14 +623,14 @@ public:
             if (p->energy < 0) {
                 tongchulinh = p->energy;
             } else {
-                tongchulinh = p->energy;
+                //tongchulinh = p->energy;
                 tongchuthuat = p->energy;
             }
             for (customer *temp = p->next; temp != head; temp = temp->next) {
                 if (temp->energy < 0) {
                     tongchulinh += temp->energy;
                 } else {
-                    tongchulinh += temp->energy;
+                    //tongchulinh += temp->energy;
                     tongchuthuat += temp->energy;
                 }
             }
@@ -639,14 +639,14 @@ public:
             if (q->energy < 0) {
                 tongchulinh += q->energy;
             } else {
-                tongchulinh += q -> energy;
+                //tongchulinh += q -> energy;
                 tongchuthuat += q->energy;
             }
             for (customer *temp = q->next; temp != nullptr; temp = temp->next) {
                 if (temp->energy < 0) {
                     tongchulinh += temp->energy;
                 } else {
-                    tongchulinh += temp->energy;
+                   // tongchulinh += temp->energy;
                     tongchuthuat += temp->energy;
                 }
             }
