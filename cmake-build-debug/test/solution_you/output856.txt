@@ -12,20 +12,17 @@ cv-11
 ik--20
 gk-2
 DOMAIN_EXPANSION line 10
-ik--20
+cv-11
+gk-2
 LIGHT 10 line 11
-gk-2
-cv-11
+ik--20
 LIGHT 13 line 13
-gk-2
-cv-11
+ik--20
 LIGHT -8 line 15
-gk-2
-cv-11
+ik--20
 DOMAIN_EXPANSION line 16
 LIGHT -6 line 17
-gk-2
-cv-11
+ik--20
 LIGHT 2 line 19
 LIGHT -14 line 21
 LIGHT -10 line 23
@@ -354,14 +351,16 @@ qh--16
 hl-19
 fd--13
 DOMAIN_EXPANSION line 98
-fo--8
-qh--16
-fd--13
-LIGHT 5 line 99
 hl-19
+LIGHT 5 line 99
+qh--16
+fo--8
+fd--13
 LIGHT -9 line 101
 mp--3
-hl-19
+qh--16
+fd--13
+fo--8
 LIGHT -2 line 103
 LIGHT -10 line 105
 dq-3

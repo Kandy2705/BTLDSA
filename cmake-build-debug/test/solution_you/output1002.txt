@@ -547,23 +547,23 @@ ft--9
 lu-11
 nv-1
 DOMAIN_EXPANSION line 320
-sd--9
-ft--9
+nv-1
+lu-11
 LIGHT -1 line 321
-lu-11
-nv-1
+ft--9
+sd--9
 LIGHT 1 line 323
-lu-11
-nv-1
+ft--9
+sd--9
 LIGHT -1 line 325
 bl--4
-nv-1
-lu-11
+ft--9
+sd--9
 LIGHT 1 line 327
 wd--11
 bl--4
-lu-11
-nv-1
+sd--9
+ft--9
 LIGHT 0 line 329
 LIGHT 0 line 331
 LIGHT 0 line 333
@@ -1986,12 +1986,12 @@ lq--11
 oy-10
 je-5
 DOMAIN_EXPANSION line 908
+je-5
+oy-10
+LIGHT -1 line 909
+lq--11
 kl--1
 ic--4
-lq--11
-LIGHT -1 line 909
-oy-10
-je-5
 LIGHT -1 line 911
 LIGHT -1 line 913
 pq-13

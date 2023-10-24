@@ -1227,33 +1227,42 @@ fi--6
 zl--15
 kx-11
 DOMAIN_EXPANSION line 412
-bd--1
-fi--6
-zl--15
-LIGHT 1 line 413
 kx-11
+LIGHT 1 line 413
+zl--15
+fi--6
+bd--1
 LIGHT -1 line 415
 mw--14
-kx-11
+zl--15
+bd--1
+fi--6
 LIGHT 1 line 417
 xa--4
-kx-11
+fi--6
+bd--1
+zl--15
 mw--14
 LIGHT -1 line 419
 gq-2
 xa--4
 mw--14
-kx-11
+zl--15
+bd--1
+fi--6
 UNLIMITED_VOID line 420
+zl--15
 mw--14
 xa--4
-gq-2
-kx-11
+fi--6
+bd--1
 LIGHT -1 line 421
 gq-2
 xa--4
 mw--14
-kx-11
+zl--15
+bd--1
+fi--6
 LIGHT 0 line 423
 LIGHT 1 line 425
 LIGHT 1 line 427
@@ -1924,97 +1933,65 @@ vl-7
 xz-11
 ly--8
 DOMAIN_EXPANSION line 672
-dc--14
-ly--8
-LIGHT -1 line 673
-xz-11
-vl-7
 sv-2
+vl-7
+xz-11
+LIGHT -1 line 673
+ly--8
+dc--14
 LIGHT -1 line 675
 zu-5
-vl-7
-sv-2
-xz-11
+ly--8
+dc--14
 DOMAIN_EXPANSION line 676
-LIGHT -1 line 677
 zu-5
-vl-7
-sv-2
-xz-11
+LIGHT -1 line 677
+dc--14
+ly--8
 LIGHT 0 line 679
 UNLIMITED_VOID line 680
-sv-2
-vl-7
-zu-5
-jo-5
 LIGHT -1 line 681
 jo-5
-zu-5
-vl-7
-sv-2
-xz-11
+dc--14
+ly--8
 UNLIMITED_VOID line 682
-sv-2
-vl-7
-zu-5
-jo-5
 LIGHT 1 line 683
 jo-5
-xz-11
-sv-2
-vl-7
-zu-5
+ly--8
+dc--14
 LIGHT 1 line 685
 fk-3
 jo-5
-xz-11
-sv-2
-vl-7
-zu-5
+ly--8
+dc--14
 UNLIMITED_VOID line 686
-sv-2
-vl-7
-zu-5
+dc--14
 fk-3
+jo-5
+ly--8
 LIGHT 0 line 687
 LIGHT -1 line 689
 fk-3
-zu-5
-vl-7
-sv-2
-xz-11
+dc--14
+ly--8
 jo-5
 DOMAIN_EXPANSION line 690
+fk-3
+jo-5
 LIGHT -1 line 691
-fk-3
-zu-5
-vl-7
-sv-2
-xz-11
-jo-5
+ly--8
+dc--14
 LIGHT 1 line 693
-fk-3
-jo-5
-xz-11
-sv-2
-vl-7
-zu-5
+ly--8
+dc--14
 LIGHT 1 line 695
 go--13
-fk-3
-jo-5
-xz-11
-sv-2
-vl-7
-zu-5
+ly--8
+dc--14
 LIGHT 0 line 697
 LIGHT 1 line 699
-go--13
-et-4
 UNLIMITED_VOID line 700
 LIGHT 1 line 701
-go--13
-et-4
 LIGHT 0 line 703
 LIGHT -1 line 705
 LIGHT -1 line 707
@@ -2452,145 +2429,195 @@ oa-7
 dj-9
 ln--7
 DOMAIN_EXPANSION line 840
-ty--4
-ku--10
-ln--7
-LIGHT 1 line 841
 oa-7
 dj-9
+LIGHT 1 line 841
+ku--10
+ty--4
+ln--7
 DOMAIN_EXPANSION line 842
 LIGHT -1 line 843
-oa-7
-dj-9
+ku--10
+ln--7
+ty--4
 LIGHT -1 line 845
 ib--4
-dj-9
-oa-7
+ku--10
+ln--7
+ty--4
 LIGHT 1 line 847
 ib--4
-dj-9
-oa-7
+ku--10
+ln--7
+ty--4
 LIGHT -1 line 849
 fd--9
-oa-7
-dj-9
+ty--4
+ln--7
+ku--10
 ib--4
 LIGHT -1 line 851
 yp-8
 fd--9
-oa-7
-dj-9
+ty--4
+ln--7
+ku--10
 ib--4
 DOMAIN_EXPANSION line 852
-fd--9
-ib--4
-LIGHT -1 line 853
-oa-7
-dj-9
 yp-8
+LIGHT -1 line 853
+ib--4
+fd--9
+ty--4
+ln--7
+ku--10
 LIGHT 0 line 855
 LIGHT 1 line 857
 rv-9
-dj-9
-yp-8
-oa-7
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
 LIGHT 1 line 859
 at--9
 rv-9
-dj-9
-yp-8
-oa-7
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
 LIGHT 1 line 861
 at--9
 rv-9
-dj-9
-yp-8
-oa-7
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
 LIGHT 1 line 863
 oz--7
 rv-9
-dj-9
-yp-8
-oa-7
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
 at--9
 LIGHT -1 line 865
 ja--9
 at--9
-oa-7
-yp-8
-dj-9
+ib--4
+ku--10
+ln--7
+ty--4
+fd--9
 rv-9
 oz--7
 DOMAIN_EXPANSION line 866
-ja--9
-oz--7
-at--9
-LIGHT -1 line 867
-oa-7
-yp-8
-dj-9
 rv-9
+LIGHT -1 line 867
+fd--9
+oz--7
+ja--9
+at--9
+ib--4
+ku--10
+ln--7
+ty--4
 LIGHT 1 line 869
 ia--14
-oa-7
-rv-9
-dj-9
-yp-8
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
+at--9
+ja--9
+oz--7
 LIGHT 1 line 871
 ia--14
-yp-8
-dj-9
-rv-9
-oa-7
+oz--7
+ja--9
+at--9
+ib--4
+ku--10
+ln--7
+ty--4
+fd--9
 LIGHT -1 line 873
 ia--14
-oa-7
-rv-9
-dj-9
-yp-8
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
+at--9
+ja--9
+oz--7
 LIGHT 1 line 875
 yn-4
-yp-8
-dj-9
-rv-9
-oa-7
+oz--7
+ja--9
+at--9
+ib--4
+ku--10
+ln--7
+ty--4
+fd--9
 ia--14
 LIGHT -1 line 877
 ws-2
 ia--14
-oa-7
-rv-9
-dj-9
-yp-8
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
+at--9
+ja--9
+oz--7
 yn-4
 LIGHT -1 line 879
 eu-4
-ws-2
 ia--14
-oa-7
-rv-9
-dj-9
-yp-8
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
+at--9
+ja--9
+oz--7
 yn-4
+ws-2
 LIGHT 1 line 881
 eu-4
-ws-2
-oa-7
-rv-9
-dj-9
-ia--14
-yp-8
 yn-4
+ia--14
+fd--9
+ty--4
+ln--7
+ku--10
+ib--4
+at--9
+ja--9
+oz--7
+ws-2
 DOMAIN_EXPANSION line 882
-ia--14
-LIGHT -1 line 883
-dj-9
-rv-9
-oa-7
-ws-2
 eu-4
+ws-2
 yn-4
-yp-8
+LIGHT -1 line 883
+ia--14
+oz--7
+ja--9
+at--9
+ib--4
+ku--10
+ln--7
+ty--4
+fd--9
 LIGHT 0 line 885
 LIGHT 1 line 887
 LIGHT -1 line 889

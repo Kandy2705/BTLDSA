@@ -211,80 +211,84 @@ ih-9
 hj--7
 jz-7
 DOMAIN_EXPANSION line 167
+jz-7
+ih-9
+LIGHT -1 line 168
 hf--2
 bu--11
 hj--7
-LIGHT -1 line 168
-jz-7
-ih-9
 LIGHT 1 line 170
 uo--1
-ih-9
-jz-7
+hf--2
+hj--7
+bu--11
 LIGHT 0 line 172
 LIGHT 1 line 174
-qv--13
-ih-9
-jz-7
 uo--1
+hf--2
+hj--7
+bu--11
 LIGHT 0 line 176
+qv--13
 bn--3
 LIGHT 1 line 178
 bn--3
 uo--1
+hf--2
 qv--13
 DOMAIN_EXPANSION line 179
 LIGHT -1 line 180
 bn--3
 qv--13
+hf--2
 uo--1
 LIGHT 1 line 182
-vs--6
 bn--3
 uo--1
+hf--2
 qv--13
 LIGHT -1 line 184
-vs--6
+bn--3
 qv--13
+hf--2
 uo--1
-bn--3
 LIGHT -1 line 186
-vs--6
 bn--3
 uo--1
+hf--2
 qv--13
 LIGHT 1 line 188
-vs--6
 bn--3
 uo--1
+hf--2
 qv--13
 LIGHT -1 line 190
-vs--6
-qv--13
-uo--1
 bn--3
+qv--13
+hf--2
+uo--1
 LIGHT 1 line 192
-vs--6
-bn--3
+rd--10
 uo--1
 qv--13
+bn--3
 LIGHT -1 line 194
-vs--6
+rd--10
+bn--3
 qv--13
 uo--1
-bn--3
 LIGHT 1 line 196
-vs--6
+rd--10
+bn--3
 qv--13
 uo--1
-bn--3
 LIGHT 1 line 198
-vs--6
+rd--10
+bn--3
 qv--13
 uo--1
-bn--3
 LIGHT 1 line 200
-vs--6
-bn--3
+rd--10
 uo--1
 qv--13
+bn--3

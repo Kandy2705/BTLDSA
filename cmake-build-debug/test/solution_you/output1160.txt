@@ -1669,33 +1669,39 @@ gp--8
 kj--9
 tf--13
 DOMAIN_EXPANSION line 322
+ax-13
+aj-14
+ap-10
+oh-11
+LIGHT 1 line 323
+tf--13
 kj--9
-as--9
 gp--8
+as--9
 sb--12
 st--4
 uw--13
-tf--13
-LIGHT 1 line 323
-ax-13
-ap-10
-aj-14
-oh-11
 LIGHT 0 line 325
 LIGHT -1 line 327
 wd--5
-oh-11
-aj-14
-ap-10
-ax-13
+tf--13
+uw--13
+st--4
+sb--12
+as--9
+gp--8
+kj--9
 uh--3
 LIGHT 1 line 329
 wd--5
 uh--3
-ax-13
-ap-10
-aj-14
-oh-11
+kj--9
+gp--8
+as--9
+sb--12
+st--4
+uw--13
+tf--13
 LIGHT 1 line 331
 LIGHT -1 line 333
 jg--14
@@ -1882,21 +1888,29 @@ ed--11
 zt-8
 wm--1
 DOMAIN_EXPANSION line 428
+zt-8
+zw-6
+LIGHT 1 line 429
+ed--11
+cs--12
+xo--1
+wm--1
+UNLIMITED_VOID line 430
+cs--12
 xo--1
 wm--1
 ed--11
-cs--12
-LIGHT 1 line 429
-zw-6
-zt-8
-UNLIMITED_VOID line 430
 LIGHT 1 line 431
-zw-6
-zt-8
+ed--11
+cs--12
+xo--1
+wm--1
 LIGHT -1 line 433
 qi--14
-zt-8
-zw-6
+wm--1
+xo--1
+cs--12
+ed--11
 LIGHT 1 line 435
 LIGHT 0 line 437
 LIGHT -1 line 439
@@ -3260,106 +3274,95 @@ uo--13
 oy-7
 LIGHT 0 line 763
 DOMAIN_EXPANSION line 764
-es--9
-uo--13
+za-13
+oy-7
 LIGHT -1 line 765
-oy-7
-za-13
+uo--13
+es--9
 LIGHT 1 line 767
-oy-7
-za-13
+uo--13
+es--9
 LIGHT 1 line 769
-oy-7
-za-13
+uo--13
+es--9
 LIGHT 0 line 771
 LIGHT 0 line 773
 LIGHT 0 line 775
 LIGHT 1 line 777
 gh--12
 xi-8
-oy-7
-za-13
+es--9
+uo--13
 eu-5
 DOMAIN_EXPANSION line 778
-gh--12
+xi-8
+eu-5
 LIGHT 1 line 779
-eu-5
-xi-8
-oy-7
-za-13
+es--9
+uo--13
+gh--12
 LIGHT -1 line 781
-eu-5
-xi-8
-oy-7
-za-13
+es--9
+uo--13
+gh--12
 LIGHT 1 line 783
 jk--5
-eu-5
-za-13
-oy-7
-xi-8
+gh--12
+uo--13
+es--9
 LIGHT 1 line 785
 zv-10
-eu-5
-za-13
-oy-7
-xi-8
+gh--12
+uo--13
+es--9
 jk--5
 LIGHT 1 line 787
 zv-10
-eu-5
-za-13
-oy-7
-xi-8
+gh--12
+uo--13
+es--9
 jk--5
 LIGHT 1 line 789
-xi-8
+gh--12
+es--9
 jk--5
 zv-10
-eu-5
-za-13
 LIGHT 1 line 791
 pm-1
-xi-8
+es--9
 jk--5
 zv-10
-eu-5
-za-13
+gh--12
 LIGHT 1 line 793
 pm-1
-jk--5
-za-13
-eu-5
+es--9
 zv-10
-xi-8
+gh--12
+jk--5
 LIGHT -1 line 795
 wr-1
 pm-1
-xi-8
-zv-10
-eu-5
-za-13
 jk--5
+gh--12
+zv-10
+es--9
 LIGHT -1 line 797
 wr-1
 jk--5
-za-13
-eu-5
 zv-10
-xi-8
 pm-1
+es--9
+gh--12
 LIGHT 1 line 799
 ww-5
+gh--12
+es--9
 pm-1
-xi-8
 zv-10
-eu-5
-za-13
 jk--5
 wr-1
 LIGHT 1 line 801
 zv-10
-jk--5
 wr-1
 ww-5
 pm-1
@@ -3370,7 +3373,6 @@ zv-10
 wr-1
 ww-5
 pm-1
-jk--5
 LIGHT 0 line 807
 LIGHT -1 line 809
 LIGHT 1 line 811

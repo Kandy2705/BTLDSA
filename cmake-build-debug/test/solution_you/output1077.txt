@@ -1118,12 +1118,12 @@ bg--13
 us-12
 ve-7
 DOMAIN_EXPANSION line 442
-pg--1
-bu--8
-bg--13
-LIGHT 1 line 443
-us-12
 ve-7
+us-12
+LIGHT 1 line 443
+bg--13
+bu--8
+pg--1
 LIGHT 0 line 445
 LIGHT -1 line 447
 LIGHT 1 line 449
@@ -1212,9 +1212,9 @@ LIGHT 1 line 513
 gr--12
 LIGHT 0 line 515
 DOMAIN_EXPANSION line 516
-gr--12
-LIGHT -1 line 517
 ec-10
+LIGHT -1 line 517
+gr--12
 LIGHT 0 line 519
 LIGHT -1 line 521
 LIGHT -1 line 523
@@ -1633,20 +1633,22 @@ ys-10
 ls--7
 cm--13
 DOMAIN_EXPANSION line 762
-cm--13
-ls--7
-LIGHT 1 line 763
 ys-10
+LIGHT 1 line 763
+ls--7
+cm--13
 LIGHT 0 line 765
 LIGHT -1 line 767
 yo--14
 ye--15
-ys-10
+cm--13
+ls--7
 DOMAIN_EXPANSION line 768
-ys-10
 LIGHT -1 line 769
-ye--15
 yo--14
+ye--15
+cm--13
+ls--7
 LIGHT -1 line 771
 LIGHT -1 line 773
 LIGHT 1 line 775
@@ -1824,9 +1826,9 @@ LIGHT -1 line 901
 ov--10
 ad-7
 DOMAIN_EXPANSION line 902
-ov--10
-LIGHT 1 line 903
 ad-7
+LIGHT 1 line 903
+ov--10
 LIGHT 1 line 905
 LIGHT 1 line 907
 LIGHT 0 line 909

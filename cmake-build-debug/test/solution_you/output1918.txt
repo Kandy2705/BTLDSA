@@ -28,170 +28,212 @@ rc--11
 zv--14
 gq--3
 DOMAIN_EXPANSION line 14
+jk-13
+sp-1
+LIGHT 0 line 15
+LIGHT -1 line 17
+gq--3
+zv--14
+rc--11
+LIGHT 1 line 19
+bk--3
 rc--11
 zv--14
 gq--3
-LIGHT 0 line 15
-LIGHT -1 line 17
-jk-13
-sp-1
-LIGHT 1 line 19
-bk--3
-jk-13
-sp-1
 LIGHT 0 line 21
 LIGHT 1 line 23
 yo--3
 bk--3
-sp-1
-jk-13
+gq--3
+zv--14
+rc--11
 LIGHT 1 line 25
 eu-9
 bk--3
-sp-1
-jk-13
+gq--3
+zv--14
+rc--11
 yo--3
 UNLIMITED_VOID line 26
+zv--14
+rc--11
 yo--3
-eu-9
 bk--3
-sp-1
+gq--3
 LIGHT 1 line 27
 eu-9
 bk--3
-sp-1
-jk-13
+gq--3
+zv--14
+rc--11
 yo--3
 LIGHT -1 line 29
 qc-13
 eu-9
 yo--3
-jk-13
-sp-1
+rc--11
+zv--14
+gq--3
 bk--3
 LIGHT -1 line 31
-yo--3
 bk--3
 qc-13
 eu-9
+yo--3
+rc--11
 LIGHT -1 line 33
 vu--14
-bk--3
 qc-13
 eu-9
 yo--3
+rc--11
+bk--3
 LIGHT -1 line 35
 vu--14
-bk--3
 qc-13
 eu-9
 yo--3
+rc--11
+bk--3
 DOMAIN_EXPANSION line 36
-vu--14
-yo--3
-bk--3
-LIGHT 1 line 37
 qc-13
 eu-9
+LIGHT 1 line 37
+vu--14
+bk--3
+rc--11
+yo--3
 LIGHT 1 line 39
 vw--13
-qc-13
-eu-9
+bk--3
+rc--11
+yo--3
+vu--14
 LIGHT -1 line 41
 og-9
 vw--13
-eu-9
-qc-13
+vu--14
+yo--3
+rc--11
+bk--3
 LIGHT -1 line 43
 og-9
-qc-13
+bk--3
+rc--11
+yo--3
+vu--14
 vw--13
-eu-9
 LIGHT 1 line 45
+yo--3
 og-9
 vw--13
+vu--14
 LIGHT -1 line 47
+yo--3
 og-9
 vw--13
+vu--14
 LIGHT -1 line 49
 ex--12
-vw--13
 og-9
+vw--13
+vu--14
+yo--3
 LIGHT 1 line 51
 mg--9
-og-9
+yo--3
+vu--14
 vw--13
+og-9
 ex--12
 UNLIMITED_VOID line 52
+vu--14
 vw--13
 ex--12
 mg--9
-og-9
+yo--3
 LIGHT 1 line 53
 mg--9
-og-9
+yo--3
+vu--14
 vw--13
+og-9
 ex--12
 LIGHT -1 line 55
 it-11
 mg--9
 ex--12
-vw--13
 og-9
+vw--13
+vu--14
+yo--3
 LIGHT 1 line 57
 fi--10
 it-11
-og-9
+yo--3
+vu--14
 vw--13
+og-9
 ex--12
 mg--9
 LIGHT 1 line 59
 fi--10
 mg--9
 ex--12
-vw--13
-og-9
 it-11
+vw--13
+vu--14
+yo--3
+og-9
 LIGHT 1 line 61
 nh-12
-mg--9
-ex--12
-vw--13
+yo--3
 og-9
-it-11
 fi--10
-UNLIMITED_VOID line 62
-vw--13
-fi--10
-nh-12
 mg--9
 ex--12
+it-11
+vw--13
+vu--14
+UNLIMITED_VOID line 62
+vu--14
+fi--10
+mg--9
+ex--12
+it-11
+vw--13
 LIGHT 1 line 63
 nh-12
+yo--3
+og-9
+fi--10
 mg--9
 ex--12
-vw--13
-og-9
 it-11
-fi--10
+vw--13
+vu--14
 LIGHT -1 line 65
 af-14
+vu--14
 vw--13
+it-11
 ex--12
 mg--9
-nh-12
 fi--10
-it-11
 og-9
+yo--3
+nh-12
 LIGHT -1 line 67
 tn-2
+vu--14
 vw--13
+it-11
 ex--12
 mg--9
-nh-12
 fi--10
-it-11
 og-9
+yo--3
+nh-12
 af-14
 LIGHT 0 line 69
 LIGHT 1 line 71
@@ -199,13 +241,15 @@ fc-4
 tn-2
 bc--10
 af-14
-og-9
-it-11
-fi--10
 nh-12
+yo--3
+og-9
+fi--10
 mg--9
 ex--12
+it-11
 vw--13
+vu--14
 LIGHT 1 line 73
 LIGHT 1 line 75
 gj--15
@@ -322,17 +366,20 @@ xc--6
 uv--1
 kx--15
 DOMAIN_EXPANSION line 125
+xu-13
+kp-10
+LIGHT -1 line 126
+ci--13
 kx--15
 uv--1
-ci--13
-wg--7
 xc--6
-LIGHT -1 line 126
-kp-10
-xu-13
+wg--7
 LIGHT -1 line 128
-kp-10
-xu-13
+ci--13
+kx--15
+uv--1
+xc--6
+wg--7
 LIGHT -1 line 130
 LIGHT 0 line 132
 LIGHT 1 line 134

@@ -22,9 +22,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "RED") // RED <NAME> <ENERGY>
         {
-//            if (i == 94){
-//                cout << "HELLO";
-//            }
+            if (i == 12){
+                cout << "HELLO";
+            }
             ss >> name;
             ss >> energy;
             r->RED(name, stoi(energy));
@@ -32,9 +32,9 @@ void simulate(string filename, imp_res *r)
 
         else if (str == "BLUE") // BLUE <NUM>
         {
-//            if (i == 646){
-//                cout << "Hello";
-//            }
+            if (i == 7){
+                cout << "Hello";
+            }
             ss >> num;
             r->BLUE(stoi(num));
         }
@@ -194,8 +194,8 @@ int main(int argc, char *argv[])
         argc--;
     }
     {
-        int start = 2000;
-        int end = 2000;
+        int start = 1;
+        int end = 1900;
         if (argc == 2)
         {
             argc = 1;

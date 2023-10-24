@@ -195,64 +195,79 @@ oh--9
 zz-4
 LIGHT 0 line 99
 DOMAIN_EXPANSION line 100
+bm-14
+zz-4
+fz-13
+LIGHT -1 line 101
+pw--11
+qw--8
+zt--14
+hr--15
+oh--9
+LIGHT 1 line 103
+at--11
+oh--9
 hr--15
 zt--14
 qw--8
-oh--9
 pw--11
-LIGHT -1 line 101
-zz-4
-fz-13
-bm-14
-LIGHT 1 line 103
-at--11
-zz-4
-bm-14
-fz-13
 LIGHT 1 line 105
 yf--1
-zz-4
-bm-14
-fz-13
+oh--9
+hr--15
+zt--14
+qw--8
+pw--11
 at--11
 LIGHT -1 line 107
 zo--5
 at--11
-fz-13
-bm-14
-zz-4
+pw--11
+qw--8
+zt--14
+hr--15
+oh--9
 yf--1
 LIGHT -1 line 109
 fs--2
 zo--5
 at--11
-fz-13
-bm-14
-zz-4
+pw--11
+qw--8
+zt--14
+hr--15
+oh--9
 yf--1
 LIGHT -1 line 111
+fs--2
 DOMAIN_EXPANSION line 112
 LIGHT -1 line 113
+fs--2
 LIGHT 0 line 115
 DOMAIN_EXPANSION line 116
 LIGHT -1 line 117
 ms--13
+fs--2
 LIGHT 0 line 119
 LIGHT -1 line 121
 pl-11
 ms--13
+fs--2
 UNLIMITED_VOID line 122
 LIGHT -1 line 123
 pl-11
 ms--13
+fs--2
 LIGHT -1 line 125
 pl-11
 ms--13
+fs--2
 DOMAIN_EXPANSION line 126
-ms--13
+pl-11
 LIGHT 0 line 127
 LIGHT -1 line 129
-pl-11
+fs--2
+ms--13
 LIGHT -1 line 131
 LIGHT 1 line 133
 nk-7
@@ -439,20 +454,20 @@ yp-2
 hs-7
 yc-8
 DOMAIN_EXPANSION line 178
-ic--3
-vp--4
-ed--5
-if--9
-hh--8
-oh--7
-oo--12
-zp--14
-LIGHT -1 line 179
+qw-11
+rm-11
 yp-2
 hs-7
 yc-8
-qw-11
-rm-11
+LIGHT -1 line 179
+oh--7
+zp--14
+if--9
+ic--3
+vp--4
+ed--5
+oo--12
+hh--8
 LIGHT -1 line 181
 LIGHT -1 line 183
 LIGHT -1 line 185
@@ -1112,9 +1127,9 @@ LIGHT 1 line 405
 os-7
 sf--14
 DOMAIN_EXPANSION line 406
-sf--14
-LIGHT 1 line 407
 os-7
+LIGHT 1 line 407
+sf--14
 UNLIMITED_VOID line 408
 LIGHT 0 line 409
 LIGHT 1 line 411
@@ -1191,20 +1206,20 @@ kb--11
 mh--11
 cs-2
 DOMAIN_EXPANSION line 460
-mh--11
-wl--10
-kb--11
-LIGHT 1 line 461
+mx-10
 bj-11
 cs-2
-mx-10
+LIGHT 1 line 461
+wl--10
+kb--11
+mh--11
 UNLIMITED_VOID line 462
 LIGHT 0 line 463
 LIGHT -1 line 465
 vg--5
-mx-10
-cs-2
-bj-11
+wl--10
+mh--11
+kb--11
 LIGHT 0 line 467
 UNLIMITED_VOID line 468
 LIGHT 1 line 469
@@ -1372,14 +1387,14 @@ LIGHT 1 line 577
 gu--15
 cx-12
 DOMAIN_EXPANSION line 578
-gu--15
+cx-12
 LIGHT -1 line 579
-cx-12
+gu--15
 LIGHT 1 line 581
-cx-12
+gu--15
 UNLIMITED_VOID line 582
 LIGHT 1 line 583
-cx-12
+gu--15
 LIGHT 1 line 585
 LIGHT 1 line 587
 zj-5

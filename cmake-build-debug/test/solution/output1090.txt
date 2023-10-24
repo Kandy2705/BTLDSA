@@ -525,19 +525,19 @@ LIGHT 1 line 309
 hz-2
 oc--4
 DOMAIN_EXPANSION line 310
-oc--4
-LIGHT -1 line 311
 hz-2
+LIGHT -1 line 311
+oc--4
 LIGHT 1 line 313
 ys-14
-hz-2
+oc--4
 LIGHT -1 line 315
 xv-5
-hz-2
+oc--4
 ys-14
 LIGHT -1 line 317
 ji--7
-hz-2
+oc--4
 ys-14
 xv-5
 LIGHT 0 line 319
@@ -698,20 +698,23 @@ jy--11
 zp-13
 dq--7
 DOMAIN_EXPANSION line 422
-jy--11
-dq--7
-LIGHT 1 line 423
 zp-13
+LIGHT 1 line 423
+dq--7
+jy--11
 LIGHT -1 line 425
 kt--5
-zp-13
+dq--7
+jy--11
 LIGHT -1 line 427
 kt--5
-zp-13
+jy--11
+dq--7
 DOMAIN_EXPANSION line 428
-kt--5
 LIGHT -1 line 429
-zp-13
+kt--5
+jy--11
+dq--7
 LIGHT 1 line 431
 LIGHT 1 line 433
 hf--13
@@ -1471,24 +1474,19 @@ lc--5
 pq--11
 uq--5
 DOMAIN_EXPANSION line 774
-pq--11
-lc--5
-uq--5
+es-2
+hh-9
+qz-2
+fp-1
 LIGHT -1 line 775
-qz-2
-fp-1
-hh-9
-es-2
+uq--5
+lc--5
+pq--11
 UNLIMITED_VOID line 776
-fp-1
-qz-2
-es-2
-hh-9
 LIGHT -1 line 777
-qz-2
-fp-1
-hh-9
-es-2
+uq--5
+lc--5
+pq--11
 LIGHT 0 line 779
 LIGHT -1 line 781
 xx-8

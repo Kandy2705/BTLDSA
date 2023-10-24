@@ -120,29 +120,29 @@ LIGHT 1 line 45
 up--13
 qq-11
 DOMAIN_EXPANSION line 46
-up--13
-LIGHT 1 line 47
 qq-11
+LIGHT 1 line 47
+up--13
 LIGHT 0 line 49
 LIGHT 1 line 51
 xr--12
-qq-11
+up--13
 UNLIMITED_VOID line 52
 LIGHT 1 line 53
 xr--12
-qq-11
+up--13
 LIGHT 1 line 55
 dd--10
-qq-11
+up--13
 xr--12
 LIGHT -1 line 57
 rb--8
 dd--10
 xr--12
-qq-11
+up--13
 LIGHT 1 line 59
 hb-8
-qq-11
+up--13
 xr--12
 dd--10
 rb--8
@@ -151,9 +151,10 @@ mr--5
 rb--8
 dd--10
 xr--12
-qq-11
+up--13
 hb-8
 UNLIMITED_VOID line 62
+up--13
 xr--12
 dd--10
 rb--8
@@ -161,7 +162,7 @@ mr--5
 LIGHT 1 line 63
 mr--5
 hb-8
-qq-11
+up--13
 xr--12
 dd--10
 rb--8
@@ -171,7 +172,7 @@ mr--5
 rb--8
 dd--10
 xr--12
-qq-11
+up--13
 hb-8
 LIGHT -1 line 67
 hs-14
@@ -180,7 +181,7 @@ mr--5
 rb--8
 dd--10
 xr--12
-qq-11
+up--13
 hb-8
 LIGHT 0 line 69
 LIGHT -1 line 71
@@ -190,7 +191,7 @@ mr--5
 rb--8
 dd--10
 xr--12
-qq-11
+up--13
 hb-8
 hs-14
 jj-1
@@ -199,7 +200,7 @@ vj--1
 jj-1
 hs-14
 hb-8
-qq-11
+up--13
 xr--12
 dd--10
 rb--8
@@ -4244,130 +4245,125 @@ sc--14
 hs-6
 aj-11
 DOMAIN_EXPANSION line 826
-kc--13
-sc--14
-LIGHT 1 line 827
-aj-11
 hk-9
 hs-6
+aj-11
+LIGHT 1 line 827
+sc--14
+kc--13
 LIGHT -1 line 829
 gm--5
-hs-6
-hk-9
-aj-11
+sc--14
+kc--13
 LIGHT 0 line 831
 LIGHT 1 line 833
 ek--3
 gm--5
-aj-11
-hk-9
-hs-6
+kc--13
+sc--14
 at--11
 UNLIMITED_VOID line 834
+sc--14
 at--11
 ek--3
 gm--5
-hs-6
+kc--13
 LIGHT 1 line 835
 ek--3
 gm--5
-aj-11
-hk-9
-hs-6
+kc--13
+sc--14
 at--11
 LIGHT -1 line 837
 ek--3
 at--11
-hs-6
-hk-9
-aj-11
+sc--14
+kc--13
 gm--5
 LIGHT -1 line 839
 ek--3
 at--11
-hs-6
-hk-9
-aj-11
+sc--14
+kc--13
 gm--5
 UNLIMITED_VOID line 840
+sc--14
 at--11
 ek--3
 gm--5
-hs-6
+kc--13
 LIGHT 1 line 841
 ek--3
 gm--5
-aj-11
-hk-9
-hs-6
+kc--13
+sc--14
 at--11
 UNLIMITED_VOID line 842
+sc--14
 at--11
 ek--3
 gm--5
-hs-6
+kc--13
 LIGHT -1 line 843
 ek--3
 at--11
-hs-6
-hk-9
-aj-11
+sc--14
+kc--13
 gm--5
 LIGHT 0 line 845
 LIGHT -1 line 847
 pj--14
 gm--5
+kc--13
+sc--14
 at--11
-aj-11
-hk-9
-hs-6
 ek--3
 LIGHT 1 line 849
-pj--14
+aj--11
 ek--3
-hs-6
-hk-9
-aj-11
 at--11
+sc--14
+kc--13
 gm--5
+pj--14
 LIGHT -1 line 851
-pj--14
+aj--11
 ek--3
 at--11
+sc--14
+kc--13
 gm--5
-hs-6
-hk-9
-aj-11
+pj--14
 LIGHT 1 line 853
 yo--3
-aj-11
-hk-9
-hs-6
+pj--14
 gm--5
+kc--13
+sc--14
 at--11
 ek--3
-pj--14
+aj--11
 LIGHT -1 line 855
 cm-5
 yo--3
-pj--14
+aj--11
 ek--3
 at--11
+sc--14
+kc--13
 gm--5
-hs-6
-hk-9
-aj-11
+pj--14
 LIGHT -1 line 857
 sh-11
 cm-5
 yo--3
-pj--14
+aj--11
 ek--3
 at--11
+sc--14
+kc--13
 gm--5
-hs-6
-hk-9
-aj-11
+pj--14
 LIGHT 1 line 859
 sh-11
 cm-5

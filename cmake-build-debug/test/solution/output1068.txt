@@ -140,19 +140,19 @@ LIGHT 1 line 97
 fg-9
 uj--14
 DOMAIN_EXPANSION line 98
-uj--14
-LIGHT 1 line 99
 fg-9
+LIGHT 1 line 99
+uj--14
 DOMAIN_EXPANSION line 100
 LIGHT -1 line 101
-fg-9
+uj--14
 LIGHT -1 line 103
-fg-9
+uj--14
 LIGHT 0 line 105
 UNLIMITED_VOID line 106
 LIGHT 1 line 107
 he--14
-fg-9
+uj--14
 LIGHT 0 line 109
 LIGHT 0 line 111
 UNLIMITED_VOID line 112
@@ -832,17 +832,19 @@ hf--10
 gm--1
 td-8
 DOMAIN_EXPANSION line 356
-hf--10
-gm--1
-LIGHT 1 line 357
 td-8
+LIGHT 1 line 357
+gm--1
+hf--10
 LIGHT -1 line 359
 tg--10
-td-8
+hf--10
+gm--1
 LIGHT -1 line 361
 jz-1
 tg--10
-td-8
+hf--10
+gm--1
 LIGHT -1 line 363
 LIGHT 1 line 365
 LIGHT 1 line 367

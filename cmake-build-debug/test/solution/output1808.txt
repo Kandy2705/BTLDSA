@@ -766,14 +766,14 @@ LIGHT -1 line 275
 nq--13
 LIGHT 0 line 277
 DOMAIN_EXPANSION line 278
-nq--13
+ca-11
 LIGHT 1 line 279
-ca-11
+nq--13
 LIGHT -1 line 281
-ca-11
+nq--13
 LIGHT 1 line 283
 ul--4
-ca-11
+nq--13
 LIGHT 0 line 285
 LIGHT 1 line 287
 dp-13
@@ -1007,74 +1007,67 @@ pe--15
 nm-5
 jr-7
 DOMAIN_EXPANSION line 340
+kf-8
+jr-7
+nm-5
+bv-10
+zu-2
+ar-10
+mf-11
+ml-7
+LIGHT -1 line 341
+xt--2
 ja--9
 pe--15
 wf--13
-xt--2
+pj--4
 hp--14
 zw--13
-pj--4
-LIGHT -1 line 341
-jr-7
-nm-5
-zu-2
-ml-7
-mf-11
-ar-10
-bv-10
-kf-8
 LIGHT 0 line 343
 LIGHT -1 line 345
-jr-7
-nm-5
-zu-2
-ml-7
-mf-11
-ar-10
-bv-10
-kf-8
+xt--2
+ja--9
+pe--15
+wf--13
+pj--4
+hp--14
+zw--13
 DOMAIN_EXPANSION line 346
 LIGHT -1 line 347
-jr-7
-nm-5
-zu-2
-ml-7
-mf-11
-ar-10
-bv-10
-kf-8
+xt--2
+ja--9
+pe--15
+wf--13
+pj--4
+hp--14
+zw--13
 LIGHT -1 line 349
 pf--6
-nm-5
-zu-2
-ml-7
-mf-11
-ar-10
-bv-10
-kf-8
-jr-7
+ja--9
+pe--15
+wf--13
+pj--4
+hp--14
+zw--13
+xt--2
 LIGHT -1 line 351
-nm-5
-bv-10
-kf-8
-jr-7
 pf--6
+ja--9
+pe--15
+wf--13
 LIGHT -1 line 353
-nm-5
-kf-8
-jr-7
 pf--6
+ja--9
+pe--15
 LIGHT 1 line 355
-nm-5
 pf--6
-jr-7
-kf-8
+pe--15
+ja--9
 LIGHT -1 line 357
 ad-1
-kf-8
-jr-7
 pf--6
-nm-5
+ja--9
+pe--15
 LIGHT 1 line 359
 LIGHT -1 line 361
 zm--2
@@ -1372,39 +1365,44 @@ xo-7
 jh--5
 LIGHT 0 line 497
 DOMAIN_EXPANSION line 498
-nw--3
-yt--11
-jh--5
-zp--15
+lr-12
+sf-6
+xo-7
 LIGHT 0 line 499
 LIGHT 1 line 501
 wc--2
-sf-6
-lr-12
-xo-7
+zp--15
+yt--11
+nw--3
+jh--5
 LIGHT 1 line 503
 wc--2
-sf-6
-lr-12
-xo-7
+zp--15
+yt--11
+nw--3
+jh--5
 LIGHT -1 line 505
 wc--2
-lr-12
-sf-6
+jh--5
+nw--3
+yt--11
 LIGHT -1 line 507
 cq-9
 wc--2
-lr-12
-sf-6
+jh--5
+nw--3
+yt--11
 LIGHT 1 line 509
 cq-9
-sf-6
-lr-12
+yt--11
+nw--3
+jh--5
 wc--2
 LIGHT 1 line 511
 fq-11
-sf-6
-lr-12
+yt--11
+nw--3
+jh--5
 wc--2
 cq-9
 LIGHT 0 line 513
@@ -2157,33 +2155,35 @@ av--11
 gy--2
 LIGHT 0 line 865
 DOMAIN_EXPANSION line 866
-av--11
-gy--2
-LIGHT 1 line 867
 pf-9
+LIGHT 1 line 867
+gy--2
+av--11
 LIGHT 1 line 869
 kj-1
-pf-9
+av--11
+gy--2
 DOMAIN_EXPANSION line 870
+kj-1
 LIGHT 1 line 871
-kj-1
-pf-9
+av--11
+gy--2
 LIGHT -1 line 873
-kj-1
-pf-9
+av--11
+gy--2
 LIGHT -1 line 875
 vh--2
-pf-9
-kj-1
+av--11
+gy--2
 LIGHT -1 line 877
 vh--2
-kj-1
-pf-9
+gy--2
+av--11
 DOMAIN_EXPANSION line 878
-vh--2
 LIGHT -1 line 879
-kj-1
-pf-9
+vh--2
+gy--2
+av--11
 LIGHT 1 line 881
 LIGHT 1 line 883
 LIGHT 1 line 885
@@ -2200,40 +2200,54 @@ sb-9
 pi--11
 LIGHT 0 line 895
 DOMAIN_EXPANSION line 896
+sb-9
+LIGHT 1 line 897
 yi--2
 pi--11
-LIGHT 1 line 897
-sb-9
 LIGHT -1 line 899
 yp--7
-sb-9
+pi--11
+yi--2
 LIGHT 1 line 901
 xl--14
 yp--7
-sb-9
+yi--2
+pi--11
 UNLIMITED_VOID line 902
+xl--14
+yp--7
+yi--2
+pi--11
 LIGHT 1 line 903
 xl--14
 yp--7
-sb-9
+yi--2
+pi--11
 LIGHT -1 line 905
+xl--14
 DOMAIN_EXPANSION line 906
 LIGHT -1 line 907
+xl--14
 LIGHT 1 line 909
 du-3
+xl--14
 LIGHT -1 line 911
 du-3
+xl--14
 LIGHT -1 line 913
 fo--12
+xl--14
 du-3
 LIGHT 1 line 915
 gg--9
 du-3
+xl--14
 fo--12
 LIGHT 0 line 917
 LIGHT -1 line 919
 is--15
 fo--12
+xl--14
 du-3
 gg--9
 kr--14
@@ -2241,6 +2255,7 @@ LIGHT -1 line 921
 ow--8
 is--15
 fo--12
+xl--14
 du-3
 gg--9
 kr--14
@@ -2250,6 +2265,7 @@ ow--8
 kr--14
 gg--9
 du-3
+xl--14
 fo--12
 is--15
 LIGHT -1 line 925
@@ -2257,6 +2273,7 @@ yt--6
 km--12
 is--15
 fo--12
+xl--14
 du-3
 gg--9
 kr--14
@@ -2267,6 +2284,7 @@ ow--8
 kr--14
 gg--9
 du-3
+xl--14
 fo--12
 is--15
 km--12
@@ -2274,7 +2292,7 @@ yt--6
 DOMAIN_EXPANSION line 928
 du-3
 LIGHT -1 line 929
-fo--12
+xl--14
 gg--9
 kr--14
 ow--8
@@ -2282,8 +2300,10 @@ rk--4
 yt--6
 km--12
 is--15
+fo--12
 LIGHT 1 line 931
 ba-7
+fo--12
 is--15
 km--12
 yt--6
@@ -2291,9 +2311,10 @@ rk--4
 ow--8
 kr--14
 gg--9
-fo--12
+xl--14
 LIGHT -1 line 933
 ba-7
+fo--12
 is--15
 km--12
 yt--6
@@ -2301,11 +2322,12 @@ rk--4
 ow--8
 kr--14
 gg--9
-fo--12
+xl--14
 LIGHT -1 line 935
+ba-7
+km--12
 yt--6
 rk--4
-ba-7
 LIGHT 0 line 937
 LIGHT 1 line 939
 DOMAIN_EXPANSION line 940

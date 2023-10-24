@@ -885,13 +885,13 @@ vr-13
 ff--6
 ti--1
 DOMAIN_EXPANSION line 300
-ti--1
-ff--6
-bl--8
+vr-13
 LIGHT 0 line 301
 LIGHT 1 line 304
 ew--5
-vr-13
+ti--1
+bl--8
+ff--6
 LIGHT -1 line 306
 LIGHT 1 line 308
 LIGHT 1 line 310
@@ -1241,33 +1241,46 @@ tn--2
 xc--4
 wy--14
 DOMAIN_EXPANSION line 571
-xc--4
-wy--14
-tn--2
+fn-13
 LIGHT 0 line 572
 LIGHT -1 line 574
 la--6
-fn-13
+wy--14
+tn--2
+xc--4
 LIGHT -1 line 576
 lg--6
 la--6
-fn-13
+wy--14
+tn--2
+xc--4
 UNLIMITED_VOID line 577
+wy--14
+la--6
+lg--6
+xc--4
+tn--2
 LIGHT 1 line 578
 lg--6
-fn-13
+xc--4
+tn--2
+wy--14
 la--6
 LIGHT 1 line 580
 sb--11
 lg--6
-fn-13
+xc--4
+tn--2
+wy--14
 la--6
 DOMAIN_EXPANSION line 581
+LIGHT 1 line 582
 sb--11
 lg--6
+xc--4
+tn--2
+wy--14
 la--6
-LIGHT 1 line 582
-fn-13
 LIGHT 0 line 584
 LIGHT -1 line 586
 LIGHT 1 line 588

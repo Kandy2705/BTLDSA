@@ -255,103 +255,93 @@ yk--12
 lv--15
 py-12
 DOMAIN_EXPANSION line 104
+gw-5
+ba-9
+py-12
+LIGHT -6 line 105
 by--17
 yk--12
 lv--15
-LIGHT -6 line 105
-ba-9
-gw-5
-py-12
 LIGHT 15 line 107
-gw-5
+by--17
 UNLIMITED_VOID line 108
 LIGHT -2 line 109
-gw-5
+by--17
 LIGHT 15 line 111
-gw-5
+by--17
 LIGHT -17 line 113
 ji--9
-gw-5
+by--17
 LIGHT 9 line 115
 uw-16
-gw-5
+by--17
 ji--9
 LIGHT 15 line 117
 tw-6
 uw-16
-gw-5
+by--17
 ji--9
 DOMAIN_EXPANSION line 118
-ji--9
-LIGHT 4 line 119
-gw-5
 tw-6
 uw-16
+LIGHT 4 line 119
+by--17
+ji--9
 LIGHT 0 line 121
 LIGHT -6 line 123
 ee--3
 hc--8
-uw-16
-tw-6
-gw-5
+by--17
+ji--9
 LIGHT -13 line 125
 wk--17
 hc--8
-uw-16
-tw-6
-gw-5
+by--17
+ji--9
 ee--3
 LIGHT 1 line 127
 wk--17
-uw-16
-tw-6
-gw-5
 hc--8
+by--17
+ji--9
 ee--3
 LIGHT 6 line 129
 db-6
-uw-16
-tw-6
-gw-5
 hc--8
+by--17
+ji--9
 ee--3
 wk--17
 LIGHT -20 line 131
 uc--8
 wk--17
 ee--3
+ji--9
+by--17
 hc--8
-gw-5
-tw-6
-uw-16
 db-6
 LIGHT -17 line 133
 db-6
 uc--8
-wk--17
 LIGHT -17 line 135
 uj--13
 uc--8
-wk--17
 db-6
 LIGHT -16 line 137
 ne-11
 uj--13
 uc--8
-wk--17
 db-6
 LIGHT -7 line 139
 bk-5
 uj--13
 uc--8
-wk--17
 db-6
 ne-11
 LIGHT 5 line 141
 jo-12
 ne-11
 db-6
-wk--17
 uc--8
 uj--13
 bk-5
@@ -361,7 +351,6 @@ jo-12
 bk-5
 uj--13
 uc--8
-wk--17
 db-6
 ne-11
 LIGHT -6 line 145
@@ -370,22 +359,20 @@ jo-12
 bk-5
 uj--13
 uc--8
-wk--17
 db-6
 ne-11
 up-13
 UNLIMITED_VOID line 146
-wk--17
-uc--8
 uj--13
 bk-5
+db-6
+uc--8
 LIGHT -12 line 147
 vw--1
 jo-12
 bk-5
 uj--13
 uc--8
-wk--17
 db-6
 ne-11
 up-13
@@ -394,7 +381,6 @@ zn-8
 up-13
 ne-11
 db-6
-wk--17
 uc--8
 uj--13
 bk-5
@@ -407,7 +393,6 @@ jo-12
 bk-5
 uj--13
 uc--8
-wk--17
 db-6
 ne-11
 up-13
@@ -418,7 +403,6 @@ zn-8
 up-13
 ne-11
 db-6
-wk--17
 uc--8
 uj--13
 bk-5
@@ -427,7 +411,6 @@ vw--1
 tv--19
 UNLIMITED_VOID line 154
 tv--19
-wk--17
 uc--8
 uj--13
 bk-5
@@ -439,7 +422,6 @@ zn-8
 up-13
 ne-11
 db-6
-wk--17
 uc--8
 uj--13
 bk-5
@@ -453,20 +435,18 @@ bk-5
 db-6
 tv--19
 vw--1
-uj--13
 ne-11
 up-13
+uj--13
 uc--8
-wk--17
 zn-8
 LIGHT -11 line 159
 jw-12
 zn-8
-wk--17
 uc--8
+uj--13
 up-13
 ne-11
-uj--13
 vw--1
 tv--19
 db-6
@@ -476,7 +456,6 @@ LIGHT 8 line 161
 jw-12
 zn-8
 up-13
-wk--17
 uc--8
 uj--13
 ne-11
@@ -495,7 +474,6 @@ db-6
 ne-11
 uj--13
 uc--8
-wk--17
 up-13
 zn-8
 jw-12
@@ -509,7 +487,6 @@ db-6
 ne-11
 uj--13
 uc--8
-wk--17
 up-13
 zn-8
 jw-12
@@ -519,7 +496,6 @@ ot--16
 jw-12
 zn-8
 up-13
-wk--17
 uc--8
 uj--13
 ne-11
@@ -530,8 +506,10 @@ bk-5
 jo-12
 LIGHT 6 line 169
 sr--12
+ot--16
+jw-12
+zn-8
 up-13
-wk--17
 uc--8
 uj--13
 ne-11
@@ -541,13 +519,9 @@ tv--19
 bk-5
 jo-12
 mh--20
-ot--16
-jw-12
-zn-8
 LIGHT 8 line 171
 rn--16
 up-13
-wk--17
 uc--8
 uj--13
 ne-11
@@ -557,14 +531,13 @@ tv--19
 bk-5
 jo-12
 mh--20
+sr--12
 ot--16
 jw-12
 zn-8
-sr--12
 LIGHT 19 line 173
 ay--11
 up-13
-wk--17
 uc--8
 uj--13
 ne-11
@@ -574,42 +547,52 @@ tv--19
 bk-5
 jo-12
 mh--20
+sr--12
 ot--16
 jw-12
 zn-8
-sr--12
 rn--16
 DOMAIN_EXPANSION line 174
-ay--11
+jw-12
+zn-8
+up-13
+jo-12
+bk-5
+ne-11
+db-6
+LIGHT -13 line 175
 rn--16
+ot--16
 sr--12
 mh--20
-ot--16
 tv--19
 vw--1
 uj--13
 uc--8
-wk--17
-LIGHT -13 line 175
-zn-8
-jw-12
-jo-12
-bk-5
-db-6
-ne-11
-up-13
+ay--11
 LIGHT -7 line 177
+ay--11
+rn--16
 LIGHT 14 line 179
+ay--11
+rn--16
 LIGHT -1 line 181
 cm-12
+ay--11
+rn--16
 LIGHT -8 line 183
 cm-12
+rn--16
+ay--11
 DOMAIN_EXPANSION line 184
-LIGHT 2 line 185
 cm-12
+LIGHT 2 line 185
+ay--11
+rn--16
 LIGHT 3 line 187
 fq--2
-cm-12
+rn--16
+ay--11
 LIGHT 8 line 189
 UNLIMITED_VOID line 190
 LIGHT -3 line 191

@@ -1352,13 +1352,13 @@ LIGHT 1 line 607
 ir--9
 co-8
 DOMAIN_EXPANSION line 608
-ir--9
+co-8
 LIGHT 0 line 609
 DOMAIN_EXPANSION line 610
 LIGHT 1 line 611
-co-8
+ir--9
 LIGHT 1 line 613
-co-8
+ir--9
 LIGHT 1 line 615
 LIGHT -1 line 617
 dg-5
@@ -1558,11 +1558,7 @@ ty--8
 jz--2
 zh--4
 DOMAIN_EXPANSION line 730
-dp--1
-zh--4
-jz--2
-ty--8
-tq--1
+nl-10
 LIGHT 0 line 731
 LIGHT 0 line 733
 LIGHT -1 line 735

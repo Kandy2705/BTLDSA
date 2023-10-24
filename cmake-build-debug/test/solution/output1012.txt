@@ -1259,22 +1259,26 @@ lx--3
 lb--4
 ah-8
 DOMAIN_EXPANSION line 642
+ah-8
+fd-10
+LIGHT -1 line 643
+lb--4
+br--8
+ba--11
+lx--3
+LIGHT 1 line 645
+ic--14
+lb--4
+lx--3
+ba--11
+br--8
+LIGHT -1 line 647
+uo--9
+ic--14
 br--8
 ba--11
 lx--3
 lb--4
-LIGHT -1 line 643
-fd-10
-ah-8
-LIGHT 1 line 645
-ic--14
-fd-10
-ah-8
-LIGHT -1 line 647
-uo--9
-ic--14
-ah-8
-fd-10
 LIGHT 0 line 649
 LIGHT 0 line 651
 LIGHT 0 line 653
@@ -1284,33 +1288,40 @@ ls--12
 yh--12
 uo--9
 ic--14
-ah-8
-fd-10
+br--8
+ba--11
+lx--3
+lb--4
 wi-13
 LIGHT -1 line 657
+ah-8
+ic--14
+br--8
+ba--11
+lx--3
+lb--4
+wi-13
 li-9
 ls--12
 yh--12
 uo--9
-ic--14
-ah-8
-fd-10
-wi-13
 LIGHT 0 line 659
 LIGHT -1 line 661
+ah-8
+ba--11
+br--8
+ic--14
+li-9
+uo--9
+yh--12
+ls--12
+lb--4
+lx--3
+wi-13
+DOMAIN_EXPANSION line 662
+ah-8
 li-9
 wi-13
-ic--14
-uo--9
-yh--12
-ls--12
-fd-10
-ah-8
-DOMAIN_EXPANSION line 662
-ls--12
-yh--12
-uo--9
-ic--14
 LIGHT 0 line 663
 LIGHT -1 line 665
 UNLIMITED_VOID line 666
@@ -1451,17 +1462,17 @@ no-4
 tx--5
 qz--7
 DOMAIN_EXPANSION line 732
-wy--14
-gl--5
-qz--7
-tx--5
-li--5
-sc--3
-LIGHT 1 line 733
-no-4
 kk-5
 uq-5
 sg-6
+no-4
+LIGHT 1 line 733
+sc--3
+li--5
+tx--5
+qz--7
+wy--14
+gl--5
 LIGHT 1 line 735
 LIGHT -1 line 737
 wv-10
@@ -1763,86 +1774,86 @@ yx--1
 pf--13
 LIGHT 0 line 875
 DOMAIN_EXPANSION line 876
+ri-12
+mm-7
+me-7
+ej-1
+LIGHT -1 line 877
+qd--8
+tm--6
+pf--13
+yx--1
+LIGHT -1 line 879
+qp--13
 tm--6
 pf--13
 yx--1
 qd--8
-LIGHT -1 line 877
-me-7
-mm-7
-ej-1
-ri-12
-LIGHT -1 line 879
-qp--13
-mm-7
-ej-1
-ri-12
-me-7
 LIGHT -1 line 881
-mm-7
-ri-12
-me-7
 qp--13
+tm--6
+pf--13
+yx--1
 LIGHT 1 line 883
 rq--13
-mm-7
+yx--1
+pf--13
+tm--6
 qp--13
-me-7
-ri-12
 LIGHT 1 line 885
 og--8
-mm-7
+yx--1
+pf--13
+tm--6
 qp--13
-me-7
-ri-12
 rq--13
 LIGHT 1 line 887
 nk-2
-mm-7
+yx--1
+pf--13
+tm--6
 qp--13
-me-7
-ri-12
 rq--13
 og--8
 LIGHT 1 line 889
 ma-6
-mm-7
+yx--1
+pf--13
+tm--6
 qp--13
-me-7
-ri-12
 rq--13
 og--8
 nk-2
 LIGHT 1 line 891
 hg-1
 ma-6
-mm-7
+yx--1
+pf--13
+tm--6
 qp--13
-me-7
-ri-12
 rq--13
 og--8
 nk-2
 LIGHT -1 line 893
 hg-1
 ma-6
-mm-7
+nk-2
+yx--1
+pf--13
+tm--6
 qp--13
 rq--13
-me-7
-ri-12
 og--8
-nk-2
 LIGHT -1 line 895
 di--12
 ma-6
-mm-7
+nk-2
+yx--1
+pf--13
+tm--6
 qp--13
 rq--13
-me-7
-ri-12
 og--8
-nk-2
 hg-1
 LIGHT 0 line 897
 UNLIMITED_VOID line 898

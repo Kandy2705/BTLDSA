@@ -270,31 +270,27 @@ lc-7
 rs--8
 my--14
 DOMAIN_EXPANSION line 128
-if--13
-my--14
-rs--8
-fq--15
-LIGHT 1 line 129
-lc-7
 mb-5
 eb-11
-lr-7
-se-10
+lc-7
 ey-4
+se-10
+lr-7
+LIGHT 1 line 129
+fq--15
+rs--8
+my--14
+if--13
 LIGHT 0 line 131
 LIGHT 1 line 133
-ey-4
-lc-7
 pd-10
-mb-5
-eb-11
+my--14
+if--13
 LIGHT 1 line 135
 dp--15
-ey-4
-lc-7
 pd-10
-mb-5
-eb-11
+my--14
+if--13
 LIGHT 1 line 137
 LIGHT 1 line 139
 LIGHT 1 line 141
@@ -2009,43 +2005,68 @@ ua--3
 gh--5
 kp--6
 DOMAIN_EXPANSION line 802
+ko-8
+cs-8
+LIGHT 1 line 803
+ip--4
+ij--14
+kp--6
+gh--5
+ua--3
+LIGHT 1 line 805
+ip--4
+ua--3
+gh--5
+kp--6
+ij--14
+UNLIMITED_VOID line 806
+ij--14
+ip--4
+ua--3
+gh--5
+kp--6
+LIGHT -1 line 807
+ip--4
+ij--14
+kp--6
+gh--5
+ua--3
+LIGHT 1 line 809
+ip--4
+ij--14
+kp--6
+gh--5
+ua--3
+LIGHT -1 line 811
+ge--4
+ip--4
+ua--3
+gh--5
+kp--6
+ij--14
+LIGHT 1 line 813
+fu-3
 ij--14
 kp--6
 gh--5
 ua--3
 ip--4
-LIGHT 1 line 803
-cs-8
-ko-8
-LIGHT 1 line 805
-cs-8
-ko-8
-UNLIMITED_VOID line 806
-LIGHT -1 line 807
-cs-8
-ko-8
-LIGHT 1 line 809
-cs-8
-ko-8
-LIGHT -1 line 811
-ge--4
-ko-8
-cs-8
-LIGHT 1 line 813
-fu-3
-cs-8
-ko-8
 ge--4
 UNLIMITED_VOID line 814
+ij--14
+kp--6
+gh--5
+ua--3
+ip--4
 ge--4
-fu-3
-cs-8
-ko-8
 LIGHT -1 line 815
 fu-3
 ge--4
-ko-8
-cs-8
+ip--4
+ua--3
+gh--5
+kp--6
+ij--14
 LIGHT 1 line 817
 LIGHT -1 line 819
 LIGHT 1 line 821
@@ -2213,58 +2234,52 @@ un-5
 mi-1
 qa--5
 DOMAIN_EXPANSION line 884
-qa--5
-on--10
-LIGHT 1 line 885
-st-6
 mi-1
 un-5
+st-6
+LIGHT 1 line 885
+on--10
+qa--5
 LIGHT 0 line 887
 LIGHT -1 line 889
 dr--2
-un-5
-mi-1
-st-6
+on--10
+qa--5
 pe--1
 LIGHT -1 line 891
 fn-2
 dr--2
-un-5
-mi-1
-st-6
+on--10
+qa--5
 pe--1
 LIGHT -1 line 893
 mg-11
 fn-2
 dr--2
-un-5
-mi-1
-st-6
+on--10
+qa--5
 pe--1
 DOMAIN_EXPANSION line 894
-dr--2
-pe--1
+mg-11
+fn-2
 LIGHT -1 line 895
-un-5
-mi-1
-st-6
-mg-11
-fn-2
+pe--1
+dr--2
+on--10
+qa--5
 LIGHT 1 line 897
-un-5
-fn-2
-mg-11
-st-6
-mi-1
+pe--1
+qa--5
+on--10
+dr--2
 DOMAIN_EXPANSION line 898
 LIGHT 0 line 899
 LIGHT -1 line 901
 rd-13
-un-5
-mi-1
-st-6
-mg-11
-fn-2
+pe--1
+dr--2
+on--10
+qa--5
 LIGHT 1 line 903
 LIGHT 1 line 905
 LIGHT -1 line 907

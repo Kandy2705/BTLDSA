@@ -30,57 +30,57 @@ LIGHT -7 line 27
 zd--20
 gs-19
 DOMAIN_EXPANSION line 28
-zd--20
-LIGHT -18 line 29
 gs-19
+LIGHT -18 line 29
+zd--20
 LIGHT 12 line 31
 ig-18
-gs-19
+zd--20
 LIGHT -13 line 33
 nt--4
-gs-19
+zd--20
 ig-18
 LIGHT 17 line 35
 df--3
 ig-18
-gs-19
+zd--20
 nt--4
 LIGHT -2 line 37
 df--3
 ig-18
-gs-19
+zd--20
 nt--4
 LIGHT 0 line 39
 LIGHT 3 line 41
 dv--1
-gs-19
+ig-18
 nt--4
 df--3
-ig-18
+zd--20
 LIGHT -12 line 43
 bg-7
-dv--1
-ig-18
+zd--20
 df--3
 nt--4
-gs-19
+ig-18
+dv--1
 LIGHT 17 line 45
 zb-12
-df--3
-ig-18
-dv--1
 bg-7
-gs-19
+dv--1
+ig-18
 nt--4
+df--3
+zd--20
 LIGHT 7 line 47
 bk--1
-gs-19
-nt--4
-zb-12
-df--3
 ig-18
-dv--1
+nt--4
+df--3
+zd--20
+zb-12
 bg-7
+dv--1
 LIGHT -5 line 49
 LIGHT -9 line 51
 uk-13
@@ -271,115 +271,186 @@ ww-17
 ob--10
 mt--9
 DOMAIN_EXPANSION line 100
-vt--9
+uz-7
+ww-17
+nl-2
+uu-2
+ts-12
+uk-13
+LIGHT -15 line 101
 fn--4
-hu--4
 cf--17
-mm--5
-lw--6
 pt--15
 ob--10
 mt--9
-LIGHT -15 line 101
-uz-7
-ts-12
-uu-2
-uk-13
-nl-2
-ww-17
+lw--6
+mm--5
+hu--4
 LIGHT -2 line 103
-jp--3
-uz-7
-ts-12
-uu-2
-uk-13
-nl-2
-ww-17
+fn--4
+cf--17
+pt--15
+ob--10
+mt--9
+lw--6
+mm--5
+hu--4
 LIGHT -6 line 105
-hz-3
-jp--3
-uz-7
-ts-12
-uu-2
-uk-13
-nl-2
-ww-17
+fn--4
+cf--17
+pt--15
+ob--10
+mt--9
+lw--6
+mm--5
+hu--4
 LIGHT 9 line 107
-hz-3
-ww-17
-nl-2
-uk-13
-uu-2
-ts-12
-uz-7
-jp--3
+fn--4
+hu--4
+mm--5
+lw--6
+mt--9
+ob--10
+pt--15
+cf--17
 LIGHT 3 line 109
 ny--14
+hz-3
+vt--9
+jp--3
 UNLIMITED_VOID line 110
+ny--14
+hz-3
+vt--9
+jp--3
 LIGHT -15 line 111
 ny--14
+jp--3
+vt--9
+hz-3
 UNLIMITED_VOID line 112
+ny--14
+hz-3
+vt--9
+jp--3
 LIGHT 10 line 113
 ny--14
+hz-3
+vt--9
+jp--3
 LIGHT -16 line 115
 ny--14
+hz-3
+vt--9
+jp--3
 UNLIMITED_VOID line 116
+ny--14
+jp--3
+vt--9
+hz-3
 LIGHT -16 line 117
 ny--14
+hz-3
+vt--9
+jp--3
 LIGHT -16 line 119
 ec--3
 ny--14
+hz-3
+vt--9
+jp--3
 LIGHT -15 line 121
 kw-18
-ec--3
 ny--14
+hz-3
+vt--9
+jp--3
+ec--3
 LIGHT -15 line 123
 pb--17
-ec--3
 ny--14
+hz-3
+vt--9
+jp--3
+ec--3
 kw-18
 LIGHT -6 line 125
 pb--17
-ec--3
 ny--14
+hz-3
+vt--9
+jp--3
+ec--3
 kw-18
 LIGHT 7 line 127
 vy-11
 kw-18
-ny--14
 ec--3
+jp--3
+vt--9
+hz-3
+ny--14
 pb--17
 DOMAIN_EXPANSION line 128
-pb--17
-ec--3
-ny--14
-LIGHT 6 line 129
-kw-18
 vy-11
+kw-18
+hz-3
+LIGHT 6 line 129
+ec--3
+jp--3
+vt--9
+ny--14
+pb--17
 LIGHT 10 line 131
 ba--1
-kw-18
-vy-11
+ec--3
+jp--3
+vt--9
+ny--14
+pb--17
 DOMAIN_EXPANSION line 132
-ba--1
 LIGHT 19 line 133
-vy-11
-kw-18
+ba--1
+ec--3
+jp--3
+vt--9
+ny--14
+pb--17
 LIGHT -7 line 135
 jy-7
-kw-18
-vy-11
+pb--17
+ny--14
+vt--9
+jp--3
+ec--3
+ba--1
 LIGHT -11 line 137
+ec--3
+ba--1
 jy-7
+pb--17
+ny--14
 LIGHT -9 line 139
+ec--3
+ba--1
 jy-7
+pb--17
+ny--14
 LIGHT 13 line 141
 te--18
 jy-7
+ba--1
+ec--3
+ny--14
+pb--17
 DOMAIN_EXPANSION line 142
 jy-7
 LIGHT -13 line 143
+ba--1
 te--18
+pb--17
+ny--14
+ec--3
 LIGHT -7 line 145
 LIGHT -5 line 147
 xz--20

@@ -168,10 +168,10 @@ rv-5
 oh--7
 bx--1
 DOMAIN_EXPANSION line 140
-bx--1
-oh--7
-LIGHT 1 line 141
 rv-5
+LIGHT 1 line 141
+oh--7
+bx--1
 LIGHT -1 line 143
 LIGHT 1 line 145
 LIGHT 1 line 147
@@ -642,12 +642,12 @@ jm--13
 ov--15
 bh-6
 DOMAIN_EXPANSION line 318
-ov--15
-lk--7
-jm--13
-LIGHT 1 line 319
 oi-13
 bh-6
+LIGHT 1 line 319
+lk--7
+jm--13
+ov--15
 LIGHT 1 line 321
 LIGHT 1 line 323
 gq-11
@@ -950,33 +950,47 @@ bf--2
 hm--2
 ei--8
 DOMAIN_EXPANSION line 528
-ei--8
-bf--2
-hm--2
+bk-6
 LIGHT -1 line 529
-bk-6
+bf--2
+ei--8
+hm--2
 LIGHT 1 line 531
-bk-6
+bf--2
+ei--8
+hm--2
 LIGHT 1 line 533
-bk-6
+bf--2
+ei--8
+hm--2
 LIGHT 1 line 535
-bk-6
+bf--2
+ei--8
+hm--2
 LIGHT 1 line 537
 he--12
-bk-6
+bf--2
+ei--8
+hm--2
 LIGHT 1 line 539
 ji--15
 he--12
-bk-6
+bf--2
+ei--8
+hm--2
 LIGHT 1 line 541
 vw-14
 he--12
-bk-6
+bf--2
+ei--8
+hm--2
 ji--15
 LIGHT -1 line 543
 oy-4
 ji--15
-bk-6
+hm--2
+ei--8
+bf--2
 he--12
 vw-14
 LIGHT 1 line 545
@@ -984,12 +998,16 @@ wl--13
 oy-4
 vw-14
 he--12
-bk-6
+bf--2
+ei--8
+hm--2
 ji--15
 LIGHT -1 line 547
 qw--14
 ji--15
-bk-6
+hm--2
+ei--8
+bf--2
 he--12
 vw-14
 oy-4
@@ -1000,21 +1018,28 @@ wl--13
 oy-4
 vw-14
 he--12
-bk-6
+bf--2
+ei--8
+hm--2
 ji--15
 DOMAIN_EXPANSION line 550
 oy-4
 vw-14
-bk-6
 LIGHT 1 line 551
 he--12
+bf--2
+ei--8
+hm--2
 ji--15
 qw--14
 wl--13
 LIGHT 1 line 553
+qw--14
 LIGHT 1 line 555
 kr-14
+qw--14
 DOMAIN_EXPANSION line 556
+qw--14
 LIGHT 0 line 557
 LIGHT 0 line 559
 LIGHT 1 line 561

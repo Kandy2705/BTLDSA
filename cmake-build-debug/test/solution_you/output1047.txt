@@ -73,13 +73,14 @@ zf-12
 eb--8
 LIGHT 0 line 65
 DOMAIN_EXPANSION line 66
-qz--12
-eb--8
-LIGHT 1 line 67
 zf-12
+LIGHT 1 line 67
+eb--8
+qz--12
 LIGHT -1 line 69
 ce--9
-zf-12
+qz--12
+eb--8
 LIGHT 0 line 71
 LIGHT -1 line 73
 nb--15
@@ -424,27 +425,25 @@ bd-12
 or-11
 fq--14
 DOMAIN_EXPANSION line 206
+or-11
+bd-12
+tf-7
+ko-5
+LIGHT 1 line 207
+os--8
+mv--15
+fq--14
+LIGHT 1 line 209
+nf--5
 mv--15
 fq--14
 os--8
-LIGHT 1 line 207
-tf-7
-or-11
-bd-12
-ko-5
-LIGHT 1 line 209
-nf--5
-tf-7
-or-11
-bd-12
-ko-5
 LIGHT -1 line 211
 fh-1
 nf--5
-ko-5
-bd-12
-or-11
-tf-7
+os--8
+fq--14
+mv--15
 LIGHT -1 line 213
 LIGHT -1 line 215
 LIGHT -1 line 217

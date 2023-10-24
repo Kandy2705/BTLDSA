@@ -595,19 +595,19 @@ ss-3
 bp--1
 pi--3
 DOMAIN_EXPANSION line 160
-vx--6
-ut--9
-bp--1
-qk--12
-pi--3
-kj--12
-oi--5
-LIGHT 1 line 161
 gf-8
-np-6
 tw-4
 sx-6
+np-6
 ss-3
+LIGHT 1 line 161
+vx--6
+bp--1
+pi--3
+ut--9
+kj--12
+oi--5
+qk--12
 LIGHT -1 line 163
 LIGHT -1 line 165
 wx--5
@@ -677,13 +677,13 @@ cu--10
 qq--1
 rw-7
 DOMAIN_EXPANSION line 196
-yz--4
-qq--1
-cu--10
-ak--14
-LIGHT 1 line 197
 rw-7
 hb-13
+LIGHT 1 line 197
+yz--4
+ak--14
+cu--10
+qq--1
 LIGHT -1 line 199
 DOMAIN_EXPANSION line 200
 LIGHT 0 line 201
@@ -710,26 +710,25 @@ jq--15
 oz--15
 LIGHT 0 line 215
 DOMAIN_EXPANSION line 216
-oz--15
-jq--15
+aj-9
+rl-11
 LIGHT 0 line 217
 LIGHT 1 line 219
-rl-11
-aj-9
+jq--15
+oz--15
 LIGHT -1 line 221
 nl-13
-rl-11
-aj-9
+jq--15
+oz--15
 DOMAIN_EXPANSION line 222
-LIGHT -1 line 223
 nl-13
-rl-11
-aj-9
+LIGHT -1 line 223
+oz--15
+jq--15
 LIGHT 1 line 225
 jl--3
-nl-13
-aj-9
-rl-11
+jq--15
+oz--15
 LIGHT 0 line 227
 DOMAIN_EXPANSION line 228
 LIGHT 1 line 229
@@ -1136,131 +1135,149 @@ ox--5
 cl--3
 LIGHT 0 line 325
 DOMAIN_EXPANSION line 326
+uv-13
+qk-5
+yw-7
+LIGHT 1 line 327
+vw--12
+hs--11
+ie--3
+vf--4
+ox--5
+cl--3
+LIGHT -1 line 329
+iu--12
+hs--11
+vw--12
 cl--3
 ox--5
 vf--4
 ie--3
-vw--12
-hs--11
-LIGHT 1 line 327
-yw-7
-uv-13
-qk-5
-LIGHT -1 line 329
-iu--12
-qk-5
-uv-13
-yw-7
 LIGHT -1 line 331
 mz--15
-qk-5
-uv-13
-yw-7
 iu--12
+hs--11
+vw--12
+cl--3
+ox--5
+vf--4
+ie--3
 LIGHT -1 line 333
 wn-14
 mz--15
-qk-5
-uv-13
-yw-7
 iu--12
+hs--11
+vw--12
+cl--3
+ox--5
+vf--4
+ie--3
 LIGHT -1 line 335
 if-12
 mz--15
-qk-5
-uv-13
-yw-7
 iu--12
+hs--11
+vw--12
+cl--3
+ox--5
+vf--4
+ie--3
 wn-14
 LIGHT -1 line 337
 if-12
 mz--15
-qk-5
-uv-13
-yw-7
 iu--12
+hs--11
+vw--12
+cl--3
+ox--5
+vf--4
+ie--3
 wn-14
 LIGHT 1 line 339
-ub-10
 if-12
 wn-14
+ie--3
+vf--4
+ox--5
+cl--3
+vw--12
+hs--11
 iu--12
-yw-7
-uv-13
-qk-5
 mz--15
 LIGHT 1 line 341
-bc-14
-ub-10
 if-12
 wn-14
+ie--3
+vf--4
+ox--5
+cl--3
+vw--12
+hs--11
 iu--12
-yw-7
-uv-13
-qk-5
 mz--15
 LIGHT -1 line 343
-ci--15
+if-12
 mz--15
-qk-5
-uv-13
-yw-7
 iu--12
+hs--11
+vw--12
+cl--3
+ox--5
+vf--4
+ie--3
 wn-14
-if-12
-ub-10
-bc-14
 LIGHT 1 line 345
+ub-10
+if-12
 ci--15
 bc-14
-ub-10
-if-12
 wn-14
+vf--4
+ox--5
+cl--3
 iu--12
-yw-7
-uv-13
-qk-5
 mz--15
 LIGHT -1 line 347
-ci--15
-if-12
 ub-10
 bc-14
+ci--15
+if-12
 LIGHT -1 line 349
 mw-8
+bc-14
 ci--15
 if-12
 ub-10
-bc-14
 LIGHT 1 line 351
 mw-8
-bc-14
 ub-10
 if-12
 ci--15
+bc-14
 LIGHT -1 line 353
 oa--12
-mw-8
 ci--15
 if-12
 ub-10
+mw-8
 bc-14
 LIGHT 1 line 355
 sq--5
 bc-14
+mw-8
 ub-10
 if-12
 ci--15
-mw-8
 oa--12
 LIGHT -1 line 357
 hm--12
 sq--5
 oa--12
-mw-8
 ci--15
 if-12
 ub-10
+mw-8
 bc-14
 LIGHT 0 line 359
 LIGHT 1 line 361

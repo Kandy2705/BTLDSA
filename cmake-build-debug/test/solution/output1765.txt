@@ -429,12 +429,12 @@ LIGHT -1 line 213
 yy-6
 fw--7
 DOMAIN_EXPANSION line 214
-fw--7
-LIGHT 1 line 215
 yy-6
+LIGHT 1 line 215
+fw--7
 DOMAIN_EXPANSION line 216
 LIGHT 1 line 217
-yy-6
+fw--7
 LIGHT -1 line 219
 LIGHT -1 line 221
 fe-9
@@ -760,14 +760,14 @@ dx--15
 vq--7
 nx--13
 DOMAIN_EXPANSION line 308
+yt-6
+jl-13
+qf-9
+LIGHT -1 line 309
+pl--13
 nx--13
 vq--7
 dx--15
-pl--13
-LIGHT -1 line 309
-qf-9
-jl-13
-yt-6
 LIGHT -1 line 311
 LIGHT 1 line 313
 LIGHT -1 line 315
@@ -1009,10 +1009,10 @@ sp-14
 ca--13
 zx--7
 DOMAIN_EXPANSION line 482
+sp-14
+LIGHT 1 line 483
 zx--7
 ca--13
-LIGHT 1 line 483
-sp-14
 LIGHT 0 line 485
 LIGHT 0 line 487
 LIGHT 1 line 489
@@ -1126,26 +1126,26 @@ ew-5
 gw--7
 yp--10
 DOMAIN_EXPANSION line 542
-gw--7
-yp--10
+ri-10
+ew-5
 LIGHT 0 line 543
 DOMAIN_EXPANSION line 544
 LIGHT 1 line 545
-ri-10
-ew-5
+yp--10
+gw--7
 LIGHT 1 line 547
 tp--12
-ri-10
-ew-5
+yp--10
+gw--7
 LIGHT -1 line 549
 md-2
 tp--12
-ew-5
-ri-10
+gw--7
+yp--10
 LIGHT 1 line 551
 ay-10
-ri-10
-ew-5
+yp--10
+gw--7
 tp--12
 md-2
 LIGHT -1 line 553
@@ -1365,77 +1365,59 @@ pr-2
 pf--8
 sr-3
 DOMAIN_EXPANSION line 622
+yi-5
+sr-3
+zj-10
+pr-2
+kv-4
+LIGHT -1 line 623
+pf--8
 ig--10
 jj--10
-pf--8
-LIGHT -1 line 623
-zj-10
-kv-4
-pr-2
-sr-3
-yi-5
 DOMAIN_EXPANSION line 624
 LIGHT 1 line 625
-zj-10
-yi-5
-sr-3
-pr-2
-kv-4
+pf--8
+jj--10
+ig--10
 DOMAIN_EXPANSION line 626
 LIGHT 1 line 627
-zj-10
-yi-5
-sr-3
-pr-2
-kv-4
+pf--8
+jj--10
+ig--10
 LIGHT 1 line 629
-zj-10
-kv-4
-pr-2
-sr-3
-yi-5
+pf--8
+ig--10
+jj--10
 LIGHT 1 line 631
-zj-10
-yi-5
-sr-3
-pr-2
-kv-4
+pf--8
+jj--10
+ig--10
 LIGHT 1 line 633
 vj-6
-zj-10
-yi-5
-sr-3
-pr-2
-kv-4
+jj--10
+ig--10
+pf--8
 LIGHT -1 line 635
 af-6
 vj-6
-kv-4
-pr-2
-sr-3
-yi-5
-zj-10
+pf--8
+ig--10
+jj--10
 UNLIMITED_VOID line 636
-pr-2
-kv-4
-yi-5
-sr-3
+jj--10
+ig--10
+pf--8
+vj-6
 LIGHT 1 line 637
 af-6
-zj-10
-yi-5
-sr-3
-pr-2
-kv-4
+jj--10
+ig--10
+pf--8
 vj-6
 LIGHT 1 line 639
-vj-6
-af-6
 LIGHT 0 line 641
 LIGHT -1 line 643
 zk--9
-af-6
-vj-6
 yd--2
 LIGHT 1 line 645
 LIGHT 1 line 647

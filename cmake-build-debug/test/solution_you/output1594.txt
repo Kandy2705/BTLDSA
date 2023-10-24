@@ -48,32 +48,32 @@ rk--10
 hc--6
 cr-6
 DOMAIN_EXPANSION line 50
-rk--10
-hc--6
-LIGHT -1 line 51
 vg-6
 cr-6
+LIGHT -1 line 51
+hc--6
+rk--10
 LIGHT 0 line 53
 LIGHT -1 line 55
 mz--9
-cr-6
-vg-6
+rk--10
+hc--6
 LIGHT -1 line 57
 mz--9
-vg-6
-cr-6
+hc--6
+rk--10
 LIGHT 1 line 59
 mz--9
-vg-6
-cr-6
+hc--6
+rk--10
 LIGHT 1 line 61
 mz--9
-vg-6
-cr-6
+hc--6
+rk--10
 LIGHT 1 line 63
 mz--9
-cr-6
-vg-6
+rk--10
+hc--6
 LIGHT -1 line 65
 dd-10
 LIGHT 1 line 67
@@ -233,54 +233,53 @@ di--3
 oy--8
 hy-4
 DOMAIN_EXPANSION line 152
-vv--9
+pk-9
+hy-4
+LIGHT 1 line 153
 nz--2
 di--3
 oy--8
-LIGHT 1 line 153
-pk-9
-hy-4
 LIGHT 1 line 155
-cn-1
-pk-9
-hy-4
+nz--2
+di--3
+oy--8
 LIGHT 1 line 157
-cn-1
-pk-9
-hy-4
+nz--2
+di--3
+oy--8
 LIGHT 1 line 159
-cn-1
-pk-9
-hy-4
+nz--2
+di--3
+oy--8
 LIGHT 1 line 161
-cn-1
-pk-9
-hy-4
+nz--2
+di--3
+oy--8
 LIGHT -1 line 163
-cn-1
-hy-4
-pk-9
+nz--2
+oy--8
+di--3
 LIGHT 1 line 165
-cn-1
-pk-9
-hy-4
+nz--2
+di--3
+oy--8
 LIGHT 0 line 167
-ig--3
-na-6
-lu-3
-DOMAIN_EXPANSION line 168
-ig--3
-LIGHT -1 line 169
+vv--9
 cn-1
-pk-9
-hy-4
+ig--3
+DOMAIN_EXPANSION line 168
+cn-1
+LIGHT -1 line 169
+nz--2
+di--3
+oy--8
 LIGHT 1 line 171
-lu-3
-na-6
+ig--3
+vv--9
 LIGHT -1 line 173
 ye--9
-lu-3
-na-6
+vv--9
+ig--3
 LIGHT -1 line 175
 LIGHT 1 line 177
 ss--7
@@ -348,10 +347,10 @@ jv--5
 vr--11
 zg-12
 DOMAIN_EXPANSION line 220
-jv--5
-vr--11
-LIGHT 1 line 221
 zg-12
+LIGHT 1 line 221
+vr--11
+jv--5
 LIGHT -1 line 223
 LIGHT -1 line 225
 LIGHT 0 line 227
@@ -810,13 +809,13 @@ jd--8
 pq-5
 ko--13
 DOMAIN_EXPANSION line 508
-rj--4
-ko--13
-jd--8
-LIGHT -1 line 509
 ba-14
 rt-1
 pq-5
+LIGHT -1 line 509
+rj--4
+ko--13
+jd--8
 LIGHT 1 line 511
 LIGHT 1 line 513
 hf-7
@@ -1253,13 +1252,14 @@ tr--6
 eh-11
 rj--13
 DOMAIN_EXPANSION line 772
-tr--6
-rj--13
-LIGHT -1 line 773
 eh-11
+LIGHT -1 line 773
+rj--13
+tr--6
 LIGHT -1 line 775
 fk-10
-eh-11
+rj--13
+tr--6
 LIGHT 1 line 777
 UNLIMITED_VOID line 778
 LIGHT 1 line 779
@@ -1330,15 +1330,15 @@ jz--7
 ua-9
 eh-6
 DOMAIN_EXPANSION line 834
+ua-9
+eh-6
+LIGHT 1 line 835
 bl--14
 jz--7
-LIGHT 1 line 835
-eh-6
-ua-9
 LIGHT -1 line 837
 oc-14
-eh-6
-ua-9
+bl--14
+jz--7
 LIGHT -1 line 839
 oc-14
 LIGHT 1 line 841

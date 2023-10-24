@@ -846,15 +846,15 @@ LIGHT 17 line 183
 jk-6
 jz--8
 DOMAIN_EXPANSION line 184
-jz--8
-LIGHT 1 line 185
 jk-6
+LIGHT 1 line 185
+jz--8
 LIGHT 19 line 187
 nw-12
-jk-6
+jz--8
 LIGHT -11 line 189
 bu--4
-jk-6
+jz--8
 nw-12
 LIGHT 4 line 191
 LIGHT -18 line 193

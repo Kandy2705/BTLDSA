@@ -50,83 +50,83 @@ ud-9
 if--7
 cf--8
 DOMAIN_EXPANSION line 36
-cf--8
-if--7
-LIGHT -6 line 37
-ud-9
 po-4
+ud-9
+LIGHT -6 line 37
+if--7
+cf--8
 LIGHT -9 line 39
 tz--6
-po-4
-ud-9
+cf--8
+if--7
 LIGHT -20 line 41
 yq-5
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 LIGHT -4 line 43
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 UNLIMITED_VOID line 44
-tz--6
+cf--8
 yq-5
-ud-9
-po-4
+tz--6
+if--7
 LIGHT -13 line 45
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 LIGHT -16 line 47
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 UNLIMITED_VOID line 48
-tz--6
+cf--8
 yq-5
-ud-9
-po-4
+tz--6
+if--7
 LIGHT -12 line 49
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 LIGHT -3 line 51
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 LIGHT -9 line 53
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 LIGHT -15 line 55
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 LIGHT 13 line 57
 nc-17
 yq-5
-ud-9
-po-4
 tz--6
+if--7
+cf--8
 LIGHT -14 line 59
 nc-17
+cf--8
+if--7
 tz--6
-po-4
-ud-9
 yq-5
 LIGHT 12 line 61
 nf--1
@@ -466,17 +466,16 @@ xc-7
 cs--5
 gq--17
 DOMAIN_EXPANSION line 196
+wc-3
+ua-10
+cf-14
+xc-7
+LIGHT 14 line 197
+ki--17
+cs--5
+gq--17
+LIGHT -10 line 199
+xe-10
 ki--17
 gq--17
 cs--5
-LIGHT 14 line 197
-wc-3
-cf-14
-xc-7
-ua-10
-LIGHT -10 line 199
-xe-10
-wc-3
-ua-10
-xc-7
-cf-14

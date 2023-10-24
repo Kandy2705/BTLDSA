@@ -166,63 +166,88 @@ dc-3
 iy--4
 fp-10
 DOMAIN_EXPANSION line 48
+ie-5
+fp-10
+dc-3
+ut-8
+uy-9
+LIGHT 1 line 49
 ds--11
+iy--4
+hx--10
+lj--2
+bg--1
+km--3
+rv--5
+pq--13
+UNLIMITED_VOID line 50
+pq--13
+ds--11
+iy--4
+hx--10
+lj--2
+bg--1
+km--3
+rv--5
+LIGHT -1 line 51
+ds--11
+pq--13
+rv--5
+km--3
 bg--1
 lj--2
 hx--10
 iy--4
+LIGHT -1 line 53
+bg--1
+lj--2
+hx--10
+iy--4
+ds--11
 pq--13
 rv--5
-km--3
-LIGHT 1 line 49
-ie-5
-fp-10
-dc-3
-uy-9
-ut-8
-UNLIMITED_VOID line 50
-dc-3
-uy-9
-ut-8
-ie-5
-LIGHT -1 line 51
-ie-5
-ut-8
-uy-9
-dc-3
-fp-10
-LIGHT -1 line 53
-ut-8
-dc-3
-fp-10
-ie-5
 LIGHT 1 line 55
-ut-8
-ie-5
-fp-10
-dc-3
+bg--1
+rv--5
+pq--13
+ds--11
+iy--4
+hx--10
+lj--2
 LIGHT -1 line 57
-ut-8
-ie-5
-fp-10
-dc-3
+bg--1
+rv--5
+pq--13
+ds--11
+iy--4
+hx--10
+lj--2
 DOMAIN_EXPANSION line 58
 LIGHT 1 line 59
-ut-8
-dc-3
-fp-10
-ie-5
+bg--1
+lj--2
+hx--10
+iy--4
+ds--11
+pq--13
+rv--5
 LIGHT 1 line 61
-ut-8
-dc-3
-fp-10
-ie-5
+bg--1
+lj--2
+hx--10
+iy--4
+ds--11
+pq--13
+rv--5
 DOMAIN_EXPANSION line 62
 LIGHT -1 line 63
-ut-8
-ie-5
-fp-10
-dc-3
+bg--1
+rv--5
+pq--13
+ds--11
+iy--4
+hx--10
+lj--2
 LIGHT 1 line 65
 UNLIMITED_VOID line 66
 LIGHT -1 line 67
@@ -497,53 +522,85 @@ wx--3
 hp--1
 sc--8
 DOMAIN_EXPANSION line 179
-hp--1
-wx--3
-sc--8
-LIGHT 1 line 180
 ed-9
+LIGHT 1 line 180
+wx--3
+hp--1
+sc--8
 LIGHT -1 line 182
 zb-1
-ed-9
+wx--3
+sc--8
+hp--1
 UNLIMITED_VOID line 183
+sc--8
+wx--3
+zb-1
+hp--1
 LIGHT -1 line 184
 zb-1
-ed-9
+wx--3
+sc--8
+hp--1
 LIGHT -1 line 186
 bm-14
 zb-1
-ed-9
+wx--3
+sc--8
+hp--1
 UNLIMITED_VOID line 187
+sc--8
+wx--3
+zb-1
+hp--1
 LIGHT -1 line 188
 bm-14
 zb-1
-ed-9
+wx--3
+sc--8
+hp--1
 LIGHT -1 line 190
 bm-14
 zb-1
-ed-9
+wx--3
+sc--8
+hp--1
 UNLIMITED_VOID line 191
+sc--8
+wx--3
+zb-1
+hp--1
 LIGHT -1 line 192
 bm-14
 zb-1
-ed-9
+wx--3
+sc--8
+hp--1
 LIGHT -1 line 194
 bm-14
-ed-9
+hp--1
+sc--8
+wx--3
 zb-1
 LIGHT 1 line 196
 dq--9
 bm-14
 zb-1
-ed-9
+wx--3
+sc--8
+hp--1
 LIGHT -1 line 198
 dq--9
-ed-9
+hp--1
+sc--8
+wx--3
 zb-1
 bm-14
 DOMAIN_EXPANSION line 199
-dq--9
-LIGHT -1 line 200
-ed-9
-zb-1
 bm-14
+zb-1
+LIGHT -1 line 200
+wx--3
+dq--9
+hp--1
+sc--8

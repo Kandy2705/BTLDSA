@@ -23,6 +23,29 @@ public:
         x = 0;
     };
 
+    ~imp_res(){
+        for(int i = 0; i < sokhachban + sokhachcho; i++){
+            customer* temp = ttvaonhaan;
+            ttvaonhaan = ttvaonhaan -> next;
+            delete temp;
+            //COUNTDELETE++;
+        }
+        for (int i = 0; i < sokhachcho; i++){
+            customer* temp = hangcho;
+            hangcho = hangcho -> next;
+            delete temp;
+            //COUNTDELETE++;
+        }
+        for (int i = 0; i < sokhachban; i++){
+            customer* temp = head;
+            head = head -> next;
+            delete temp;
+            //COUNTDELETE++;
+        }
+        sokhachban = sokhachcho = 0;
+        head = tail = hangcho = ttvaonhaan = vaocuoi = nullptr;
+    }
+
     int ENERGYX(){
         customer*temp = vitrix(x);
         return temp ->energy;
@@ -31,6 +54,7 @@ public:
 
     void them(int k, string name, int energy){
         customer *cus = new customer (name, energy, nullptr, nullptr);
+        //COUNTDELETE--;
         if (k == 1){
             if(sokhachban == 0) head = tail = cus;
             else{
@@ -78,6 +102,7 @@ public:
     }
     Node *taonode(int x){
         Node * newnode = new Node;
+        //COUNTDELETE--;
         newnode -> tieptheo = nullptr;
         newnode -> phiatruoc = nullptr;
         newnode -> data = x;
@@ -85,6 +110,7 @@ public:
     }
     void res(int energy, List *&l){
         l = new List();
+        //COUNTDELETE--;
         Init(l);
         customer *temp = head;
         if (l -> dau == nullptr){
@@ -143,6 +169,7 @@ public:
 /////////////////////////////////////////////////////////////////
     void push(string name, int energy){
         customer *cus = new customer (name, energy, nullptr, nullptr);
+        //COUNTDELETE--;
         customer * temp = hangcho;
         if (hangcho == nullptr){
             hangcho = cus;
@@ -162,6 +189,7 @@ public:
         hangcho = hangcho -> next;
         if (hangcho != nullptr) hangcho -> prev = nullptr;
         delete temp;
+        //COUNTDELETE++;
         sokhachcho--;
     }
     bool trungten(string n){
@@ -235,6 +263,14 @@ public:
                         them(vitri, name, energy);
                         x = vitri;
                     }
+                    for (int i = 0; i < sokhachban - 1; i++){
+                        Node* temp = l->dau;
+                        l->dau = l->dau -> tieptheo;
+                        delete temp;
+                        //COUNTDELETE++;
+                    }
+                    delete l;
+                    //COUNTDELETE++;
                 }
                 if (ttvaonhaan == nullptr ||timkiemcho(name,ttvaonhaan,sokhachcho+sokhachban)== nullptr)
                 themcuoi(name, energy);
@@ -250,6 +286,7 @@ public:
             xoakhoicho(timkiemcho(temp -> name, ttvaonhaan, sokhachban + sokhachcho), ttvaonhaan, sokhachcho+sokhachban);
             head = head -> next;
             delete temp;
+            //COUNTDELETE++;
             --sokhachban;
         }
         tail = nullptr;
@@ -257,7 +294,9 @@ public:
     }
 /////////////////////////////////////////////////////////////////
     void themcuoi(string name, int energy){
+
         customer * cus = new customer (name, energy, nullptr, nullptr);
+        //COUNTDELETE--;
         if (ttvaonhaan == nullptr){
             ttvaonhaan = vaocuoi = cus;
             return;
@@ -275,12 +314,14 @@ public:
             ttvaonhaan = ttvaonhaan -> next;
             ttvaonhaan -> prev = nullptr;
             delete temp;
+            //COUNTDELETE++;
         }
         else if (index == sokhachban + sokhachcho){
             customer *tempcuoi = vaocuoi;
             vaocuoi = vaocuoi -> prev;
             vaocuoi -> next = nullptr;
             delete tempcuoi;
+            //COUNTDELETE++;
         }
         else{
             for (int i = 1; i < index; i++){
@@ -289,6 +330,7 @@ public:
             temp -> next -> prev = temp -> prev;
             temp -> prev -> next = temp -> next;
             delete temp;
+            //COUNTDELETE++;
         }
     }
     /////////////////////////////////////////////////////////////////
@@ -347,6 +389,7 @@ public:
                     xoa(k);
                     customer *hi = head;
                     delete hi;
+                    //COUNTDELETE++;
                     head = tail = nullptr;
                 }
                 if (vitri == head) {
@@ -361,6 +404,7 @@ public:
                         customer *dautien = head;
                         head = head->next;
                         delete dautien;
+                        //COUNTDELETE++;
                         tail->next = head;
                         head->prev = tail;
                     }
@@ -371,6 +415,7 @@ public:
                         customer *cuoicung = tail;
                         tail = tail->prev;
                         delete cuoicung;
+                        //COUNTDELETE++;
                         tail->next = head;
                         head->prev = tail;
                     }
@@ -391,7 +436,7 @@ public:
                     dautien->next->prev = dautien->prev;
                     dautien->prev->next = dautien->next;
                     delete dautien;
-
+                    //COUNTDELETE++;
                     if (temp->energy > 0) {
                         x = x;
                     } else {
@@ -668,12 +713,14 @@ public:
         if (sokhachban == 1){
             customer*hi = head;
             delete hi;
+            //COUNTDELETE++;
             head = tail = nullptr;
             return;
         }
         if (vitri -> name == head -> name){
             head = head -> next;
             delete vitri;
+            //COUNTDELETE++;
             head -> prev = tail;
             tail -> next = head;
         }
@@ -681,6 +728,7 @@ public:
             customer *tempcuoi = tail;
             tail = tail -> prev;
             delete tempcuoi;
+            //COUNTDELETE++;
             head -> prev = tail;
             tail -> next = head;
         }
@@ -688,6 +736,7 @@ public:
             vitri -> next -> prev = vitri -> prev;
             vitri -> prev -> next = vitri -> next;
             delete vitri;
+            //COUNTDELETE++;
         }
     }
     void xoakhoicho(customer*vitri, customer*&hangcho, int sokhachcho){
@@ -695,6 +744,7 @@ public:
         if (sokhachcho == 1){
             customer*hi = hangcho;
             delete hi;
+            //COUNTDELETE++;
             if (hangcho == ttvaonhaan){
                 hangcho = nullptr;
                 vaocuoi = nullptr;
@@ -705,6 +755,7 @@ public:
         if (vitri -> name == hangcho -> name){
             hangcho = hangcho -> next;
             delete vitri;
+            //COUNTDELETE++;
         }
         else if (vitri -> next == nullptr){
             customer *tempcuoi = vitri;
@@ -715,11 +766,13 @@ public:
                 vaocuoi -> next = nullptr;
             }
             delete tempcuoi;
+            //COUNTDELETE++;
         }
         else{
             vitri -> next -> prev = vitri -> prev;
             vitri -> prev -> next = vitri -> next;
             delete vitri;
+            //COUNTDELETE++;
         }
     }
     int tragiatrix(customer*vitri){
@@ -772,6 +825,7 @@ public:
                             if (sokhachban + sokhachcho == 1) {
                                 customer *hi = ttvaonhaan;
                                 delete hi;
+                                //COUNTDELETE++;
                                 ttvaonhaan = vaocuoi = nullptr;
                                 sokhachban = 0;
                                 sokhachcho = 0;
@@ -795,6 +849,7 @@ public:
                             if (sokhachban + sokhachcho == 1) {
                                 customer *hi = ttvaonhaan;
                                 delete hi;
+                                //COUNTDELETE++;
                                 ttvaonhaan = vaocuoi = nullptr;
                                 sokhachban = 0;
                                 sokhachcho = 0;

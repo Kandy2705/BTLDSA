@@ -168,10 +168,10 @@ oz--5
 fu--1
 LIGHT 0 line 93
 DOMAIN_EXPANSION line 94
-oz--5
-fu--1
-LIGHT 1 line 95
 lj-4
+LIGHT 1 line 95
+fu--1
+oz--5
 LIGHT -1 line 97
 LIGHT -1 line 99
 fc--2
@@ -767,106 +767,146 @@ vx--7
 ah--10
 hc-7
 DOMAIN_EXPANSION line 308
-hq--2
-ah--10
-mv--14
-vx--7
+mh-11
+hc-7
+LIGHT 1 line 309
 tw--2
 hn--1
-LIGHT 1 line 309
-mh-11
-hc-7
+hq--2
+ah--10
+vx--7
+mv--14
 LIGHT 1 line 311
 sq-14
-hc-7
-mh-11
+hn--1
+hq--2
+ah--10
+vx--7
+mv--14
+tw--2
 LIGHT 1 line 313
 wz--15
 sq-14
-hc-7
-mh-11
+hn--1
+hq--2
+ah--10
+vx--7
+mv--14
+tw--2
 LIGHT -1 line 315
 qa-11
 wz--15
-mh-11
-hc-7
+tw--2
+mv--14
+vx--7
+ah--10
+hq--2
+hn--1
 sq-14
 DOMAIN_EXPANSION line 316
-wz--15
-LIGHT 1 line 317
-mh-11
 qa-11
 sq-14
-hc-7
+LIGHT 1 line 317
+hn--1
+hq--2
+ah--10
+vx--7
+mv--14
+tw--2
+wz--15
 LIGHT -1 line 319
 zq-1
-hc-7
-sq-14
-qa-11
-mh-11
+hn--1
+wz--15
+tw--2
+mv--14
+vx--7
+ah--10
+hq--2
 LIGHT 0 line 321
 DOMAIN_EXPANSION line 322
-mq--4
-LIGHT 1 line 323
-hc-7
 zq-1
-mh-11
-qa-11
-sq-14
+LIGHT 1 line 323
+hq--2
+ah--10
+vx--7
+mv--14
+tw--2
+wz--15
+hn--1
+mq--4
 LIGHT -1 line 325
 el--12
-sq-14
-qa-11
-mh-11
-zq-1
-hc-7
+mq--4
+hn--1
+wz--15
+tw--2
+mv--14
+vx--7
+ah--10
+hq--2
 LIGHT 1 line 327
 el--12
-hc-7
-zq-1
-mh-11
-qa-11
-sq-14
+hq--2
+ah--10
+vx--7
+mv--14
+tw--2
+wz--15
+hn--1
+mq--4
 LIGHT 0 line 329
 LIGHT 1 line 331
 ar-9
-hc-7
-zq-1
-mh-11
-qa-11
-sq-14
+hq--2
+ah--10
+vx--7
+mv--14
+tw--2
+wz--15
+hn--1
+mq--4
 el--12
 LIGHT -1 line 333
 ar-9
 el--12
-sq-14
-qa-11
-mh-11
-zq-1
-hc-7
+mq--4
+hn--1
+wz--15
+tw--2
+mv--14
+vx--7
+ah--10
+hq--2
 LIGHT 1 line 335
 gx-7
 ar-9
-hc-7
-zq-1
-mh-11
-qa-11
-sq-14
+hq--2
+ah--10
+vx--7
+mv--14
+tw--2
+wz--15
+hn--1
+mq--4
 el--12
 LIGHT 0 line 337
 DOMAIN_EXPANSION line 338
-on--5
-el--12
+gx-7
+ar-9
 LIGHT 0 line 339
 LIGHT -1 line 341
 jv--10
-qa-11
-mh-11
-zq-1
-hc-7
-ar-9
-gx-7
-sq-14
+on--5
+el--12
+mq--4
+hn--1
+wz--15
+tw--2
+mv--14
+vx--7
+ah--10
+hq--2
 LIGHT 1 line 343
 DOMAIN_EXPANSION line 344
 LIGHT 0 line 345
@@ -2170,17 +2210,17 @@ ml--15
 uu-3
 jb-14
 DOMAIN_EXPANSION line 994
-ny--14
-ml--15
-LIGHT 1 line 995
-uu-3
 jb-14
+uu-3
+LIGHT 1 line 995
+ml--15
+ny--14
 LIGHT 1 line 997
 yi-3
-jb-14
-uu-3
+ny--14
+ml--15
 LIGHT -1 line 999
 ft-14
 yi-3
-uu-3
-jb-14
+ml--15
+ny--14

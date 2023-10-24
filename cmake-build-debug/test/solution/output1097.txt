@@ -540,22 +540,21 @@ LIGHT 1 line 329
 ih--5
 gr-3
 DOMAIN_EXPANSION line 330
-ih--5
+gr-3
 LIGHT 0 line 331
 LIGHT 1 line 333
 nz-7
-gr-3
+ih--5
 LIGHT 0 line 335
 DOMAIN_EXPANSION line 336
+ih--5
 LIGHT 0 line 337
 LIGHT 1 line 339
 ji-8
-gr-3
 nz-7
 LIGHT 1 line 341
 ur--2
 ji-8
-gr-3
 nz-7
 LIGHT 0 line 343
 LIGHT 1 line 345
@@ -783,54 +782,62 @@ LIGHT -1 line 497
 ta--8
 LIGHT 0 line 499
 DOMAIN_EXPANSION line 500
-ta--8
-LIGHT -1 line 501
 nn-6
+LIGHT -1 line 501
+ta--8
 LIGHT 1 line 503
 op--4
-nn-6
+ta--8
 DOMAIN_EXPANSION line 504
-op--4
 LIGHT 0 line 505
 LIGHT -1 line 507
-nn-6
+op--4
+ta--8
 LIGHT 0 line 509
 LIGHT 1 line 511
 hp--5
-nn-6
+op--4
+ta--8
 ps--5
 LIGHT -1 line 513
 xj--8
 ps--5
-nn-6
+ta--8
+op--4
 hp--5
 LIGHT 1 line 515
 zv-3
 hp--5
-nn-6
+op--4
+ta--8
 ps--5
 xj--8
 LIGHT -1 line 517
 hm--3
 xj--8
 ps--5
-nn-6
+ta--8
+op--4
 hp--5
 zv-3
 LIGHT 1 line 519
 zv-3
+xj--8
 hm--3
 UNLIMITED_VOID line 520
 LIGHT 1 line 521
 zv-3
+xj--8
 hm--3
 LIGHT -1 line 523
 zd--15
 hm--3
+xj--8
 zv-3
 LIGHT 1 line 525
 zd--15
 hm--3
+xj--8
 zv-3
 LIGHT 0 line 527
 LIGHT 1 line 529
@@ -1089,16 +1096,16 @@ ff-8
 rw--3
 qx-6
 DOMAIN_EXPANSION line 612
-cr--12
-rw--3
+ff-8
+qx-6
 LIGHT 0 line 613
 LIGHT 1 line 615
-qx-6
-ff-8
+rw--3
+cr--12
 UNLIMITED_VOID line 616
 LIGHT -1 line 617
-qx-6
-ff-8
+rw--3
+cr--12
 LIGHT 0 line 619
 DOMAIN_EXPANSION line 620
 LIGHT -1 line 621
@@ -1126,48 +1133,48 @@ kj--7
 ko-5
 xi-4
 DOMAIN_EXPANSION line 646
-wv--8
-kj--7
-LIGHT 1 line 647
-ko-5
 xi-4
+ko-5
+LIGHT 1 line 647
+kj--7
+wv--8
 LIGHT 1 line 649
 ka--14
-ko-5
-xi-4
+kj--7
+wv--8
 LIGHT -1 line 651
 if--3
 ka--14
-xi-4
-ko-5
+wv--8
+kj--7
 UNLIMITED_VOID line 652
 ka--14
 if--3
-ko-5
-xi-4
+kj--7
+wv--8
 LIGHT -1 line 653
 if--3
 ka--14
-xi-4
-ko-5
+wv--8
+kj--7
 LIGHT -1 line 655
 jf-13
 if--3
 ka--14
-xi-4
-ko-5
+wv--8
+kj--7
 LIGHT 1 line 657
 eh--6
 jf-13
-ko-5
-xi-4
+kj--7
+wv--8
 ka--14
 if--3
 LIGHT 1 line 659
 eh--6
 jf-13
-ko-5
-xi-4
+kj--7
+wv--8
 ka--14
 if--3
 LIGHT 1 line 661
@@ -1770,7 +1777,7 @@ LIGHT -1 line 975
 gr-6
 fx--10
 DOMAIN_EXPANSION line 976
-fx--10
+gr-6
 LIGHT 0 line 977
 LIGHT 1 line 979
 LIGHT -1 line 981
