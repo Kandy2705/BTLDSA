@@ -22,7 +22,7 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "RED") // RED <NAME> <ENERGY>
         {
-            if (i == 6){
+            if (i == 94){
                 cout << "HELLO";
             }
             ss >> name;
@@ -32,7 +32,7 @@ void simulate(string filename, imp_res *r)
 
         else if (str == "BLUE") // BLUE <NUM>
         {
-            if (i == 14){
+            if (i == 93){
                 cout << "Hello";
             }
             ss >> num;
@@ -40,6 +40,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "PURPLE") // PURPLE
         {
+            if (i == 97){
+                cout << "Hello";
+            }
             r->PURPLE();
         }
         else if (str == "REVERSAL") // REVERSAL
@@ -189,8 +192,8 @@ int main(int argc, char *argv[])
         argc--;
     }
     {
-        int start = 1;
-        int end = 500;
+        int start = 617;
+        int end = 617;
         if (argc == 2)
         {
             argc = 1;

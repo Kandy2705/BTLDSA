@@ -400,7 +400,8 @@ public:
                 //dauhang = dauhang -> next;
                 pop();
                 RED(name, energy);
-                if (hangcho == nullptr) return;
+                if (hangcho == nullptr || sokhachban == MAXSIZE) return;
+
                 //if (dauhang == nullptr) return;
                 //dauhang = dauhang -> next;
             }
@@ -427,7 +428,7 @@ public:
             for (int j = i; j >= buocnhay ; j -= buocnhay){
                 customer* vitri1 = tim(ds, j);
                 customer* vitri2 = tim(ds,j - buocnhay);
-                if (abs(vitri1 -> energy) > abs(vitri2 -> energy) || abs(vitri1 -> energy) == abs(vitri2 -> energy) && diachi(vitri1 -> name) > diachi(vitri2 -> name) ){
+                if (abs(vitri1 -> energy) > abs(vitri2 -> energy) || abs(vitri1 -> energy) == abs(vitri2 -> energy) && diachi(vitri1 -> name) < diachi(vitri2 -> name) ){
                     swap(vitri1 -> energy,vitri2 -> energy);
                     swap(vitri1 -> name, vitri2 -> name);
                     solanswap++;
@@ -452,7 +453,31 @@ public:
     void PURPLE()
     {
         //cout << "purple"<< endl;
-
+        if (sokhachcho == 0 || sokhachcho == 1) return;
+        customer*temp = vaocuoi;
+        customer*vitrilonI = nullptr;
+        for(int i = 0; i < sokhachban + sokhachcho; i++){
+            if (timkiemcho(temp -> name, hangcho, sokhachcho) != nullptr && vitrilonI == nullptr){
+                vitrilonI = temp;
+            }
+            else if (timkiemcho(temp -> name, hangcho, sokhachcho) != nullptr && abs(temp -> energy) > abs(vitrilonI -> energy)){
+                vitrilonI = temp;
+            }
+            temp = temp -> prev;
+        }
+        int buocnhay = 0;
+        if (vitrilonI != nullptr){
+            customer*hangchotam = hangcho;
+            for(int i = 0; i < sokhachcho; i++){
+                if (hangchotam -> name == vitrilonI -> name){
+                    buocnhay = i + 1;
+                    break;
+                }
+                hangchotam = hangchotam -> next;
+            }
+        }
+        int N = shellsort(hangcho, buocnhay);
+        BLUE(N % MAXSIZE);
     }
 
     /////////////////////////////////////////////////////////////////////////////////////////////
@@ -659,7 +684,11 @@ public:
         if (sokhachcho == 1){
             customer*hi = hangcho;
             delete hi;
-            hangcho = nullptr;
+            if (hangcho == ttvaonhaan){
+                hangcho = nullptr;
+                vaocuoi = nullptr;
+            }
+            else hangcho = nullptr;
             return;
         }
         if (vitri -> name == hangcho -> name){
@@ -670,6 +699,10 @@ public:
             customer *tempcuoi = vitri;
             vitri = vitri -> prev;
             vitri -> next = nullptr;
+            if (hangcho == ttvaonhaan){
+                vaocuoi = vaocuoi -> prev;
+                vaocuoi -> next = nullptr;
+            }
             delete tempcuoi;
         }
         else{
