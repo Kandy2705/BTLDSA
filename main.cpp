@@ -22,9 +22,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "RED") // RED <NAME> <ENERGY>
         {
-            if (i == 94){
-                cout << "HELLO";
-            }
+//            if (i == 94){
+//                cout << "HELLO";
+//            }
             ss >> name;
             ss >> energy;
             r->RED(name, stoi(energy));
@@ -32,17 +32,17 @@ void simulate(string filename, imp_res *r)
 
         else if (str == "BLUE") // BLUE <NUM>
         {
-            if (i == 93){
-                cout << "Hello";
-            }
+//            if (i == 646){
+//                cout << "Hello";
+//            }
             ss >> num;
             r->BLUE(stoi(num));
         }
         else if (str == "PURPLE") // PURPLE
         {
-            if (i == 97){
-                cout << "Hello";
-            }
+//            if (i == 634){
+//                cout << "Hello";
+//            }
             r->PURPLE();
         }
         else if (str == "REVERSAL") // REVERSAL
@@ -60,9 +60,9 @@ void simulate(string filename, imp_res *r)
         }
         else if (str == "DOMAIN_EXPANSION") // DOMAIN_EXPANSION
         {
-                    if (i == 8){
-                cout << "Hello";
-            }
+//            if (i == 624){
+//                cout << "Hello";
+//            }
             solution << str << " "
                      << "line " << i << endl;
             r->DOMAIN_EXPANSION();
@@ -70,7 +70,9 @@ void simulate(string filename, imp_res *r)
         else // LIGHT <NUM>
         {
             ss >> num;
-
+//            if (i == 181){
+//                cout << "Hello";
+//            }
             solution << str << " " << num << " "
                      << "line " << i << endl;
             r->LIGHT(stoi(num));
@@ -192,8 +194,8 @@ int main(int argc, char *argv[])
         argc--;
     }
     {
-        int start = 617;
-        int end = 617;
+        int start = 2000;
+        int end = 2000;
         if (argc == 2)
         {
             argc = 1;

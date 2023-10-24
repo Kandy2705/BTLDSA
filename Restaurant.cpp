@@ -247,7 +247,7 @@ public:
         while (sokhachban != 0){
             if (head == nullptr && tail == nullptr) return;
             customer *temp = head;
-            xoakhoicho(timkiemcho(temp -> name, ttvaonhaan, sokhachban + sokhachban), ttvaonhaan, sokhachcho+sokhachban);
+            xoakhoicho(timkiemcho(temp -> name, ttvaonhaan, sokhachban + sokhachcho), ttvaonhaan, sokhachcho+sokhachban);
             head = head -> next;
             delete temp;
             --sokhachban;
@@ -295,15 +295,24 @@ public:
     customer*timkiem(string n){
         customer*temp = head;
         int i = 1;
-        while ((i != sokhachban) && (temp -> name != n)){
+        if (sokhachban == 0) return nullptr;
+        if (i == sokhachban && temp -> name != n) return nullptr;
+//        while (temp != head && (i != sokhachban + 1) && (temp -> name != n)){
+//            temp = temp -> next;
+//            i++;
+//        }
+        else if (temp -> name == n) return temp;
+        do{
             temp = temp -> next;
             i++;
-        }
+        }while(temp != head && (i != sokhachban + 1) && (temp -> name != n));
+        if (temp == head) return nullptr;
         return temp;
     }
     customer*timkiemcho(string n, customer*hangcho, int sokhachcho){
         customer*temp = hangcho;
         int i = 1;
+        if (sokhachcho == 0) return nullptr;
         if (i == sokhachcho && temp -> name != n) return nullptr;
         while(temp != nullptr && (i != sokhachcho + 1) && (temp -> name != n)){
             temp = temp -> next;
@@ -370,8 +379,9 @@ public:
                     } else {
                         x = sokhachban - 1;
                     }
-                    --sokhachban;
+
                     xoa(k);
+                    --sokhachban;
                 } else {
                     customer *dautien = head;
                     for (int j = 1; vitri != dautien; j++) {
@@ -381,13 +391,14 @@ public:
                     dautien->next->prev = dautien->prev;
                     dautien->prev->next = dautien->next;
                     delete dautien;
-                    --sokhachban;
+
                     if (temp->energy > 0) {
                         x = x;
                     } else {
                         x = x - 1;
                     }
                     xoa(k);
+                    --sokhachban;
                 }
             }
             if (sokhachcho == 0) return;
@@ -734,82 +745,73 @@ public:
         }
         return x;
     }
-    void xoatatcakhachban(bool dungsai){
+    void xoatatcakhachban(bool dungsai) {
         // tra head tail ttvaonhaan vaocuoi x
-        customer * temp = ttvaonhaan;
-        customer * temp1 = vaocuoi;
-
-        if(sokhachcho != 0){
-            int x = sokhachban + sokhachcho;
-            do{
-                if(daudangxet(temp1 -> energy) == dungsai){
-                   temp1-> print();
-                   temp1 = temp1->prev;
-                } else temp1 = temp1 -> prev;
-                x--;
-            }while(x != sokhachban);
-        }
-
-        if(sokhachban != 0){
-            int x = sokhachban;
-            do{
-                if (daudangxet(temp1->energy) == dungsai){
-                    temp1->print();
-                    temp1 = temp1->prev;
-                } else temp1 = temp1 -> prev;
-                x--;
-            }while(x != 0);
-        }
-        if (sokhachban != 0) {
+        customer *temp = ttvaonhaan;
+        customer *temp1 = vaocuoi;
+            if (sokhachban + sokhachcho != 0){
+                int x = sokhachban + sokhachcho;
+                do{
+                    if (daudangxet(temp1->energy) == dungsai) {
+                        temp1->print();
+                        temp1 = temp1->prev;
+                    } else temp1 = temp1->prev;
+                    x--;
+                } while (x != 0);
+            }
+        if (sokhachban + sokhachcho != 0) {
             int vitri = 1;
             do {
-                if (daudangxet(temp->energy) == dungsai) {
-                    //temp->print();
-                    x = tragiatrix(timkiem(temp->name));
-                    xoakhoiban(timkiem(temp->name));
-                    temp = temp->next;
-                    if (sokhachban + sokhachcho == 1){
-                        customer *hi = ttvaonhaan;
-                        delete hi;
-                        ttvaonhaan = vaocuoi = nullptr;
-                        sokhachban = 0;
+                if (timkiem(temp->name) != nullptr) {
+                    if (sokhachban != 0) {
+                        if (daudangxet(temp->energy) == dungsai) {
+                            //temp->print();
+                            x = tragiatrix(timkiem(temp->name));
+                            xoakhoiban(timkiem(temp->name));
+                            temp = temp->next;
+                            if (sokhachban + sokhachcho == 1) {
+                                customer *hi = ttvaonhaan;
+                                delete hi;
+                                ttvaonhaan = vaocuoi = nullptr;
+                                sokhachban = 0;
+                                sokhachcho = 0;
+                                vitri++;
+                                return;
+                            } else {
+                                xoa(vitri);// thứ tự vào bàn
+                                vitri--;
+                            }
+                            sokhachban--;
+                        } else temp = temp->next;
                         vitri++;
-                        return;
-                    } else {
-                        xoa(vitri);// thứ tự vào bàn
-                        vitri--;
                     }
-                    sokhachban--;
-                } else temp = temp->next;
-                vitri++;
-            } while (vitri != sokhachban + 1);
-        }
-        if (sokhachcho != 0) {
-            int vitrisau = sokhachban + 1;
-            do {
-                if (daudangxet(temp->energy) == dungsai) {
-                    //temp->print();
-                    //xoakhoihangcho
-                    xoakhoicho(timkiemcho(temp->name,hangcho,sokhachcho),hangcho,sokhachcho);
-                    temp = temp->next;
-                    if (sokhachban + sokhachcho == 1){
-                        customer *hi = ttvaonhaan;
-                        delete hi;
-                        ttvaonhaan = vaocuoi = nullptr;
-                        sokhachban = 0;
-                        vitrisau++;
-                        return;
-                    } else {
-                        xoa(vitrisau);
-                        vitrisau--;
+                } else {
+                    if (sokhachcho != 0) {
+                        if (daudangxet(temp->energy) == dungsai) {
+                            //temp->print();
+                            //xoakhoihangcho
+                            xoakhoicho(timkiemcho(temp->name, hangcho, sokhachcho), hangcho, sokhachcho);
+                            temp = temp->next;
+                            if (sokhachban + sokhachcho == 1) {
+                                customer *hi = ttvaonhaan;
+                                delete hi;
+                                ttvaonhaan = vaocuoi = nullptr;
+                                sokhachban = 0;
+                                sokhachcho = 0;
+                                vitri++;
+                                return;
+                            } else {
+                                xoa(vitri);
+                                vitri--;
+                            }
+                            sokhachcho--;
+                        } else temp = temp->next;
+                        vitri++;
                     }
-                    sokhachcho--;
-                } else temp = temp->next;
-                vitrisau++;
-            } while (vitrisau != sokhachban + sokhachcho + 1);
+                }
+            } while (vitri != sokhachban + sokhachcho + 1);
         }
     }
-
     void DOMAIN_EXPANSION()
     {
         //cout << "domain_expansion" << endl;
